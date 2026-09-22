@@ -1,10 +1,10 @@
 {
-  "name": "LSKP Trainer – Testversion 1.0",
+  "name": "LSKP Trainer – Testversion 1.1",
   "short_name": "LSKP",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#071b36",
-  "theme_color": "#071b36",
+  "background_color": "#061a31",
+  "theme_color": "#082a4b",
   "icons": [
     {
       "src": "icon.png",

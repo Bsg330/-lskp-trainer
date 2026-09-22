@@ -2,131 +2,701 @@
   {
     "id": "11231-001",
     "module": "11.2.3.1",
-    "question": "Ein technisches Kontrollverfahren erzeugt einen Alarm. Was bedeutet das zunächst?",
+    "question": "Was ist bei einem ausgelösten Alarm entscheidend?",
     "answers": [
-      "Ein verbotener Gegenstand wurde sicher gefunden.",
-      "Es besteht Klärungsbedarf; die Ursache muss nach dem vorgesehenen Verfahren aufgeklärt werden.",
-      "Die Person darf sofort passieren.",
-      "Eine plausible Erklärung beendet die Kontrolle."
+      "Ignorieren, wenn die Person bekannt ist",
+      "Alarmursache nach dem vorgesehenen Verfahren klären",
+      "Nur den Ausweis prüfen",
+      "Kontrolle sofort beenden"
     ],
     "correct": 1,
-    "explanation": "Ein Alarm ist zunächst ein klärungsbedürftiges Ergebnis."
+    "explanation": "Ein Alarm muss nach dem vorgesehenen Kontrollverfahren geklärt werden.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
   },
   {
     "id": "11231-002",
     "module": "11.2.3.1",
-    "question": "Eine manuelle Personenkontrolle wird unterbrochen. Was ist für die Fortsetzung entscheidend?",
+    "question": "Warum müssen Kontrollverfahren konsequent angewendet werden?",
     "answers": [
-      "Nur die letzte Stelle wird wiederholt.",
-      "Die Person entscheidet, wo weitergemacht wird.",
-      "Die vollständige Durchführung aller vorgesehenen Kontrollbereiche muss sichergestellt sein.",
-      "Die Kontrolle gilt automatisch als beendet."
+      "Nur wegen der Geschwindigkeit",
+      "Für ein einheitliches Sicherheitsniveau",
+      "Nur bei unbekannten Personen",
+      "Damit Technik entfallen kann"
     ],
-    "correct": 2,
-    "explanation": "Entscheidend ist die lückenlose Vollständigkeit der vorgesehenen Kontrolle."
+    "correct": 1,
+    "explanation": "Standardisierte Verfahren unterstützen ein verlässliches Sicherheitsniveau.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
   },
   {
     "id": "11231-003",
     "module": "11.2.3.1",
-    "question": "Nach abgeschlossener Personenkontrolle nimmt die Person einen noch nicht kontrollierten Gegenstand auf. Was gilt?",
+    "question": "Was ist bei einer unterbrochenen Kontrolle wichtig?",
     "answers": [
-      "Die Personenkontrolle reicht aus.",
-      "Der Gegenstand benötigt den vorgesehenen Kontrollstatus.",
-      "Nur das Eigentum ist entscheidend.",
-      "Eine mündliche Erklärung genügt."
+      "Alles gilt als erledigt",
+      "Vollständigkeit muss nachvollziehbar bleiben",
+      "Nur der letzte Schritt zählt",
+      "Die Kontrolle gilt automatisch als bestanden"
     ],
     "correct": 1,
-    "explanation": "Person und mitgeführter Gegenstand können unterschiedliche Kontrollwege haben."
+    "explanation": "Es muss klar bleiben, welche Kontrollschritte erledigt wurden und welche noch ausstehen.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
   },
   {
     "id": "11231-004",
     "module": "11.2.3.1",
-    "question": "Bei der manuellen Kontrolle fällt eine Stelle besonders auf. Was gilt für den Rest?",
+    "question": "Was gehört zu professionellem Verhalten an der Kontrollstelle?",
     "answers": [
-      "Nur diese Stelle wird kontrolliert.",
-      "Die Auffälligkeit ersetzt den Kontrollablauf.",
-      "Die vollständige vorgesehene Kontrolle bleibt erforderlich.",
-      "Unauffällige Bereiche dürfen ausgelassen werden."
+      "Verfahren persönlich ändern",
+      "Ruhig kommunizieren und vorgesehene Abläufe einhalten",
+      "Bekannte Personen ausnehmen",
+      "Bei Andrang Schritte überspringen"
     ],
-    "correct": 2,
-    "explanation": "Eine Auffälligkeit ersetzt nicht die vollständige systematische Kontrolle."
+    "correct": 1,
+    "explanation": "Ruhige Kommunikation und konsequente Verfahrensanwendung gehören zur professionellen Kontrollarbeit.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
   },
   {
     "id": "11231-005",
     "module": "11.2.3.1",
-    "question": "Ein früher Kontrollschritt ist unauffällig, ein späterer erzeugt Klärungsbedarf. Was gilt?",
+    "question": "Welche Aussage zur manuellen Kontrolle trifft am ehesten zu?",
     "answers": [
-      "Der erste beendet die Kontrolle.",
-      "Der spätere Klärungsbedarf muss bearbeitet werden.",
-      "Beide heben sich auf.",
-      "Die Person wählt das Ergebnis."
+      "Sie ersetzt jede Technik automatisch",
+      "Sie ist entsprechend dem vorgesehenen Verfahren vollständig durchzuführen",
+      "Sie gilt nur für unbekannte Personen",
+      "Sie darf bei Zeitdruck abgekürzt werden"
     ],
     "correct": 1,
-    "explanation": "Ein früheres unauffälliges Ergebnis macht späteren Klärungsbedarf nicht unwirksam."
+    "explanation": "Manuelle Kontrollen sind entsprechend dem vorgesehenen Verfahren durchzuführen.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
   },
   {
     "id": "11231-006",
     "module": "11.2.3.1",
-    "question": "Nach Abschluss ist unklar, ob ein vorgesehener Bereich kontrolliert wurde. Was ist richtig?",
+    "question": "Was ist bei sicherheitsrelevanten Auffälligkeiten grundsätzlich richtig?",
     "answers": [
-      "Er gilt automatisch als kontrolliert.",
-      "Die Vollständigkeit muss sichergestellt werden.",
-      "Die Person kann dies bestätigen.",
-      "Ohne erinnerlichen Alarm ist nichts nötig."
+      "Ignorieren",
+      "Nach dem vorgesehenen Verfahren reagieren und erforderlichenfalls melden",
+      "Nur privat notieren",
+      "Kontrolle abbrechen und Person weiterlassen"
     ],
     "correct": 1,
-    "explanation": "Bei fehlender Gewissheit muss die erforderliche Vollständigkeit hergestellt werden."
+    "explanation": "Auffälligkeiten sind regelkonform zu behandeln.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
   },
   {
     "id": "11231-007",
     "module": "11.2.3.1",
-    "question": "Ein Alarm wurde geklärt, ein anderer Schritt erzeugt neuen unabhängigen Klärungsbedarf. Was gilt?",
+    "question": "Warum ist Aufmerksamkeit auch bei Routinekontrollen wichtig?",
     "answers": [
-      "Der erste erledigt alles.",
-      "Nur das erste Ergebnis zählt.",
-      "Auch der neue Klärungsbedarf muss geklärt werden.",
-      "Die Person entscheidet."
+      "Routine ersetzt Kontrolle",
+      "Auch wiederkehrende Abläufe können Auffälligkeiten enthalten",
+      "Nur neue Personen zählen",
+      "Nur Technik trägt Verantwortung"
     ],
-    "correct": 2,
-    "explanation": "Ein geklärtes Ergebnis beseitigt keinen unabhängigen neuen Klärungsbedarf."
+    "correct": 1,
+    "explanation": "Routine darf nicht zu nachlassender Aufmerksamkeit führen.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
   },
   {
     "id": "11231-008",
     "module": "11.2.3.1",
-    "question": "Ein kontrollierter Gegenstand war zwischenzeitlich nicht mehr gegen Zugriff gesichert. Was ist zentral?",
+    "question": "Was ist das Ziel einer Sicherheitskontrolle von Personen und mitgeführten Gegenständen?",
     "answers": [
-      "Sein sicherer Kontrollstatus muss wieder gewährleistet werden.",
-      "Die alte Kontrolle gilt immer weiter.",
-      "Nur der Ausweis wird geprüft.",
-      "Eine Versicherung reicht."
+      "Arbeitszeiten prüfen",
+      "Sicherheitsrelevante Gegenstände bzw. Gefahren erkennen",
+      "Nur Ausweise zählen",
+      "Nur Gepäckgewicht prüfen"
     ],
-    "correct": 0,
-    "explanation": "Ist die Integrität nicht mehr gewährleistet, muss der sichere Kontrollstatus entsprechend wiederhergestellt werden."
+    "correct": 1,
+    "explanation": "Die Kontrolle dient der Luftsicherheit.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
   },
   {
     "id": "11231-009",
     "module": "11.2.3.1",
-    "question": "Während der Alarmauflösung legt die Person einen Gegenstand ab und nimmt ihn danach wieder mit. Was muss gelten?",
+    "question": "Was sollte bei Unsicherheit über das weitere Vorgehen geschehen?",
     "answers": [
-      "Nur die Person muss unauffällig sein.",
-      "Der Gegenstand wurde im erforderlichen Kontrollverfahren berücksichtigt.",
-      "Ablegen macht ihn automatisch unbedenklich.",
-      "Eine Beschreibung ersetzt die Kontrolle."
+      "Eigene Regeln erfinden",
+      "Nach den geltenden Verfahren handeln bzw. zuständige Stelle einbeziehen",
+      "Immer freigeben",
+      "Kontrolle heimlich verkürzen"
     ],
     "correct": 1,
-    "explanation": "Auch ein abgelegter und wieder mitgeführter Gegenstand benötigt den erforderlichen Kontrollstatus."
+    "explanation": "Bei Unsicherheit sind die vorgesehenen Verfahren und Meldewege maßgeblich.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
   },
   {
     "id": "11231-010",
     "module": "11.2.3.1",
-    "question": "Kontrollergebnisse sind widersprüchlich oder nicht eindeutig erklärbar. Welches Grundprinzip gilt?",
+    "question": "Welche Aussage zur Sicherheitskultur ist richtig?",
     "answers": [
-      "Das günstigste Ergebnis zählt.",
-      "Das letzte ersetzt alle vorherigen.",
-      "Der relevante Klärungsbedarf wird mit den vorgesehenen Verfahren weiter bearbeitet.",
-      "Die Person entscheidet."
+      "Sie betrifft nur Führungskräfte",
+      "Sie unterstützt Aufmerksamkeit, Regelkonformität und Meldebereitschaft",
+      "Sie ersetzt Kontrollen",
+      "Sie gilt nur bei Alarm"
+    ],
+    "correct": 1,
+    "explanation": "Sicherheitskultur ist Bestandteil verlässlicher Luftsicherheitsarbeit.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
+  },
+  {
+    "id": "11232-001",
+    "module": "11.2.3.2",
+    "question": "Was ist ein zentrales Ziel von Sicherheitskontrollen bei Fracht und Post?",
+    "answers": [
+      "Transportzeit verkürzen",
+      "Gefahren erkennen und Sicherheitsstatus schützen",
+      "Nur Gewicht prüfen",
+      "Nur Verpackung bewerten"
+    ],
+    "correct": 1,
+    "explanation": "Sicherheitskontrollen sollen Gefahren erkennen und die sichere Beförderung unterstützen.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.2"
+  },
+  {
+    "id": "11232-002",
+    "module": "11.2.3.2",
+    "question": "Warum muss kontrollierte Fracht vor unbefugtem Zugriff geschützt werden?",
+    "answers": [
+      "Schneller verladen",
+      "Sicherheitsstatus erhalten",
+      "Dokumentation vermeiden",
+      "Wiegen vermeiden"
+    ],
+    "correct": 1,
+    "explanation": "Der Schutz vor unbefugtem Zugriff bewahrt den festgestellten Sicherheitsstatus.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.2"
+  },
+  {
+    "id": "11232-003",
+    "module": "11.2.3.2",
+    "question": "Was ist bei einer auffälligen Sendung grundsätzlich richtig?",
+    "answers": [
+      "Ignorieren",
+      "Nach vorgesehenem Sicherheitsverfahren handeln",
+      "Selbst reparieren",
+      "Automatisch freigeben"
+    ],
+    "correct": 1,
+    "explanation": "Auffälligkeiten sind nach den festgelegten Sicherheitsverfahren zu behandeln.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.2"
+  },
+  {
+    "id": "11232-004",
+    "module": "11.2.3.2",
+    "question": "Was gilt bei Zweifeln am Sicherheitsstatus?",
+    "answers": [
+      "Freigeben",
+      "Vor Freigabe nach vorgesehenem Verfahren klären",
+      "Kennzeichnung selbst ändern",
+      "Nur Empfänger fragen"
+    ],
+    "correct": 1,
+    "explanation": "Ein unklarer Sicherheitsstatus muss geklärt werden.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.2"
+  },
+  {
+    "id": "11232-005",
+    "module": "11.2.3.2",
+    "question": "Welche Rolle spielt Dokumentation?",
+    "answers": [
+      "Keine",
+      "Erforderliche Sicherheitsinformationen müssen nachvollziehbar sein",
+      "Sie ersetzt Kontrolle",
+      "Nur mündliche Angaben zählen"
+    ],
+    "correct": 1,
+    "explanation": "Nachvollziehbarkeit ist Teil der Sicherheitskette.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.2"
+  },
+  {
+    "id": "11232-006",
+    "module": "11.2.3.2",
+    "question": "Wovon hängt das anzuwendende Kontrollverfahren ab?",
+    "answers": [
+      "Nur Tageszeit",
+      "Von geltenden Vorgaben und Kontrollaufgabe",
+      "Nur Fahrer",
+      "Nur Gewicht"
+    ],
+    "correct": 1,
+    "explanation": "Das Verfahren richtet sich nach Vorgaben und konkreter Aufgabe.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.2"
+  },
+  {
+    "id": "11232-007",
+    "module": "11.2.3.2",
+    "question": "Was unterstützt gute Sicherheitskultur?",
+    "answers": [
+      "Auffälligkeiten übersehen",
+      "Regelkonformes Verhalten und angemessenes Melden",
+      "Technik ersetzen",
+      "Nur neue Mitarbeiter kontrollieren"
+    ],
+    "correct": 1,
+    "explanation": "Sicherheitskultur stärkt Aufmerksamkeit und Meldeverhalten.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.2"
+  },
+  {
+    "id": "11232-008",
+    "module": "11.2.3.2",
+    "question": "Was ist nach einer Unterbrechung wichtig?",
+    "answers": [
+      "Automatisch freigeben",
+      "Vollständigkeit und Nachvollziehbarkeit sicherstellen",
+      "Nur letzten Schritt wiederholen",
+      "Sendung unbeaufsichtigt lassen"
+    ],
+    "correct": 1,
+    "explanation": "Auch nach Unterbrechungen muss die Kontrolle vollständig nachvollziehbar bleiben.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.2"
+  },
+  {
+    "id": "11233-001",
+    "module": "11.2.3.3",
+    "question": "Was ist ein wesentliches Ziel der Kontrolle von Flughafenlieferungen und Bordvorräten?",
+    "answers": [
+      "Nur Lieferzeit prüfen",
+      "Einbringen unzulässiger Gegenstände verhindern",
+      "Nur Rechnungen prüfen",
+      "Nur Fahrer begrüßen"
+    ],
+    "correct": 1,
+    "explanation": "Die Sicherheitsmaßnahmen sollen das Einbringen unzulässiger Gegenstände verhindern.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-002",
+    "module": "11.2.3.3",
+    "question": "Was ist bei auffälliger oder beschädigter Verpackung richtig?",
+    "answers": [
+      "Weiterleiten",
+      "Nach vorgesehenem Sicherheitsverfahren behandeln",
+      "Verdecken",
+      "Automatisch freigeben"
+    ],
+    "correct": 1,
+    "explanation": "Auffälligkeiten sind nach festgelegten Verfahren zu klären.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-003",
+    "module": "11.2.3.3",
+    "question": "Warum muss kontrollierte Ware geschützt werden?",
+    "answers": [
+      "Nur Diebstahlschutz",
+      "Sicherheitsstatus erhalten",
+      "Kennzeichnung vermeiden",
+      "Dokumentation vermeiden"
+    ],
+    "correct": 1,
+    "explanation": "Schutz vor unbefugtem Zugriff erhält den Sicherheitsstatus.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-004",
+    "module": "11.2.3.3",
+    "question": "Was gilt bei Zweifeln an einer Lieferung?",
+    "answers": [
+      "Freigeben",
+      "Vor Weitergabe nach vorgesehenem Verfahren klären",
+      "Nur Fahrer fragen",
+      "Kennzeichnung entfernen"
+    ],
+    "correct": 1,
+    "explanation": "Unklarheiten sind vor Freigabe zu klären.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-005",
+    "module": "11.2.3.3",
+    "question": "Welche Aussage ist richtig?",
+    "answers": [
+      "Bekannte Lieferanten sind immer ausgenommen",
+      "Maßnahmen richten sich nach Vorgaben und Sicherheitsstatus",
+      "Nur Sichtkontrolle ist zulässig",
+      "Kontrollen sind freiwillig"
+    ],
+    "correct": 1,
+    "explanation": "Erforderliche Maßnahmen richten sich nach den geltenden Vorgaben.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-006",
+    "module": "11.2.3.3",
+    "question": "Was gehört zu guter Sicherheitskultur?",
+    "answers": [
+      "Auffälligkeiten übersehen",
+      "Auffälligkeiten erkennen und über vorgesehene Wege melden",
+      "Regeln bei Zeitdruck aussetzen",
+      "Nur neue Lieferanten beachten"
+    ],
+    "correct": 1,
+    "explanation": "Aufmerksamkeit und regelkonformes Melden gehören dazu.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-007",
+    "module": "11.2.3.3",
+    "question": "Warum sind Rechtskenntnisse wichtig?",
+    "answers": [
+      "Nur für Ausbilder",
+      "Damit verbindliche Sicherheitsanforderungen korrekt angewandt werden",
+      "Nur Personalabteilung",
+      "Für Praxis bedeutungslos"
+    ],
+    "correct": 1,
+    "explanation": "Kontrollpersonal muss relevante Anforderungen kennen.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-008",
+    "module": "11.2.3.3",
+    "question": "Was ist nach einer Kontrolle wesentlich?",
+    "answers": [
+      "Ware beliebig zugänglich lassen",
+      "Sicherheitsstatus bis zur Weitergabe schützen",
+      "Dokumentation vernichten",
+      "Kontrolle vergessen"
+    ],
+    "correct": 1,
+    "explanation": "Der erreichte Sicherheitsstatus muss geschützt bleiben.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11234-001",
+    "module": "11.2.3.4",
+    "question": "Was ist das Hauptziel einer Fahrzeugkontrolle vor Zugang zu einem Sicherheitsbereich?",
+    "answers": [
+      "Motorzustand prüfen",
+      "Sicherheitsrelevante Auffälligkeiten bzw. unzulässige Gegenstände erkennen",
+      "Verbrauch prüfen",
+      "Fahrzeugwäsche prüfen"
+    ],
+    "correct": 1,
+    "explanation": "Fahrzeugkontrollen dienen der Luftsicherheit.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.4"
+  },
+  {
+    "id": "11234-002",
+    "module": "11.2.3.4",
+    "question": "Welche Aussage zur Fahrzeugkontrolle ist richtig?",
+    "answers": [
+      "Bei bekannten Fahrern entfällt sie immer",
+      "Sie ist nach geltenden Verfahren durchzuführen",
+      "Nur Innenraum zählt",
+      "Zeitdruck erlaubt Auslassen"
+    ],
+    "correct": 1,
+    "explanation": "Die Kontrolle richtet sich nach festgelegten Sicherheitsverfahren.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.4"
+  },
+  {
+    "id": "11234-003",
+    "module": "11.2.3.4",
+    "question": "Was ist bei einer sicherheitsrelevanten Auffälligkeit zu tun?",
+    "answers": [
+      "Ignorieren",
+      "Nach vorgesehenem Verfahren klären und erforderlichenfalls melden",
+      "Fahrer allein entscheiden lassen",
+      "Unbeaufsichtigt lassen"
+    ],
+    "correct": 1,
+    "explanation": "Auffälligkeiten werden nach dem vorgesehenen Verfahren behandelt.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.4"
+  },
+  {
+    "id": "11234-004",
+    "module": "11.2.3.4",
+    "question": "Warum ist systematisches Vorgehen wichtig?",
+    "answers": [
+      "Nur sichtbare Bereiche prüfen",
+      "Vollständigkeit und Nachvollziehbarkeit",
+      "Nur Geschwindigkeit",
+      "Kommunikation vermeiden"
+    ],
+    "correct": 1,
+    "explanation": "Systematisches Vorgehen unterstützt eine vollständige Kontrolle.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.4"
+  },
+  {
+    "id": "11234-005",
+    "module": "11.2.3.4",
+    "question": "Was gilt für die Zugangsberechtigung?",
+    "answers": [
+      "Bekanntheit genügt",
+      "Geltende Zugangs- und Kontrollvoraussetzungen müssen erfüllt sein",
+      "Nur Kennzeichen zählt",
+      "Dienstfahrzeuge sind immer ausgenommen"
+    ],
+    "correct": 1,
+    "explanation": "Zugang setzt vorgesehene Berechtigungen und Maßnahmen voraus.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.4"
+  },
+  {
+    "id": "11234-006",
+    "module": "11.2.3.4",
+    "question": "Was ist bei einer Unterbrechung wichtig?",
+    "answers": [
+      "Automatisch abgeschlossen",
+      "Vollständigen Kontrollumfang nachvollziehbar halten",
+      "Nur Fahrer unterschreiben lassen",
+      "Nur letzten Bereich ansehen"
+    ],
+    "correct": 1,
+    "explanation": "Nach Unterbrechungen muss vollständige Durchführung sichergestellt sein.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.4"
+  },
+  {
+    "id": "11234-007",
+    "module": "11.2.3.4",
+    "question": "Was beschreibt professionelles Verhalten?",
+    "answers": [
+      "Bekanntschaft entscheidet",
+      "Sachlich kommunizieren und Verfahren anwenden",
+      "Bei Andrang aussetzen",
+      "Nur Fremdfirmen kontrollieren"
+    ],
+    "correct": 1,
+    "explanation": "Professionelle Kontrollen sind sachlich und regelkonform.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.4"
+  },
+  {
+    "id": "11234-008",
+    "module": "11.2.3.4",
+    "question": "Warum ist Aufmerksamkeit bei Routine wichtig?",
+    "answers": [
+      "Routine ersetzt Kontrolle",
+      "Auch wiederkehrende Abläufe können Auffälligkeiten enthalten",
+      "Nur neue Fahrzeuge zählen",
+      "Nur Technik ist verantwortlich"
+    ],
+    "correct": 1,
+    "explanation": "Routine darf nicht zu nachlassender Aufmerksamkeit führen.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.4"
+  },
+  {
+    "id": "11235-001",
+    "module": "11.2.3.5",
+    "question": "Was ist das Ziel einer Zugangskontrolle?",
+    "answers": [
+      "Besucher zählen",
+      "Unberechtigten Zugang verhindern",
+      "Arbeitszeiten prüfen",
+      "Nur Fahrzeuge registrieren"
+    ],
+    "correct": 1,
+    "explanation": "Zugangskontrollen sollen unberechtigten Zugang verhindern.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-002",
+    "module": "11.2.3.5",
+    "question": "Was verlangt § 10 LuftSiG vom Ausweisinhaber im Sicherheitsbereich?",
+    "answers": [
+      "Ausweis verdeckt tragen",
+      "Ausweis offen sichtbar tragen",
+      "Ausweis weitergeben",
+      "Verlust erst später melden"
+    ],
+    "correct": 1,
+    "explanation": "§ 10 LuftSiG verlangt das offene sichtbare Tragen.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-003",
+    "module": "11.2.3.5",
+    "question": "Darf ein Flughafenausweis einem Dritten überlassen werden?",
+    "answers": [
+      "Ja, Kollegen",
+      "Ja, kurzzeitig",
+      "Nein",
+      "Nur nachts"
     ],
     "correct": 2,
-    "explanation": "Maßgeblich ist die ausreichende Bearbeitung des sicherheitsrelevanten Klärungsbedarfs."
+    "explanation": "Nach § 10 LuftSiG darf der Ausweis keinem Dritten überlassen werden.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-004",
+    "module": "11.2.3.5",
+    "question": "Was ist bei unklarer Zugangsberechtigung grundsätzlich richtig?",
+    "answers": [
+      "Ignorieren",
+      "Nach vorgesehenem Verfahren Berechtigung klären",
+      "Nur grüßen",
+      "Am nächsten Tag melden"
+    ],
+    "correct": 1,
+    "explanation": "Unklare Berechtigungen sind nach den vorgesehenen Verfahren zu klären.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-005",
+    "module": "11.2.3.5",
+    "question": "Welchen Zweck haben Streifengänge?",
+    "answers": [
+      "Nur Wegezeit erfassen",
+      "Sicherheitsrelevante Auffälligkeiten erkennen und angemessen reagieren",
+      "Nur Technik zählen",
+      "Nur Fundsachen sammeln"
+    ],
+    "correct": 1,
+    "explanation": "Streifengänge unterstützen Überwachung und Erkennung von Auffälligkeiten.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-006",
+    "module": "11.2.3.5",
+    "question": "Was ist bei Verlust eines Flughafenausweises vorgesehen?",
+    "answers": [
+      "Nichts",
+      "Unverzüglich der Ausgabestelle anzeigen",
+      "Fremden Ausweis nutzen",
+      "Nach einer Woche melden"
+    ],
+    "correct": 1,
+    "explanation": "§ 10 LuftSiG verlangt die unverzügliche Anzeige.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-007",
+    "module": "11.2.3.5",
+    "question": "Welche Aussage ist richtig?",
+    "answers": [
+      "Bekannte Personen brauchen keine Berechtigung",
+      "Zugang zu geschützten Bereichen setzt erforderliche Berechtigung voraus",
+      "Uniform ersetzt immer Ausweis",
+      "Mündliche Zusage genügt immer"
+    ],
+    "correct": 1,
+    "explanation": "Unberechtigter Zugang ist nach § 10 LuftSiG verboten.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-008",
+    "module": "11.2.3.5",
+    "question": "Was gehört zu professionellem Streifendienst?",
+    "answers": [
+      "Auffälligkeiten ignorieren",
+      "Beobachten, nach Vorgaben reagieren und erforderlichenfalls melden",
+      "Nur bekannte Personen beachten",
+      "Regeln selbst ändern"
+    ],
+    "correct": 1,
+    "explanation": "Streifendienst verlangt Aufmerksamkeit und regelkonformes Handeln.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "LAW-001",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche EU-Verordnung legt gemeinsame Vorschriften für die Sicherheit in der Zivilluftfahrt fest?",
+    "answers": [
+      "VO (EG) Nr. 300/2008",
+      "DSGVO",
+      "VO (EG) 261/2004",
+      "StVO"
+    ],
+    "correct": 0,
+    "explanation": "Die VO (EG) Nr. 300/2008 enthält gemeinsame Grundvorschriften.",
+    "legal": "LuftSiG / LuftSiSchulV / EU-Luftsicherheitsrecht"
+  },
+  {
+    "id": "LAW-002",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche Vorschrift enthält detaillierte Maßnahmen zur Durchführung der gemeinsamen Grundstandards?",
+    "answers": [
+      "DVO (EU) 2015/1998",
+      "BGB",
+      "ArbZG",
+      "StVO"
+    ],
+    "correct": 0,
+    "explanation": "Die DVO (EU) 2015/1998 konkretisiert die gemeinsamen Grundstandards.",
+    "legal": "LuftSiG / LuftSiSchulV / EU-Luftsicherheitsrecht"
+  },
+  {
+    "id": "LAW-003",
+    "module": "Rechtsgrundlagen",
+    "question": "Worauf verweist § 7 LuftSiSchulV für Schulungsinhalte?",
+    "answers": [
+      "Auf 11.2.3.1 bis 11.2.7 der DVO (EU) 2015/1998",
+      "Nur betriebliche Aushänge",
+      "Nur BGB",
+      "Nur Tarifverträge"
+    ],
+    "correct": 0,
+    "explanation": "§ 7 LuftSiSchulV richtet die Schulungsinhalte danach aus.",
+    "legal": "LuftSiG / LuftSiSchulV / EU-Luftsicherheitsrecht"
+  },
+  {
+    "id": "LAW-004",
+    "module": "Rechtsgrundlagen",
+    "question": "Was beschreibt § 8 LuftSiG unter anderem?",
+    "answers": [
+      "Sicherheitsmaßnahmen der Flugplatzbetreiber",
+      "Urlaubsanspruch",
+      "Straßenverkehr",
+      "Fluggastrechte"
+    ],
+    "correct": 0,
+    "explanation": "§ 8 LuftSiG regelt Sicherheitsmaßnahmen der Flugplatzbetreiber.",
+    "legal": "LuftSiG / LuftSiSchulV / EU-Luftsicherheitsrecht"
+  },
+  {
+    "id": "LAW-005",
+    "module": "Rechtsgrundlagen",
+    "question": "Was regelt § 10 LuftSiG?",
+    "answers": [
+      "Zugangsberechtigung",
+      "Tariflohn",
+      "Gefahrgutklassen",
+      "Arbeitskleidung"
+    ],
+    "correct": 0,
+    "explanation": "§ 10 LuftSiG betrifft die Zugangsberechtigung.",
+    "legal": "LuftSiG / LuftSiSchulV / EU-Luftsicherheitsrecht"
+  },
+  {
+    "id": "LAW-006",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche Tätigkeitsgruppen umfasst Luftsicherheitskontrollpersonal nach § 2 LuftSiSchulV unter anderem?",
+    "answers": [
+      "11.2.3.1 bis 11.2.3.5",
+      "Nur Piloten",
+      "Nur Fluglotsen",
+      "Nur Zoll"
+    ],
+    "correct": 0,
+    "explanation": "§ 2 ordnet diese Kontrolltätigkeiten dem Luftsicherheitskontrollpersonal zu.",
+    "legal": "LuftSiG / LuftSiSchulV / EU-Luftsicherheitsrecht"
+  },
+  {
+    "id": "LAW-007",
+    "module": "Rechtsgrundlagen",
+    "question": "Was gilt nach § 10 LuftSiG für Zugang zur Luftseite ohne Berechtigung?",
+    "answers": [
+      "Er ist verboten",
+      "Mit Warnweste erlaubt",
+      "Für Fremdfirmen frei",
+      "Nachts erlaubt"
+    ],
+    "correct": 0,
+    "explanation": "§ 10 Absatz 1 LuftSiG verbietet unberechtigten Zugang.",
+    "legal": "LuftSiG / LuftSiSchulV / EU-Luftsicherheitsrecht"
+  },
+  {
+    "id": "LAW-008",
+    "module": "Rechtsgrundlagen",
+    "question": "Wo findet sich eine Übersicht der Schulungsinhalte für 11.2.3.1 bis 11.2.3.5?",
+    "answers": [
+      "Anlage 2 LuftSiSchulV",
+      "StVO Anlage 1",
+      "BGB § 433",
+      "ArbZG § 3"
+    ],
+    "correct": 0,
+    "explanation": "Anlage 2 LuftSiSchulV enthält die Übersicht.",
+    "legal": "LuftSiG / LuftSiSchulV / EU-Luftsicherheitsrecht"
   }
 ]
