@@ -49,3 +49,27 @@ h2{font-size:25px}
   .tile small{font-size:14px}
   footer{white-space:normal}
 }
+/* 1.1.2 compact iPhone refinement */
+main{padding-top:12px;padding-bottom:24px}
+.hero{margin-bottom:10px}
+.logo{width:78px;height:78px;border-radius:17px}
+.hero h1{font-size:24px;margin-bottom:5px}
+.hero p{font-size:15px}
+.notice{margin:10px 0 12px;padding:11px 13px;font-size:13.5px;line-height:1.32}
+.grid{gap:9px}
+.tile{min-height:128px;padding:13px 12px}
+.tile span{font-size:24px;margin-bottom:10px}
+.tile b{font-size:17px;line-height:1.12;margin-bottom:5px;overflow-wrap:normal;word-break:normal;hyphens:auto}
+.tile small{font-size:14px;line-height:1.2;overflow-wrap:normal;word-break:normal}
+footer{margin-top:18px;font-size:11px}
+@media(max-width:390px){
+  main{padding:10px 12px 22px}
+  .logo{width:72px;height:72px}
+  .hero h1{font-size:22px}
+  .hero p{font-size:14px}
+  .notice{font-size:13px}
+  .tile{min-height:122px;padding:12px 11px}
+  .tile span{font-size:23px;margin-bottom:9px}
+  .tile b{font-size:16px}
+  .tile small{font-size:13.5px}
+}
