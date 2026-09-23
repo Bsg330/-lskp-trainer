@@ -73,3 +73,10 @@ footer{margin-top:18px;font-size:11px}
   .tile b{font-size:16px}
   .tile small{font-size:13.5px}
 }
+
+/* 1.1.3 tester notice */
+.modalshade{position:fixed;inset:0;z-index:9999;background:rgba(2,10,20,.88);display:flex;align-items:center;justify-content:center;padding:18px;backdrop-filter:blur(7px)}
+.modal{width:min(560px,100%);max-height:92vh;overflow:auto;background:#0b2948;border:1px solid rgba(255,255,255,.22);border-radius:22px;padding:22px 20px;box-shadow:0 24px 70px rgba(0,0,0,.45);line-height:1.48}
+.modal h2{margin:5px 0 14px;font-size:25px}.modal p{font-size:16px}.modaltag{display:inline-block;font-size:12px;font-weight:800;letter-spacing:.8px;padding:6px 9px;border-radius:999px;background:rgba(255,255,255,.1)}
+.modal .copyright{margin-top:18px}.modal .accept{font-size:16px;padding:15px}
+@media(max-width:390px){.modal{padding:19px 16px}.modal h2{font-size:22px}.modal p{font-size:15px}}
