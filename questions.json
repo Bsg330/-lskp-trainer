@@ -698,5 +698,425 @@
     "correct": 0,
     "explanation": "Anlage 2 LuftSiSchulV enthält die Übersicht.",
     "legal": "LuftSiG / LuftSiSchulV / EU-Luftsicherheitsrecht"
+  },
+  {
+    "id": "11231-011",
+    "module": "11.2.3.1",
+    "question": "Welche Kompetenz gehört zur tätigkeitsspezifischen Schulung bei Personenkontrollen?",
+    "answers": [
+      "Kontrollverfahren der jeweiligen Kontrollstelle verstehen",
+      "Flugpläne erstellen",
+      "Frachtbriefe ausstellen",
+      "Flugzeuge betanken"
+    ],
+    "correct": 0,
+    "explanation": "Die Schulung umfasst unter anderem die Kenntnis der Konfiguration der Kontrollstelle und der Kontrollverfahren.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
+  },
+  {
+    "id": "11231-012",
+    "module": "11.2.3.1",
+    "question": "Was ist beim Einsatz von Sicherheitsausrüstung wichtig?",
+    "answers": [
+      "Nur die Geschwindigkeit",
+      "Möglichkeiten und Grenzen der eingesetzten Ausrüstung kennen",
+      "Ausrüstung nur bei unbekannten Personen einsetzen",
+      "Technische Anzeigen grundsätzlich ignorieren"
+    ],
+    "correct": 1,
+    "explanation": "Zum Kompetenzprofil gehört die Kenntnis der Möglichkeiten und Grenzen der verwendeten Sicherheitsausrüstung oder Kontrollverfahren.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
+  },
+  {
+    "id": "11231-013",
+    "module": "11.2.3.1",
+    "question": "Wie ist auf die Entdeckung eines verbotenen Gegenstands grundsätzlich zu reagieren?",
+    "answers": [
+      "Nach dem vorgesehenen Verfahren angemessen reagieren",
+      "Gegenstand unbeachtet lassen",
+      "Person automatisch weiterlassen",
+      "Nur privat darüber sprechen"
+    ],
+    "correct": 0,
+    "explanation": "Die angemessene Reaktion auf die Entdeckung verbotener Gegenstände ist Teil der geforderten Kompetenz.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
+  },
+  {
+    "id": "11231-014",
+    "module": "11.2.3.1",
+    "question": "Welche Aussage zur manuellen Kontrolle ist richtig?",
+    "answers": [
+      "Sie darf beliebig verkürzt werden",
+      "Sie ist nach den vorgesehenen Techniken zuverlässig durchzuführen",
+      "Sie ist nur freiwillig",
+      "Sie ersetzt jede andere Maßnahme automatisch"
+    ],
+    "correct": 1,
+    "explanation": "Kenntnis und zuverlässige Durchführung von Techniken der manuellen Kontrolle gehören – soweit aufgabenspezifisch erforderlich – zum Schulungsinhalt.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
+  },
+  {
+    "id": "11231-015",
+    "module": "11.2.3.1",
+    "question": "Warum ist eine vollständige Kontrolle wichtig?",
+    "answers": [
+      "Damit vorgesehene Kontrollschritte nachvollziehbar abgearbeitet werden",
+      "Nur um Wartezeiten zu verlängern",
+      "Weil bekannte Personen nie kontrolliert werden",
+      "Damit technische Geräte entfallen"
+    ],
+    "correct": 0,
+    "explanation": "Kontrollen sollen entsprechend dem vorgesehenen Verfahren vollständig und nachvollziehbar durchgeführt werden.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
+  },
+  {
+    "id": "11231-016",
+    "module": "11.2.3.1",
+    "question": "Was gehört bei einer sicherheitsrelevanten Auffälligkeit zum professionellen Verhalten?",
+    "answers": [
+      "Vorgesehene Melde- und Reaktionswege einhalten",
+      "Auffälligkeit ignorieren",
+      "Nur nach Dienstende erwähnen",
+      "Eigenmächtig Regeln ändern"
+    ],
+    "correct": 0,
+    "explanation": "Sicherheitsrelevante Auffälligkeiten sind nach den vorgesehenen Verfahren zu behandeln.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
+  },
+  {
+    "id": "11231-017",
+    "module": "11.2.3.1",
+    "question": "Welche Fähigkeit kann bei Personenkontrollen zusätzlich erforderlich sein?",
+    "answers": [
+      "Klare und angemessene Kommunikation",
+      "Ticketverkauf",
+      "Gepäckverladung",
+      "Flugzeugwartung"
+    ],
+    "correct": 0,
+    "explanation": "Zwischenmenschliche Kompetenzen und klare Kommunikation können für die Tätigkeit erforderlich sein.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
+  },
+  {
+    "id": "11231-018",
+    "module": "11.2.3.1",
+    "question": "Was gilt für besondere Sicherheitsverfahren oder Ausnahmen?",
+    "answers": [
+      "Sie müssen bekannt und nach den geltenden Vorgaben angewendet werden",
+      "Sie können frei erfunden werden",
+      "Sie gelten automatisch für Bekannte",
+      "Sie ersetzen jede Kontrolle"
+    ],
+    "correct": 0,
+    "explanation": "Soweit die Aufgabe dies erfordert, gehört die Kenntnis von Ausnahmen und besonderen Sicherheitsverfahren zum Kompetenzprofil.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
+  },
+  {
+    "id": "11231-019",
+    "module": "11.2.3.1",
+    "question": "Welche Aussage zur Bildauswertung trifft grundsätzlich zu?",
+    "answers": [
+      "Anzeigen der eingesetzten Sicherheitsausrüstung müssen korrekt interpretiert werden können",
+      "Jedes Bild ist automatisch unbedenklich",
+      "Bildauswertung ist reine Geschmackssache",
+      "Nur Farben entscheiden"
+    ],
+    "correct": 0,
+    "explanation": "Wenn Bildauswertung zur Aufgabe gehört, ist die korrekte Interpretation der erzeugten Bilder eine geforderte Kompetenz.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
+  },
+  {
+    "id": "11231-020",
+    "module": "11.2.3.1",
+    "question": "Was steht bei der Personenkontrolle im Mittelpunkt?",
+    "answers": [
+      "Die zuverlässige Anwendung der vorgesehenen Sicherheitskontrollen",
+      "Möglichst wenige Kontrollen",
+      "Persönliche Bekanntschaft",
+      "Individuelle Abkürzungen"
+    ],
+    "correct": 0,
+    "explanation": "Ziel ist die zuverlässige Anwendung der vorgesehenen Kontrollverfahren.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.1"
+  },
+  {
+    "id": "11233-009",
+    "module": "11.2.3.3",
+    "question": "Was ist ein wesentliches Ziel der Kontrolle von Flughafenlieferungen und Bordvorräten?",
+    "answers": [
+      "Sicherheitsanforderungen der Lieferkette einzuhalten",
+      "Lieferzeiten zu verlängern",
+      "Preise zu kontrollieren",
+      "Personalplanung zu ersetzen"
+    ],
+    "correct": 0,
+    "explanation": "Die Schulung vermittelt die Sicherheitsanforderungen und Verantwortlichkeiten innerhalb der jeweiligen Lieferkette.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-010",
+    "module": "11.2.3.3",
+    "question": "Welche Fähigkeit gehört zur Kontrolle von Flughafenlieferungen und Bordvorräten?",
+    "answers": [
+      "Verbotene Gegenstände erkennen können",
+      "Flugtickets verkaufen",
+      "Startbahnen vermessen",
+      "Flugzeuge navigieren"
+    ],
+    "correct": 0,
+    "explanation": "Die Fähigkeit zur Identifizierung verbotener Gegenstände gehört zu den relevanten Kompetenzen.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-011",
+    "module": "11.2.3.3",
+    "question": "Was ist bei der Entdeckung eines verbotenen Gegenstands richtig?",
+    "answers": [
+      "Nach dem vorgesehenen Verfahren angemessen reagieren",
+      "Lieferung ohne weitere Maßnahmen weitergeben",
+      "Fund verschweigen",
+      "Nur den Fahrer fragen und dann freigeben"
+    ],
+    "correct": 0,
+    "explanation": "Eine angemessene Reaktion auf die Entdeckung verbotener Gegenstände ist Bestandteil der Schulungsziele.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-012",
+    "module": "11.2.3.3",
+    "question": "Warum müssen Schutzanforderungen für Lieferungen bekannt sein?",
+    "answers": [
+      "Damit der Sicherheitsstatus entsprechend den Vorgaben geschützt bleibt",
+      "Damit jede Lieferung schneller wird",
+      "Damit Dokumente entfallen",
+      "Damit Kontrollen freiwillig werden"
+    ],
+    "correct": 0,
+    "explanation": "Kenntnis der jeweils geltenden Schutzanforderungen ist für die sichere Lieferkette wesentlich.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-013",
+    "module": "11.2.3.3",
+    "question": "Was ist bei Auffälligkeiten in einer Lieferung grundsätzlich zu tun?",
+    "answers": [
+      "Vorgesehene Verfahren und Meldewege beachten",
+      "Auffälligkeit ignorieren",
+      "Lieferung automatisch freigeben",
+      "Eigene Regeln anwenden"
+    ],
+    "correct": 0,
+    "explanation": "Bei sicherheitsrelevanten Auffälligkeiten sind die vorgesehenen Reaktions- und Meldeverfahren einzuhalten.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-014",
+    "module": "11.2.3.3",
+    "question": "Welche Aussage zur Sicherheitskultur ist richtig?",
+    "answers": [
+      "Sie betrifft auch verantwortungsbewusstes Melden und konsequentes Einhalten von Vorgaben",
+      "Sie ist nur Sache der Führung",
+      "Sie spielt bei Lieferungen keine Rolle",
+      "Sie ersetzt Schulungen"
+    ],
+    "correct": 0,
+    "explanation": "Eine robuste Sicherheitskultur unterstützt verantwortungsbewusstes Verhalten und die Einhaltung von Sicherheitsvorgaben.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-015",
+    "module": "11.2.3.3",
+    "question": "Was gehört zur Kenntnis der Lieferkette?",
+    "answers": [
+      "Rollen und Verantwortlichkeiten der Beteiligten verstehen",
+      "Private Telefonnummern aller Fahrer kennen",
+      "Preise der Waren kennen",
+      "Urlaubspläne prüfen"
+    ],
+    "correct": 0,
+    "explanation": "Die Schulung vermittelt Ziele, Struktur sowie Verpflichtungen und Zuständigkeiten der Beteiligten.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-016",
+    "module": "11.2.3.3",
+    "question": "Was gilt für eingesetzte Kontrollmethoden?",
+    "answers": [
+      "Möglichkeiten und Grenzen müssen bekannt sein",
+      "Sie funktionieren immer fehlerfrei",
+      "Sie dürfen beliebig verändert werden",
+      "Sie sind nur bei Nacht nötig"
+    ],
+    "correct": 0,
+    "explanation": "Die Möglichkeiten und Grenzen eingesetzter Kontrollmethoden bzw. Sicherheitsausrüstung müssen bekannt sein.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-017",
+    "module": "11.2.3.3",
+    "question": "Was ist bei besonderen Verfahren oder Ausnahmen wichtig?",
+    "answers": [
+      "Nur die geltenden und freigegebenen Vorgaben anwenden",
+      "Selbst Ausnahmen festlegen",
+      "Ausnahmen mündlich erfinden",
+      "Kontrollen grundsätzlich auslassen"
+    ],
+    "correct": 0,
+    "explanation": "Besondere Verfahren und Ausnahmen sind nur entsprechend den geltenden Vorgaben anzuwenden.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11233-018",
+    "module": "11.2.3.3",
+    "question": "Welche Aussage beschreibt professionelles Handeln bei Lieferkontrollen am besten?",
+    "answers": [
+      "Aufmerksam, nachvollziehbar und nach den vorgesehenen Verfahren arbeiten",
+      "Bei Zeitdruck Schritte überspringen",
+      "Bekannte Lieferanten nie prüfen",
+      "Nur auf Erfahrung statt Vorgaben vertrauen"
+    ],
+    "correct": 0,
+    "explanation": "Professionelles Handeln verbindet Aufmerksamkeit mit konsequenter Anwendung der vorgesehenen Verfahren.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.3"
+  },
+  {
+    "id": "11235-009",
+    "module": "11.2.3.5",
+    "question": "Was gehört zur Schulung für Zugangskontrollen und Streifengänge?",
+    "answers": [
+      "Kenntnis der rechtlichen Anforderungen und besonderen Sicherheitsverfahren",
+      "Flugzeugbetankung",
+      "Ticketpreisberechnung",
+      "Wetterbeobachtung"
+    ],
+    "correct": 0,
+    "explanation": "Die rechtlichen Anforderungen an Zugangskontrollen einschließlich besonderer Verfahren gehören zum Kompetenzprofil.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-010",
+    "module": "11.2.3.5",
+    "question": "Welche Berechtigungen müssen im Rahmen der Tätigkeit erkannt werden können?",
+    "answers": [
+      "Relevante Flughafen- und Fahrzeugausweise",
+      "Bibliotheksausweise",
+      "Kundenkarten",
+      "Fahrkarten des Nahverkehrs"
+    ],
+    "correct": 0,
+    "explanation": "Die Schulung umfasst die Kenntnis und Erkennung der für den Zugang relevanten Berechtigungen.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-011",
+    "module": "11.2.3.5",
+    "question": "Was ist bei einer Person ohne erkennbare Berechtigung grundsätzlich wichtig?",
+    "answers": [
+      "Nach den vorgesehenen Verfahren reagieren",
+      "Person immer ignorieren",
+      "Automatisch Zugang gewähren",
+      "Nur später darüber sprechen"
+    ],
+    "correct": 0,
+    "explanation": "Die Schulung umfasst Verfahren für das Anhalten bzw. Ansprechen und die Umstände, unter denen Personen gemeldet werden sollen.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-012",
+    "module": "11.2.3.5",
+    "question": "Welches Ziel haben Streifengänge?",
+    "answers": [
+      "Sicherheitsrelevante Auffälligkeiten erkennen und nach Vorgabe darauf reagieren",
+      "Nur Wegezeiten erfassen",
+      "Werbung verteilen",
+      "Parkplätze zählen"
+    ],
+    "correct": 0,
+    "explanation": "Streifengänge dienen unter anderem dazu, sicherheitsrelevante Auffälligkeiten festzustellen und angemessen darauf zu reagieren.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-013",
+    "module": "11.2.3.5",
+    "question": "Was ist bei einem sicherheitsrelevanten Fund während eines Streifengangs richtig?",
+    "answers": [
+      "Vorgesehene Sofort- und Meldeverfahren beachten",
+      "Fund unbeachtet lassen",
+      "Fund privat mitnehmen",
+      "Streifengang sofort ohne Meldung beenden"
+    ],
+    "correct": 0,
+    "explanation": "Kenntnis der Sofortmaßnahmen und angemessene Reaktion auf sicherheitsrelevante Funde gehören zur Schulung.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-014",
+    "module": "11.2.3.5",
+    "question": "Warum ist Kenntnis der Zugangskontrollsysteme wichtig?",
+    "answers": [
+      "Damit das am Flughafen verwendete System korrekt angewendet werden kann",
+      "Damit jeder Zugang offen bleibt",
+      "Damit Ausweise unnötig werden",
+      "Damit Kontrollen nur mündlich erfolgen"
+    ],
+    "correct": 0,
+    "explanation": "Die Kenntnis der am jeweiligen Flughafen eingesetzten Zugangskontrollsysteme ist Teil der geforderten Kompetenz.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-015",
+    "module": "11.2.3.5",
+    "question": "Welche Rolle spielt Kommunikation bei Zugangskontrollen?",
+    "answers": [
+      "Klare, sachliche Kommunikation unterstützt professionelles Handeln",
+      "Kommunikation ist grundsätzlich verboten",
+      "Nur schriftliche Kommunikation ist erlaubt",
+      "Sie ersetzt die Berechtigungsprüfung"
+    ],
+    "correct": 0,
+    "explanation": "Zwischenmenschliche Kompetenz und klare Kommunikation unterstützen die sichere Durchführung der Aufgabe.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-016",
+    "module": "11.2.3.5",
+    "question": "Was gilt für Ausnahmen und besondere Sicherheitsverfahren beim Zugang?",
+    "answers": [
+      "Sie sind nur nach den geltenden Vorgaben anzuwenden",
+      "Jeder Mitarbeiter entscheidet selbst",
+      "Sie gelten automatisch für Stammgäste",
+      "Sie müssen nicht bekannt sein"
+    ],
+    "correct": 0,
+    "explanation": "Ausnahmen und besondere Sicherheitsverfahren sind Bestandteil der rechtlichen und betrieblichen Anforderungen.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-017",
+    "module": "11.2.3.5",
+    "question": "Wann sollte eine Auffälligkeit gemeldet werden?",
+    "answers": [
+      "Wenn die vorgesehenen Meldekriterien erfüllt sind",
+      "Nur einmal im Monat",
+      "Nur wenn Kollegen zustimmen",
+      "Nie während eines Streifengangs"
+    ],
+    "correct": 0,
+    "explanation": "Die Kenntnis der Umstände, unter denen Personen oder Auffälligkeiten gemeldet werden sollen, gehört zur Schulung.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
+  },
+  {
+    "id": "11235-018",
+    "module": "11.2.3.5",
+    "question": "Was kennzeichnet einen guten Streifengang?",
+    "answers": [
+      "Aufmerksamkeit, systematisches Vorgehen und Einhaltung der vorgesehenen Verfahren",
+      "Möglichst schnelles Durchlaufen ohne Beobachtung",
+      "Nur bekannte Bereiche beachten",
+      "Auffälligkeiten selbstständig geheim halten"
+    ],
+    "correct": 0,
+    "explanation": "Streifengänge sollen aufmerksam und entsprechend den vorgesehenen Verfahren durchgeführt werden.",
+    "legal": "DVO (EU) 2015/1998, 11.2.3.5"
   }
 ]
