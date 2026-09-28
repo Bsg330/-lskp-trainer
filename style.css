@@ -123,3 +123,28 @@ main{max-width:980px;padding-bottom:104px}
   .heroShield img{width:58px;height:58px}.heroTitle strong{font-size:31px}.heroTitle span{font-size:14px}
   .airportHero p{font-size:10px}.airportHero small{font-size:7.5px}
 }
+
+
+/* 1.2.3 mobile dashboard refinement: one logo only */
+.compactHero{padding:15px 12px 16px;min-height:0}
+.compactHero p{margin:0 0 7px;font-size:16px;letter-spacing:3px}
+.compactHero small{font-size:10px;letter-spacing:1.7px}
+@media(max-width:560px){
+  .topbar{margin-bottom:7px}
+  .shieldlogo{width:58px;height:58px;border-radius:14px}
+  .brand{gap:10px}.brand h1{font-size:23px}.brand p{font-size:13px;line-height:1.25}
+  .compactHero{padding:12px 9px 13px;border-radius:18px}
+  .compactHero p{font-size:12px;letter-spacing:1.7px;margin:0 0 5px}
+  .compactHero small{font-size:8px;letter-spacing:.9px}
+  .feature{grid-template-columns:36px minmax(0,1fr) 14px;padding:12px 9px;gap:6px;min-height:100px}
+  .feature b{font-size:14px;letter-spacing:-.1px;white-space:normal;overflow-wrap:normal}
+  .feature small{font-size:12px;line-height:1.22}
+  .feature>span{font-size:25px}.feature i{font-size:27px}
+  .legalfeature b{font-size:12.5px;letter-spacing:-.35px}
+}
+@media(max-width:390px){
+  .brand h1{font-size:21px}.brand p{font-size:12px}
+  .shieldlogo{width:54px;height:54px}
+  .feature b{font-size:13px}.legalfeature b{font-size:11.8px}
+  .feature small{font-size:11.5px}
+}
