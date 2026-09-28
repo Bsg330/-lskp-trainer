@@ -104,3 +104,22 @@ main{max-width:980px;padding-bottom:104px}
 @media(max-width:560px){.heroShield img{width:96px;height:96px}.heroTitle strong{font-size:44px}.heroTitle span{font-size:20px}.featuregrid{gap:9px}.feature{grid-template-columns:38px 1fr 15px;min-height:105px;padding:13px 11px;gap:7px}.feature>span{font-size:27px}.feature b{font-size:15px}.feature small{font-size:12.5px}.feature i{font-size:29px}.airportHero p{font-size:13px;letter-spacing:2px}.airportHero small{font-size:9px;letter-spacing:1.2px}}
 /* 1.2.1 */
 .topactions{display:flex;gap:8px}.topactions button{min-width:58px}.registerbtn{width:100%;margin:14px 0 0;padding:13px 16px;border:1px solid rgba(130,210,255,.34);border-radius:15px;background:rgba(255,255,255,.055);color:#fff;font-weight:800;letter-spacing:.7px}.registerbtn small{display:block;font-weight:500;letter-spacing:0;opacity:.62;margin-top:3px}.statgrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 12px}.examstats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.statitem{text-align:center;min-width:0}.statitem b,.statitem small{display:block}.statitem b{font-size:14px;margin-top:8px;overflow-wrap:anywhere}.statitem small{font-size:12px;opacity:.68;margin-top:3px}.donut{--p:0;width:104px;height:104px;margin:0 auto;border-radius:50%;display:grid;place-items:center;background:conic-gradient(#49b7ff calc(var(--p)*1%),rgba(255,255,255,.12) 0);position:relative}.donut:before{content:"";position:absolute;width:76px;height:76px;border-radius:50%;background:#0b2948}.donut span{position:relative;font-size:20px;font-weight:800}.legalfeature b{font-size:17px}@media(max-width:560px){.legalfeature b{font-size:13.5px;letter-spacing:-.2px}.topactions button{font-size:23px;min-width:49px}.topactions small{font-size:9px}.statgrid{grid-template-columns:repeat(2,minmax(0,1fr))}.donut{width:92px;height:92px}.donut:before{width:66px;height:66px}.donut span{font-size:18px}}@media(max-width:370px){.legalfeature b{font-size:12px}.brand h1{font-size:20px}.brand p{font-size:12px}.shieldlogo{width:52px;height:52px}}
+
+/* 1.2.2 mobile compact hero + combined evaluation */
+.moduleprogress{display:grid;gap:13px}.progressrow{display:grid;grid-template-columns:minmax(118px,1.15fr) minmax(90px,2fr) 45px;align-items:center;gap:10px}.progressrow b,.progressrow small{display:block}.progressrow b{font-size:14px}.progressrow small{font-size:11px;opacity:.65;margin-top:2px}.progressrow strong{text-align:right;font-size:14px}.progressbar{height:9px;border-radius:999px;background:rgba(255,255,255,.11);overflow:hidden}.progressbar span{display:block;height:100%;border-radius:inherit;background:linear-gradient(90deg,#3caef4,#8bd6ff)}.quickstats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}.quickstats div{text-align:center;padding:12px 6px;border-radius:13px;background:rgba(255,255,255,.055);border:1px solid rgba(255,255,255,.1)}.quickstats b,.quickstats small{display:block}.quickstats b{font-size:20px}.quickstats small{font-size:11px;opacity:.68;margin-top:4px}
+@media(max-width:560px){
+  .airportHero{padding:8px 10px 11px;border-radius:20px}
+  .heroShield img{width:64px;height:64px;border-radius:17px}
+  .heroTitle{margin-top:1px}.heroTitle strong{font-size:34px}.heroTitle span{font-size:15px;letter-spacing:6px;margin-left:6px}
+  .airportHero p{font-size:11px;letter-spacing:1.7px;margin:10px 0 4px}.airportHero small{font-size:8px;letter-spacing:.9px}
+  .notice{margin:8px 0 10px}
+  .featuregrid{margin-top:10px}
+  .safetyline{margin:16px 0 9px}
+  .summarycard .examstats{gap:10px}.summarycard .donut{width:88px;height:88px}.summarycard .donut:before{width:63px;height:63px}
+  .progressrow{grid-template-columns:minmax(105px,1.15fr) minmax(72px,1.7fr) 39px;gap:7px}.progressrow b{font-size:12px}.progressrow small{font-size:10px}.progressrow strong{font-size:12px}
+  .quickstats{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width:390px){
+  .heroShield img{width:58px;height:58px}.heroTitle strong{font-size:31px}.heroTitle span{font-size:14px}
+  .airportHero p{font-size:10px}.airportHero small{font-size:7.5px}
+}
