@@ -156,3 +156,8 @@ main{max-width:980px;padding-bottom:104px}
 
 /* Lernmodule 1.3.1 */
 .lesson-tabs{display:flex;flex-wrap:wrap;gap:7px;margin:12px 0}.lesson-tab,.lesson-restart{padding:10px 12px;border:1px solid #a9c1d4;border-radius:10px;background:#e8f2fa;color:#123b60;font-weight:700}.lesson-tab.selected{background:#134c77;color:white}.lesson-note{background:#fff5df;border-left:4px solid #dca43c;border-radius:8px;padding:12px;margin:12px 0;color:#493b1c}.gpa-scheme{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:6px;margin:15px 0}.gpa-scheme div{background:#e4f1f8;border:1px solid #96b5cc;padding:12px 8px;border-radius:10px;text-align:center;max-width:140px;font-weight:700}.gpa-scheme span{font-size:22px;color:#2674a6}.gpa-learning-image{display:block;max-width:100%;height:auto;border-radius:10px}.lesson-question{margin:16px 0;border:1px solid #c5d4df;border-radius:12px;padding:14px}.lesson-question legend{font-weight:700;padding:0 5px}.lesson-question label{display:block;padding:8px 0;line-height:1.4}.newmoduleentry{border:2px solid #a6d7ef}.newmoduleentry p{margin:8px 0}
+
+/* Lesbarkeit GPA-Schema auf dunklem Kartenhintergrund */
+.gpa-scheme div,.card .gpa-scheme div{color:#102f4c!important;background:#e8f3fc!important;border:2px solid #7ea9c8!important;text-shadow:none!important;font-size:15px;line-height:1.35;overflow-wrap:break-word;}
+.gpa-scheme span{color:#a8dcff!important;font-weight:800;}
+@media(max-width:420px){.gpa-scheme{gap:5px}.gpa-scheme div{font-size:13px!important;padding:10px 7px;max-width:125px}}
