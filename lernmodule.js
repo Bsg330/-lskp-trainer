@@ -12,3 +12,5 @@ function openNewLessons(section='auftrag'){
  R(nav+note+body+'<footer>© 2026 Sven Willumeit – Alle Rechte vorbehalten</footer>');
 }
 function gradeNewLessons(){let score=0,answered=0;LESSON_QUIZ.forEach((q,i)=>{const el=document.querySelector(`input[name="lq${i}"]:checked`);const f=document.getElementById('lf'+i);if(!el){f.textContent='Bitte Antwort wählen.';return;}answered++;const good=Number(el.value)===q.c;if(good)score++;f.textContent=(good?'✓ Richtig. ':'✗ Nicht richtig. ')+q.why;});document.getElementById('lessonResult').textContent=`${score} von ${LESSON_QUIZ.length} richtig (${answered} beantwortet).`}
+
+// Historische ECAC-Unterlagen (2009) sind kein Ersatz für aktuelle Geräteanweisungen.

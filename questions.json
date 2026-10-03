@@ -3444,5 +3444,702 @@
     ],
     "explanation": "Regelmäßige Qualifizierung ist auch für erfahrenes Personal relevant.",
     "legal": "Allgemeine Grundsätze der Luftsicherheit; tätigkeitsbezogene Vorgaben prüfen"
+  },
+  {
+    "id": "138-11231-01",
+    "module": "11.2.3.1",
+    "question": "Welche Aussagen zum ECAC-Standard-Teststück sind fachlich zutreffend?",
+    "answers": [
+      "Es dient der standardisierten Beurteilung bestimmter Bildqualitätsmerkmale eines Röntgenprüfgeräts.",
+      "Es ersetzt die regelmäßige Wartung und sämtliche weiteren Sicherheitsprüfungen.",
+      "Ergebnisse müssen anhand der jeweils geltenden Anforderungen bewertet werden.",
+      "Ein erfolgreiches Testbild belegt automatisch, dass jede beliebige Bedrohung erkannt wird."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Das Teststück unterstützt eine definierte Leistungsprüfung; es ist kein Ersatz für andere Prüf- und Kontrollpflichten.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11231-02",
+    "module": "11.2.3.1",
+    "question": "Welche Eigenschaften werden in der historischen ECAC-Start-up-Anleitung ausdrücklich genannt?",
+    "answers": [
+      "Einzeldrahtauflösung und räumliche Auflösung",
+      "Materialunterscheidung und Durchdringungsfähigkeit",
+      "Identität und Zuverlässigkeit der Bedienperson",
+      "Flugplan und Wetterdaten"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "Die abgebildete historische Anleitung nennt vier Bildqualitätsmerkmale. Die aktuelle Testdurchführung richtet sich nach freigegebenen Vorgaben.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11231-03",
+    "module": "11.2.3.1",
+    "question": "Wie ist mit einem festgestellten sicherheitsrelevanten technischen Mangel an einer GPA grundsätzlich umzugehen?",
+    "answers": [
+      "Die Nutzung bis zur Klärung nach den geltenden Vorgaben unterlassen.",
+      "Die Störung eigenmächtig als unkritisch einstufen.",
+      "Den Mangel über die vorgesehenen Meldewege weitergeben.",
+      "Die Dokumentation vermeiden, damit keine Verzögerung entsteht."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Gerätesicherheit und nachvollziehbare Meldung haben Vorrang. Konkrete Meldewege sind örtlich geregelt.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11231-04",
+    "module": "11.2.3.1",
+    "question": "Was folgt aus einer älteren Schulungsanweisung zur GPA-Prüfung?",
+    "answers": [
+      "Sie kann historische Begrifflichkeiten und Prüfziele erklären.",
+      "Sie ersetzt automatisch jede neuere betriebliche Vorgabe.",
+      "Ihre Rechtsbezüge und Gerätetypen sind vor heutiger Nutzung zu prüfen.",
+      "Die dort genannten örtlichen Rufnummern gelten zwangsläufig überall."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Historische Unterlagen sind keine automatisch aktuellen Dienstanweisungen.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11231-05",
+    "module": "11.2.3.1",
+    "question": "Eine Person kann wegen einer Mobilitätseinschränkung nicht aufstehen. Welche Grundsätze sind wesentlich?",
+    "answers": [
+      "Respektvoll kommunizieren und erforderliche Unterstützung berücksichtigen.",
+      "Die Sicherheitsanforderungen ohne Prüfung vollständig entfallen lassen.",
+      "Ein geeignetes, zugelassenes Verfahren nach den geltenden Vorgaben anwenden.",
+      "Ohne Einwilligung beliebige Hilfsmittel entfernen."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Barrierefreiheit, Würde und Sicherheitsanforderungen sind gemeinsam zu berücksichtigen.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11231-06",
+    "module": "11.2.3.1",
+    "question": "Was unterscheidet einen begründeten Verdacht von einer bloßen Vermutung?",
+    "answers": [
+      "Er beruht auf nachvollziehbaren, sachlichen Anhaltspunkten.",
+      "Er darf allein aus dem äußeren Erscheinungsbild abgeleitet werden.",
+      "Er ist nach den vorgesehenen Verfahren zu bewerten.",
+      "Er ersetzt jede Dokumentations- und Meldepflicht."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Sachliche Anhaltspunkte und die geltenden Verfahren sind entscheidend.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11231-07",
+    "module": "11.2.3.1",
+    "question": "Warum sind Aussagen wie „Röntgenbilder zeigen Sprengstoff immer in einer Farbe“ problematisch?",
+    "answers": [
+      "Bilddarstellung hängt unter anderem von Material und Gerätetechnik ab.",
+      "Ein einzelner Farbton beweist stets das Vorliegen eines bestimmten Stoffes.",
+      "Pauschale Farbregeln können zu Fehleinschätzungen führen.",
+      "Alle Röntgenprüfgeräte nutzen zwingend identische Farbpaletten."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Materialfarben sind keine alleinige, geräteunabhängige Identifikation.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11231-08",
+    "module": "11.2.3.1",
+    "question": "Was ist beim Abgleich einer Lernfrage mit einer alten betrieblichen Arbeitsanweisung zu beachten?",
+    "answers": [
+      "Gültigkeitsstand und zuständige Freigabe prüfen.",
+      "Alte standortspezifische Details unverändert in öffentliche Lernhilfen übernehmen.",
+      "Allgemeine Grundsätze von örtlichen Verfahrensdetails trennen.",
+      "Eine ältere Anleitung stets als höherrangig als EU-Recht ansehen."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Geltende Rechtslage und aktuelle freigegebene Vorgaben sind maßgeblich.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11233-01",
+    "module": "11.2.3.3",
+    "question": "Welche Aussagen über Flughafenlieferungen und Bordvorräte sind richtig?",
+    "answers": [
+      "Die Zuordnung zur richtigen Güterkategorie ist für die anwendbaren Anforderungen wichtig.",
+      "Jede Lieferung ist ohne weitere Prüfung automatisch gleich zu behandeln.",
+      "Freigaben und Kontrollen richten sich nach den geltenden Verfahren.",
+      "Eine mündliche Zusicherung ersetzt sämtliche Nachweise."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Die Güterkategorie und die geltenden Anforderungen bestimmen das Vorgehen.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11233-02",
+    "module": "11.2.3.3",
+    "question": "Ein Begleitdokument widerspricht einer anderen Angabe. Welche Reaktionen sind angemessen?",
+    "answers": [
+      "Unstimmigkeit nach dem vorgesehenen Verfahren klären lassen.",
+      "Die Abweichung ignorieren, solange die Lieferung dringend ist.",
+      "Bis zur Klärung keine unbegründete Freigabe vornehmen.",
+      "Die Angaben eigenmächtig ändern, um Übereinstimmung herzustellen."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Widersprüche sind nachvollziehbar zu klären.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11233-03",
+    "module": "11.2.3.3",
+    "question": "Warum ist die dokumentierte Übergabe von Versorgungsgütern relevant?",
+    "answers": [
+      "Sie unterstützt Nachvollziehbarkeit und Verantwortungszuordnung.",
+      "Sie macht jede weitere Sicherheitsmaßnahme überflüssig.",
+      "Sie hilft, Unstimmigkeiten im Prozess zu erkennen.",
+      "Sie darf nachträglich ohne Kennzeichnung verändert werden."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Dokumentation unterstützt die Sicherheitskette.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11234-01",
+    "module": "11.2.3.4",
+    "question": "Welche Aussagen sind bei der Fahrzeugkontrolle sachgerecht?",
+    "answers": [
+      "Fahrzeug- und Personenkontrolle sind begrifflich zu unterscheiden.",
+      "Eine gültige Zufahrtsberechtigung ersetzt automatisch alle vorgeschriebenen Kontrollen.",
+      "Die konkrete Durchführung richtet sich nach freigegebenen Verfahren.",
+      "Zeitdruck erlaubt das Weglassen verbindlicher Schritte."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Zutrittsberechtigung und Sicherheitskontrolle sind unterschiedliche Anforderungen.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11234-02",
+    "module": "11.2.3.4",
+    "question": "Welche Aussagen zu einer festgestellten Unstimmigkeit bei einer Fahrzeugkontrolle treffen zu?",
+    "answers": [
+      "Die Unstimmigkeit wird nach den vorgesehenen Meldewegen behandelt.",
+      "Sie kann ohne Beurteilung ignoriert werden, wenn der Fahrer bekannt ist.",
+      "Die Freigabe erfolgt erst nach ordnungsgemäßer Klärung.",
+      "Der Fahrzeugführer legt verbindlich das Kontrollverfahren fest."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Unstimmigkeiten sind nach freigegebenen Vorgaben zu klären.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11234-03",
+    "module": "11.2.3.4",
+    "question": "Weshalb sollten Kontrollkräfte Fahrzeug- und Lieferdokumente nicht miteinander verwechseln?",
+    "answers": [
+      "Sie können unterschiedliche Sachverhalte und Berechtigungen betreffen.",
+      "Ein Lieferdokument ist immer identisch mit einer persönlichen Zutrittsberechtigung.",
+      "Die jeweils geforderten Nachweise sind gesondert zu beurteilen.",
+      "Eine Fahrzeugzulassung belegt automatisch eine luftseitige Zugangsberechtigung."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Dokumente haben unterschiedliche Zwecke.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11235-01",
+    "module": "11.2.3.5",
+    "question": "Was gehört zu einer professionellen Zugangskontrolle?",
+    "answers": [
+      "Berechtigungen im vorgesehenen Rahmen prüfen.",
+      "Bekannte Personen grundsätzlich ohne Prüfung passieren lassen.",
+      "Unstimmigkeiten entsprechend der Meldekette behandeln.",
+      "Bei hohem Andrang pauschal auf die Prüfung verzichten."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Geregelte Berechtigungsprüfung und Umgang mit Abweichungen sind wesentlich.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11235-02",
+    "module": "11.2.3.5",
+    "question": "Welche Grundsätze gelten bei Streifengängen?",
+    "answers": [
+      "Auftrag, Grenzen und Meldewege kennen.",
+      "Beobachtungen sachlich und nachvollziehbar weitergeben.",
+      "Verdächtige Sachverhalte eigenmächtig ohne Zuständigkeit abschließend bearbeiten.",
+      "Örtliche Anweisungen durch persönliche Gewohnheiten ersetzen."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "Streifengänge erfordern klare Zuständigkeiten und sachliche Meldungen.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-11235-03",
+    "module": "11.2.3.5",
+    "question": "Eine Kontrollkraft entdeckt eine Abweichung zwischen Ausweisangaben und vorgelegten Informationen. Was ist richtig?",
+    "answers": [
+      "Die Abweichung gemäß den freigegebenen Vorgaben klären.",
+      "Den Zutritt allein aufgrund freundlichen Auftretens gestatten.",
+      "Die Prüfung und erforderliche Meldung nachvollziehbar durchführen.",
+      "Die Ausweisdaten eigenmächtig korrigieren."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Unstimmigkeiten dürfen nicht durch Vermutungen ersetzt werden.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-Rechtsgrundlagen-01",
+    "module": "Rechtsgrundlagen",
+    "question": "Was bedeutet das Kennzeichen „PTB im Kreis“ im waffenrechtlichen Lernkontext grundsätzlich?",
+    "answers": [
+      "Es bezeichnet eine bestimmte Bauartzulassung für Schreckschuss-, Reizstoff- und Signalwaffen.",
+      "Es ist eine pauschale Erlaubnis, solche Waffen überall zu führen.",
+      "Das Führen kann unabhängig vom Kennzeichen erlaubnispflichtig oder verboten sein.",
+      "Es hebt luftverkehrsrechtliche Verbote auf."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Ein Prüfzeichen ist keine umfassende Führ- oder Zutrittsberechtigung.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-Rechtsgrundlagen-02",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche Aussage zum Zeichen „F im Fünfeck“ ist angemessen?",
+    "answers": [
+      "Es ist im Kontext bestimmter Druckluft- und vergleichbarer Waffen relevant.",
+      "Es erlaubt stets das Mitführen in Sicherheitsbereichen eines Flughafens.",
+      "Es ersetzt keine Prüfung weiterer gesetzlicher Beschränkungen.",
+      "Es bescheinigt eine Zulassung für alle Arten von Pyrotechnik."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Kennzeichen und konkrete Erlaubnisse beziehungsweise Verbote sind getrennt zu betrachten.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-Rechtsgrundlagen-03",
+    "module": "Rechtsgrundlagen",
+    "question": "Wie sollten Prüfzeichen auf Reizstoffgeräten und Elektroimpulsgeräten in einer Lernapp behandelt werden?",
+    "answers": [
+      "Die genaue Kennzeichnung und Rechtsfolge anhand aktueller amtlicher Quellen prüfen.",
+      "Alle Zeichen pauschal als allgemeine Führerlaubnis behandeln.",
+      "Geräteart, Kennzeichnung und mögliche Verbote getrennt beurteilen.",
+      "Aus einem historischen Merkblatt unmittelbar heutige Rechtsfolgen ableiten."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Rechtsfolgen hängen vom konkreten Gerät und aktueller Rechtslage ab.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "138-Rechtsgrundlagen-04",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche Aussagen zur Kennzeichnung pyrotechnischer Gegenstände sind grundsätzlich richtig?",
+    "answers": [
+      "CE-Kennzeichnung und Kategorieangaben sind relevante Informationen.",
+      "Eine Kennzeichnung hebt automatisch örtliche und gesetzliche Verbote auf.",
+      "Kategorie, Altersgrenzen und Verwendungsbedingungen sind gesondert zu prüfen.",
+      "Jeder Gegenstand mit CE-Zeichen darf an Bord mitgeführt werden."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Kennzeichnung und luftverkehrsrechtliche Zulässigkeit sind verschiedene Fragen.",
+    "legal": "Lernfrage: aktuelle Rechtslage und örtliche Anweisungen beachten"
+  },
+  {
+    "id": "V139-264",
+    "module": "Anlage 1-A / 4-C",
+    "question": "Bei einer Kontrolle wird ein Spray mit der Aufschrift „Tierabwehrspray“ festgestellt. Welche Aussagen sind fachlich zutreffend?",
+    "answers": [
+      "Die Aufschrift bedeutet automatisch Freigabe für den Sicherheitsbereich.",
+      "Die waffenrechtliche Einordnung und die luftverkehrsrechtliche Zulässigkeit sind getrennt zu prüfen.",
+      "Anlage 1-A erfasst ausdrücklich auch Tierabwehrsprays.",
+      "Bei vorhandener Kennzeichnung entfällt jede weitere Prüfung."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "Tierabwehrkennzeichnung ersetzt keine Prüfung nach Luftsicherheitsrecht.",
+    "legal": "DVO (EU) 2015/1998, Anlage 1-A"
+  },
+  {
+    "id": "V139-265",
+    "module": "Anlage 1-A / 4-C",
+    "question": "Eine Person zeigt einen kleinen Waffenschein und führt eine entsprechend gekennzeichnete Schreckschusswaffe mit. Was ist richtig?",
+    "answers": [
+      "Der Schein erlaubt automatisch das Mitführen im Sicherheitsbereich.",
+      "Der Schein ersetzt nicht die luftsicherheitsrechtliche Prüfung.",
+      "Ein Berechtigungsnachweis muss auf Geltungsbereich und konkreten Gegenstand geprüft werden.",
+      "Das Vorzeigen des Scheins beendet jede Kontrolle."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "Waffenrechtliche Erlaubnis und Zutritt zu Sicherheitsbereichen sind unterschiedliche Fragen.",
+    "legal": "WaffG; DVO (EU) 2015/1998, Anlage 1-A"
+  },
+  {
+    "id": "V139-266",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche Aussagen unterscheiden Besitz und Führen einer Waffe sachgerecht?",
+    "answers": [
+      "Besitz und Führen sind immer dasselbe.",
+      "Führen betrifft grundsätzlich das Ausüben tatsächlicher Gewalt außerhalb der eigenen Wohnung, Geschäftsräume oder des befriedeten Besitztums.",
+      "Für das Führen können andere Voraussetzungen als für den Besitz gelten.",
+      "Jede Eigentumsübertragung ist automatisch ein erlaubtes Führen."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "Die gesetzlichen Begriffe sind auseinanderzuhalten; konkrete Ausnahmen und Definitionen sind zu prüfen.",
+    "legal": "WaffG, Begriffsbestimmungen Anlage 1"
+  },
+  {
+    "id": "V139-267",
+    "module": "Rechtsgrundlagen",
+    "question": "Eine Person behauptet: „Ein Messer ist frei verkäuflich, deshalb darf ich es überall führen.“ Was trifft zu?",
+    "answers": [
+      "Die Aussage ist ohne Weiteres richtig.",
+      "Erwerb und Führen unterliegen nicht zwingend denselben Regeln.",
+      "Je nach Messer, Ort und Situation sind gesetzliche Führverbote oder Ausnahmen zu prüfen.",
+      "Ein Kaufbeleg ersetzt jede Prüfung des Führverbots."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "Verkehrsfähigkeit eines Gegenstands begründet keine allgemeine Führerlaubnis.",
+    "legal": "WaffG §§ 42, 42a, 42b – aktuelle Fassung prüfen"
+  },
+  {
+    "id": "V139-268",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche Aussagen über ein F-im-Fünfeck-Zeichen sind sachgerecht?",
+    "answers": [
+      "Es kann bei bestimmten erlaubnisfrei erwerbbaren Druckluft- und Federdruckwaffen relevant sein.",
+      "Es erlaubt automatisch das Führen auf öffentlichen Veranstaltungen.",
+      "Es ersetzt nicht die Prüfung weiterer waffenrechtlicher Vorschriften.",
+      "Es ist identisch mit der PTB-Kennzeichnung für Schreckschusswaffen."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Ein Prüfzeichen ist nur ein Teil der rechtlichen Beurteilung.",
+    "legal": "WaffG; Beschussrecht"
+  },
+  {
+    "id": "V139-269",
+    "module": "Rechtsgrundlagen",
+    "question": "Bei einem Elektroimpulsgerät wird auf eine Kennzeichnung verwiesen. Welche Aussagen sind richtig?",
+    "answers": [
+      "Die rechtliche Einordnung hängt unter anderem von der konkreten Bauart und den gesetzlichen Anforderungen ab.",
+      "Ein beliebiger Aufkleber genügt als amtliches Prüfzeichen.",
+      "Eine amtliche Kennzeichnung ist anhand der einschlägigen Regelungen zu beurteilen.",
+      "Jeder E-Schocker darf ohne Einschränkung in Sicherheitsbereiche mitgenommen werden."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Nicht jedes Elektroimpulsgerät ist gleich zu behandeln; maßgeblich sind Bauart, Kennzeichnung und Rechtslage.",
+    "legal": "WaffG Anlage 2; einschlägige Zulassungsregelungen"
+  },
+  {
+    "id": "V139-270",
+    "module": "Anlage 1-A / 4-C",
+    "question": "Eine kontrollierte Person legt zwei Sprays vor, eines als Tierabwehrspray gekennzeichnet, das andere ohne lesbare Angaben. Was ist zutreffend?",
+    "answers": [
+      "Beide sind allein aufgrund ihrer Größe unbedenklich.",
+      "Die Kennzeichnung ist für die Einordnung relevant, aber nicht allein entscheidend für den Sicherheitsbereich.",
+      "Eine fehlende Kennzeichnung darf nicht durch Vermutungen ersetzt werden.",
+      "Nur das unbeschriftete Spray kann luftverkehrsrechtlich relevant sein."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "Die tatsächlichen Eigenschaften und geltenden Regelungen sind entscheidend.",
+    "legal": "DVO (EU) 2015/1998, Anlage 1-A; WaffG"
+  },
+  {
+    "id": "V139-271",
+    "module": "11.2.3.1",
+    "question": "Bei der Personenkontrolle wird ein Gegenstand gefunden, der waffenrechtlich erlaubt sein könnte. Welche Überlegungen sind korrekt?",
+    "answers": [
+      "Waffenrechtliche Erlaubnis und luftverkehrsrechtliches Mitführverbot getrennt prüfen.",
+      "Das Auffinden eines Gegenstands allein beweist eine Straftat.",
+      "Sachlich dokumentieren und nach geltenden Verfahren entscheiden lassen.",
+      "Bei jeder Kennzeichnung automatisch freigeben."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Fachliche Feststellung, rechtliche Bewertung und betriebliche Zuständigkeit sind zu trennen.",
+    "legal": "DVO (EU) 2015/1998, Anlage 1-A; WaffG"
+  },
+  {
+    "id": "V139-272",
+    "module": "11.2.3.1",
+    "question": "Eine Person erklärt, ein Spray sei nur zur Abwehr von Tieren gedacht. Welche Aussagen sind richtig?",
+    "answers": [
+      "Die Zweckbestimmung kann für die waffenrechtliche Einordnung bedeutsam sein.",
+      "Die Erklärung hebt Anlage 1-A automatisch auf.",
+      "Die luftsicherheitsrechtliche Bewertung erfolgt unabhängig von der Behauptung der Person.",
+      "Der Gegenstand ist ohne weitere Prüfung immer zulässig."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Die subjektive Erklärung allein entscheidet nicht über ein Mitführverbot.",
+    "legal": "DVO (EU) 2015/1998, Anlage 1-A"
+  },
+  {
+    "id": "V139-273",
+    "module": "Rechtsgrundlagen",
+    "question": "Ein Gegenstand trägt ein PTB-Zeichen. Welche Schlussfolgerungen sind fachlich zulässig?",
+    "answers": [
+      "Das Zeichen muss im Zusammenhang mit der jeweiligen Gegenstandsart interpretiert werden.",
+      "PTB bedeutet bei allen Gegenständen dieselbe rechtliche Erlaubnis.",
+      "Weitere Verbote, Führregelungen und örtliche Beschränkungen bleiben relevant.",
+      "PTB hebt die Luftsicherheitsvorschriften auf."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Prüfzeichen ersetzen nicht die Prüfung des konkreten Rechtsbereichs.",
+    "legal": "WaffG; Beschussrecht; DVO (EU) 2015/1998"
+  },
+  {
+    "id": "V139-274",
+    "module": "Anlage 1-A / 4-C",
+    "question": "Eine Person führt einen Gegenstand mit, der nach allgemeinem Waffenrecht besessen werden darf, in Anlage 1-A aber erfasst ist. Welche Aussagen treffen zu?",
+    "answers": [
+      "Die allgemeine Besitzberechtigung hebt das luftsicherheitsrechtliche Verbot auf.",
+      "Die Regelungen haben unterschiedliche Schutzbereiche.",
+      "Etwaige ausdrücklich vorgesehene Ausnahmen müssen gesondert geprüft werden.",
+      "Der Kaufbeleg ist allein ausreichend."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "Luftsicherheitsrecht und Waffenrecht sind eigenständig zu prüfen.",
+    "legal": "DVO (EU) 2015/1998, Anlage 1-A"
+  },
+  {
+    "id": "V139-275",
+    "module": "11.2.3.4",
+    "question": "Bei einer Fahrzeugkontrolle wird ein möglicherweise verbotener Gegenstand festgestellt. Welche Aussagen sind korrekt?",
+    "answers": [
+      "Die Kontrolle wird allein wegen der Behauptung des Fahrers abgebrochen.",
+      "Die Feststellung ist anhand der einschlägigen Vorgaben zu bewerten.",
+      "Die waffenrechtliche und die luftsicherheitsrechtliche Betrachtung können voneinander abweichen.",
+      "Der Fahrzeugausweis erlaubt automatisch alle mitgeführten Gegenstände."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "Fahrzeugzutritt ist keine pauschale Ausnahme von Mitführverboten.",
+    "legal": "DVO (EU) 2015/1998; WaffG"
+  },
+  {
+    "id": "V139-276",
+    "module": "11.2.3.5",
+    "question": "Bei einer Zutrittsprüfung wird ein erlaubnispflichtiger Gegenstand erwähnt. Was gehört zur sachgerechten Einordnung?",
+    "answers": [
+      "Berechtigung und Zweck des Zutritts getrennt betrachten.",
+      "Jede Beschäftigung am Flughafen bedeutet Waffenberechtigung.",
+      "Einschlägige Ausnahmen und geltende Regeln prüfen.",
+      "Ein Dienstausweis ersetzt automatisch alle erforderlichen Erlaubnisse."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Ausweise und sonstige Berechtigungen sind nicht gleichzusetzen.",
+    "legal": "DVO (EU) 2015/1998; WaffG"
+  },
+  {
+    "id": "V139-277",
+    "module": "11.2.3.3",
+    "question": "Bei einer Lieferung werden als Handelsware verpackte Reizstoffsprays angegeben. Was ist richtig?",
+    "answers": [
+      "Die Verpackung als Handelsware allein erlaubt den Zutritt.",
+      "Art des Gegenstands und einschlägige Sicherheitsvorschriften müssen beurteilt werden.",
+      "Die Einordnung der Lieferung ersetzt nicht die Prüfung der Zutrittsvoraussetzungen.",
+      "Ein Lieferschein hebt alle Verbote auf."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "Handelsdokumente sind keine pauschale Ausnahme von Sicherheitsvorschriften.",
+    "legal": "DVO (EU) 2015/1998; einschlägige Anlagen"
+  },
+  {
+    "id": "V139-278",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche Aussagen zu § 42a WaffG sind als Lernregel geeignet?",
+    "answers": [
+      "Die Norm behandelt unter anderem das Führen bestimmter Messer.",
+      "Jedes Messer ist unabhängig von Bauart und Umständen gleich geregelt.",
+      "Ausnahmen und weitere örtliche oder spezielle Verbote müssen gesondert berücksichtigt werden.",
+      "Ein Kauf im Fachhandel ersetzt alle gesetzlichen Voraussetzungen."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Messerrecht ist anhand der konkreten Tatbestandsmerkmale und Ausnahmen zu prüfen.",
+    "legal": "WaffG § 42a, aktuelle Fassung prüfen"
+  },
+  {
+    "id": "V139-279",
+    "module": "Anlage 1-A / 4-C",
+    "question": "Bei einem aufgefundenen Elektroimpulsgerät: Welche Prüfgedanken sind sachgerecht?",
+    "answers": [
+      "Gerätetyp und geltende rechtliche Einordnung sind entscheidend.",
+      "Jedes Elektroimpulsgerät ist unabhängig von Bauart rechtlich identisch.",
+      "Ein waffenrechtlich zulässiges Gerät kann dennoch luftverkehrsrechtlich unzulässig sein.",
+      "Die Aussage des Besitzers ersetzt die Prüfung."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Rechtsbereiche getrennt bewerten und die konkrete Geräteart berücksichtigen.",
+    "legal": "WaffG Anlage 2; DVO (EU) 2015/1998, Anlage 1-A"
+  },
+  {
+    "id": "V139-280",
+    "module": "11.2.3.1",
+    "question": "Eine Person argumentiert mit einem Ausnahmefall aus dem Waffenrecht. Welche Antworten sind fachlich richtig?",
+    "answers": [
+      "Die Ausnahme muss auf die konkrete Situation anwendbar sein.",
+      "Jede waffenrechtliche Ausnahme ist automatisch auch eine luftsicherheitsrechtliche Ausnahme.",
+      "Andere einschlägige Regelwerke bleiben gesondert zu prüfen.",
+      "Eine mündliche Behauptung genügt stets als Nachweis."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Ausnahmen sind regelwerks- und situationsbezogen.",
+    "legal": "WaffG; DVO (EU) 2015/1998"
+  },
+  {
+    "id": "V139-281",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche Aussagen zum kleinen Waffenschein sind zutreffend?",
+    "answers": [
+      "Er betrifft unter gesetzlichen Voraussetzungen das Führen bestimmter Schreckschuss-, Reizstoff- und Signalwaffen.",
+      "Er ist eine allgemeine Erlaubnis für jede Schusswaffe.",
+      "Er ersetzt keine zusätzlichen Verbote für bestimmte Orte und Situationen.",
+      "Er ist eine allgemeine Zutrittsberechtigung für Flughafensicherheitsbereiche."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Erlaubnisumfang und örtliche Verbote müssen getrennt betrachtet werden.",
+    "legal": "WaffG § 10 Abs. 4; weitere Führverbote"
+  },
+  {
+    "id": "V139-282",
+    "module": "Anlage 1-A / 4-C",
+    "question": "Eine Kontrollperson findet ein Messer und ein Tierabwehrspray. Welche Aussagen treffen zu?",
+    "answers": [
+      "Beide Gegenstände werden allein nach ihrer Verkaufsbezeichnung bewertet.",
+      "Für beide ist die konkrete Einordnung nach den jeweils einschlägigen Regelungen nötig.",
+      "Die Prüfung des einen Gegenstands ersetzt nicht die Prüfung des anderen.",
+      "Beide sind bei privatem Eigentum immer zulässig."
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "Unterschiedliche Gegenstände können unterschiedliche Verbotsmerkmale erfüllen.",
+    "legal": "DVO (EU) 2015/1998, Anlage 1-A; WaffG"
+  },
+  {
+    "id": "V139-283",
+    "module": "Rechtsgrundlagen",
+    "question": "Warum ist die Aussage „ohne Kennzeichnung immer automatisch dieselbe Straftat“ ungeeignet?",
+    "answers": [
+      "Die genaue Rechtsfolge hängt von Gegenstandsart und gesetzlichem Tatbestand ab.",
+      "Jeder Verstoß gegen Sicherheitsregeln ist zwingend dieselbe Straftat.",
+      "Eine rechtliche Einordnung erfordert die Prüfung der konkreten Voraussetzungen.",
+      "Die Kennzeichnung spielt bei keinem Gegenstand eine Rolle."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Zwischen Verbot, Ordnungswidrigkeit, Straftat und bloßer Unzulässigkeit des Mitführens ist zu unterscheiden.",
+    "legal": "WaffG; LuftSiG; DVO (EU) 2015/1998"
   }
 ]
