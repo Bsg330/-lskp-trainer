@@ -2938,5 +2938,375 @@
     "correct": 0,
     "explanation": "Ziel ist die sichere Zuordnung von Anwendungsbereich, Kategorie und Rechtsgrundlage.",
     "legal": "DVO (EU) 2015/1998, Anlage 1-A / Anlage 4-C; § 11 LuftSiG"
+  },
+  {
+    "id": "135-001",
+    "module": "11.2.3.1",
+    "question": "Welche Aussage beschreibt die Bedeutung einer abgeschlossenen Schulung für die eigenverantwortliche Durchführung von Sicherheitskontrollen am zutreffendsten?",
+    "answers": [
+      "Eine Teilnahmebescheinigung genügt unabhängig von der Tätigkeit.",
+      "Die Anforderungen an Schulung, Eignung und gegebenenfalls Zertifizierung richten sich nach der konkret ausgeübten Tätigkeit.",
+      "Ein gültiger Flughafenausweis ersetzt die fachliche Qualifikation.",
+      "Jede abgeschlossene Schulung berechtigt automatisch zu sämtlichen Kontrollaufgaben."
+    ],
+    "correct": 1,
+    "explanation": "Die Voraussetzungen müssen zur konkreten Kontrollaufgabe passen; Schulung und erforderliche Zertifizierung sind zu unterscheiden.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-002",
+    "module": "11.2.3.1",
+    "question": "Wie ist bei einer Unklarheit während einer Personenkontrolle grundsätzlich zu handeln?",
+    "answers": [
+      "Die Kontrolle wird aus Zeitgründen abgekürzt.",
+      "Die betroffene Person entscheidet über das weitere Verfahren.",
+      "Die Unklarheit wird nach dem dafür vorgesehenen Verfahren geklärt.",
+      "Die Kontrolle gilt bei gültigem Ausweis als abgeschlossen."
+    ],
+    "correct": 2,
+    "explanation": "Unklarheiten sind nach den geltenden Vorgaben zu klären; ein Ausweis ersetzt keine erforderliche Kontrolle.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-003",
+    "module": "11.2.3.2",
+    "question": "Welche Aussage trifft auf die Sicherheit von Fracht und Post am ehesten zu?",
+    "answers": [
+      "Ein bekannter Absender macht jede weitere Sicherheitsmaßnahme entbehrlich.",
+      "Der Sicherheitsstatus ist nach den jeweils geltenden Vorgaben und der gesicherten Lieferkette zu beurteilen.",
+      "Eine äußerlich unbeschädigte Verpackung belegt den Sicherheitsstatus.",
+      "Der Transporteur kann den Sicherheitsstatus ohne Nachweise selbst festlegen."
+    ],
+    "correct": 1,
+    "explanation": "Maßgeblich sind die einschlägigen Sicherheitsvorgaben und der nachweisbare Status innerhalb der Lieferkette.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-004",
+    "module": "11.2.3.2",
+    "question": "Was ist bei widersprüchlichen Angaben zum Sicherheitsstatus einer Sendung sachgerecht?",
+    "answers": [
+      "Die günstigste Angabe wird übernommen.",
+      "Der Status wird anhand der geltenden Vorgaben geklärt, bevor er vorausgesetzt wird.",
+      "Die Sendung gilt bei Zeitdruck als sicher.",
+      "Eine mündliche Zusage ersetzt jeden erforderlichen Nachweis."
+    ],
+    "correct": 1,
+    "explanation": "Widersprüche dürfen nicht durch Vermutungen oder Zeitdruck übergangen werden.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-005",
+    "module": "11.2.3.3",
+    "question": "Welche Aussage ist für Flughafenlieferungen und Bordvorräte zutreffend?",
+    "answers": [
+      "Eine Lieferung ist wegen ihres alltäglichen Inhalts grundsätzlich ausgenommen.",
+      "Die Bezeichnung des Lieferanten genügt stets als Sicherheitsnachweis.",
+      "Es gelten die für die jeweilige Lieferung und Lieferkette vorgesehenen Sicherheitsmaßnahmen.",
+      "Jede Lieferung unterliegt unabhängig vom Status exakt demselben Verfahren."
+    ],
+    "correct": 2,
+    "explanation": "Art und Sicherheitsstatus der Lieferung sowie die geltenden Vorgaben sind maßgeblich.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-006",
+    "module": "11.2.3.3",
+    "question": "Warum ist zwischen Flughafenlieferungen und Bordvorräten zu unterscheiden?",
+    "answers": [
+      "Weil beide Begriffe stets dieselbe Lieferkette bezeichnen.",
+      "Weil unterschiedliche Bestimmungszwecke und damit unterschiedliche Anforderungen relevant sein können.",
+      "Weil Bordvorräte niemals kontrolliert werden.",
+      "Weil Flughafenlieferungen ausschließlich von Passagieren stammen."
+    ],
+    "correct": 1,
+    "explanation": "Die Einordnung beeinflusst, welche Vorschriften und Schutzmaßnahmen anzuwenden sind.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-007",
+    "module": "11.2.3.4",
+    "question": "Welche Aussage zur Fahrzeugkontrolle ist fachlich am zutreffendsten?",
+    "answers": [
+      "Ein bekannter Fahrer ersetzt die vorgeschriebene Kontrolle.",
+      "Die Kontrolle orientiert sich an den gültigen Verfahren und dem jeweiligen Kontrollauftrag.",
+      "Eine frühere Kontrolle gilt ohne Weiteres für alle folgenden Zufahrten.",
+      "Ein äußerlich sauberes Fahrzeug kann grundsätzlich freigegeben werden."
+    ],
+    "correct": 1,
+    "explanation": "Kontrollen sind tätigkeits- und verfahrensgerecht durchzuführen, nicht nach persönlichem Eindruck.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-008",
+    "module": "11.2.3.4",
+    "question": "Wie ist mit einer Auffälligkeit bei der Fahrzeugkontrolle grundsätzlich umzugehen?",
+    "answers": [
+      "Die Kontrolle wird mit dem Hinweis auf Zeitdruck beendet.",
+      "Die Auffälligkeit wird nach dem geltenden Verfahren behandelt und erforderlichenfalls gemeldet.",
+      "Die Auffälligkeit bleibt unbeachtet, wenn der Fahrer bekannt ist.",
+      "Die Kontrollperson entscheidet allein nach Bauchgefühl über eine Ausnahme."
+    ],
+    "correct": 1,
+    "explanation": "Auffälligkeiten erfordern die vorgesehene Klärung und gegebenenfalls Meldung.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-009",
+    "module": "11.2.3.5",
+    "question": "Welche Aussage zur Zugangsberechtigung trifft zu?",
+    "answers": [
+      "Ein gültiger Ausweis erlaubt jeden Zutritt ohne weitere Bedingungen.",
+      "Eine Berechtigung ist für den konkreten Bereich und die geltenden Zugangsbedingungen zu prüfen.",
+      "Bekannte Beschäftigte brauchen keine Zugangsberechtigung.",
+      "Die Dienstkleidung ersetzt den erforderlichen Ausweis."
+    ],
+    "correct": 1,
+    "explanation": "Berechtigungen sind bereichs- und situationsbezogen zu prüfen.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-010",
+    "module": "11.2.3.5",
+    "question": "Welcher Grundsatz ist bei einem Streifengang sachgerecht?",
+    "answers": [
+      "Auffälligkeiten werden erst am Schichtende bewertet.",
+      "Die Aufmerksamkeit richtet sich ausschließlich auf bekannte Problemstellen.",
+      "Feststellungen werden nach den vorgesehenen Verfahren behandelt und dokumentiert, soweit vorgeschrieben.",
+      "Bei ruhiger Lage entfallen die geltenden Kontrollvorgaben."
+    ],
+    "correct": 2,
+    "explanation": "Maßgeblich sind aufmerksame Wahrnehmung und das vorgeschriebene Vorgehen bei Feststellungen.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-011",
+    "module": "Rechtsgrundlagen",
+    "question": "Wie verhalten sich die Verordnung (EG) Nr. 300/2008 und die Durchführungsverordnung (EU) 2015/1998 zueinander?",
+    "answers": [
+      "Beide betreffen ausschließlich nationale Flughafenordnungen.",
+      "Die Verordnung 300/2008 enthält gemeinsame Grundregeln; 2015/1998 konkretisiert Maßnahmen zu ihrer Durchführung.",
+      "Die Durchführungsverordnung ersetzt die Grundverordnung vollständig.",
+      "Die Verordnung 300/2008 gilt ausschließlich für die Luftfracht."
+    ],
+    "correct": 1,
+    "explanation": "Grundverordnung und Durchführungsregelung haben unterschiedliche Funktionen.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-012",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche Aussage zur Verwendung älterer Schulungsunterlagen ist zutreffend?",
+    "answers": [
+      "Ältere Fassungen gelten stets fort, wenn sie einmal unterrichtet wurden.",
+      "Für rechtliche Aussagen ist die aktuell geltende Fassung der einschlägigen Vorschriften maßgeblich.",
+      "Ein Schulungsskript hat Vorrang vor EU-Recht.",
+      "Nur die Jahreszahl auf dem Titelblatt entscheidet über die Gültigkeit."
+    ],
+    "correct": 1,
+    "explanation": "Schulungsunterlagen müssen gegen die geltenden Vorschriften geprüft werden.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-013",
+    "module": "Anlage 1-A / 4-C",
+    "question": "Warum ist bei verbotenen Gegenständen zwischen verschiedenen Anlagen zu unterscheiden?",
+    "answers": [
+      "Weil die Anlagen stets denselben Personenkreis und dieselbe Situation regeln.",
+      "Weil der Anwendungsbereich und die betroffene Personengruppe für die Einordnung entscheidend sein können.",
+      "Weil die Anlagen ausschließlich Empfehlungen enthalten.",
+      "Weil Gegenstände unabhängig vom Kontext immer gleich bewertet werden müssen."
+    ],
+    "correct": 1,
+    "explanation": "Die einschlägige Anlage und der jeweilige Kontrollkontext müssen korrekt zugeordnet werden.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "135-014",
+    "module": "Anlage 1-A / 4-C",
+    "question": "Was ist bei der Beurteilung eines möglicherweise verbotenen Gegenstands besonders wichtig?",
+    "answers": [
+      "Nur der umgangssprachliche Name des Gegenstands.",
+      "Die aktuelle einschlägige Regelung und der konkrete Anwendungsbereich.",
+      "Die persönliche Einschätzung des Besitzers allein.",
+      "Ob der Gegenstand am Flughafen häufig vorkommt."
+    ],
+    "correct": 1,
+    "explanation": "Die Einordnung muss anhand der geltenden Regelung und des jeweiligen Anwendungsbereichs erfolgen.",
+    "legal": "Prüfungsnahe Lernhilfe; aktuelle Rechtslage und betriebliche Vorgaben prüfen"
+  },
+  {
+    "id": "136-001",
+    "module": "11.2.3.1",
+    "question": "Welche Aussagen zur Sicherheitskontrolle von Personen sind zutreffend?",
+    "answers": [
+      "Eine bekannte Person ist grundsätzlich von der Kontrolle befreit.",
+      "Die jeweils geltenden Kontrollverfahren sind einzuhalten.",
+      "Ein Dienstausweis ersetzt automatisch jede Kontrolle.",
+      "Ein Alarm muss entsprechend den Vorgaben geklärt werden."
+    ],
+    "correct": [
+      1,
+      3
+    ],
+    "explanation": "Bekanntheit oder Ausweis allein heben geltende Sicherheitsanforderungen nicht auf.",
+    "legal": "Prüfungsnahe Lernhilfe; geltende Vorschriften und freigegebene Verfahren prüfen"
+  },
+  {
+    "id": "136-002",
+    "module": "11.2.3.1",
+    "question": "Welche Aussagen beschreiben verantwortungsbewusstes Kontrollverhalten?",
+    "answers": [
+      "Auch bei Zeitdruck gelten die vorgesehenen Verfahren.",
+      "Persönliche Vermutungen ersetzen verbindliche Regeln.",
+      "Auffälligkeiten sind nach den geltenden Verfahren zu behandeln.",
+      "Ein hoher Durchsatz ist wichtiger als eine vollständige Kontrolle."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Sorgfalt und regelkonforme Bearbeitung gehen vor bloßer Geschwindigkeit.",
+    "legal": "Prüfungsnahe Lernhilfe; geltende Vorschriften und freigegebene Verfahren prüfen"
+  },
+  {
+    "id": "136-003",
+    "module": "11.2.3.2",
+    "question": "Welche Aussagen zur Sicherung von Luftfracht und Luftpost sind zutreffend?",
+    "answers": [
+      "Sicherheitsstatus und Herkunft sind im vorgesehenen Verfahren zu berücksichtigen.",
+      "Ein bekanntes Firmenlogo genügt als Sicherheitsnachweis.",
+      "Die anwendbaren Sicherheitsmaßnahmen hängen vom konkreten Status und Prozess ab.",
+      "Jede Sendung darf allein aufgrund ihrer Verpackung freigegeben werden."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Status und geltende Verfahren sind maßgeblich, nicht bloße Äußerlichkeiten.",
+    "legal": "Prüfungsnahe Lernhilfe; geltende Vorschriften und freigegebene Verfahren prüfen"
+  },
+  {
+    "id": "136-004",
+    "module": "11.2.3.3",
+    "question": "Welche Aussagen gelten grundsätzlich für Flughafenlieferungen und Bordvorräte?",
+    "answers": [
+      "Ihre Behandlung richtet sich nach den jeweils einschlägigen Sicherheitsvorgaben.",
+      "Alle Lieferungen sind allein wegen eines bekannten Fahrers sicher.",
+      "Dokumentation und erforderliche Kontrollen dürfen nicht durch persönliche Bekanntheit ersetzt werden.",
+      "Die Bezeichnung einer Lieferung hebt jede Sicherheitsanforderung auf."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Entscheidend sind einschlägige Regeln und die vorgesehene Behandlung.",
+    "legal": "Prüfungsnahe Lernhilfe; geltende Vorschriften und freigegebene Verfahren prüfen"
+  },
+  {
+    "id": "136-005",
+    "module": "11.2.3.4",
+    "question": "Welche vier der folgenden Begriffe bezeichnen mögliche allgemeine Kontrollbereiche an Fahrzeugen?",
+    "answers": [
+      "Motorraum",
+      "Kofferraum",
+      "Radkästen",
+      "Innenraum",
+      "Flugzeugtragfläche",
+      "Startbahnbefeuerung"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Die vier genannten Fahrzeugbereiche sind allgemeine Bereiche; maßgeblich bleibt das jeweils genehmigte Verfahren.",
+    "legal": "Prüfungsnahe Lernhilfe; geltende Vorschriften und freigegebene Verfahren prüfen"
+  },
+  {
+    "id": "136-006",
+    "module": "11.2.3.4",
+    "question": "Welche Aussagen zur Fahrzeugkontrolle sind grundsätzlich richtig?",
+    "answers": [
+      "Es sind die jeweils vorgegebenen Kontrollverfahren anzuwenden.",
+      "Eine persönliche Bekanntschaft mit dem Fahrer ersetzt jede vorgeschriebene Kontrolle.",
+      "Festgestellte Auffälligkeiten sind entsprechend den Vorgaben zu behandeln.",
+      "Der Kontrollumfang wird allein nach persönlichem Ermessen festgelegt."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Kontrollen und Reaktionen müssen den geltenden Vorgaben entsprechen.",
+    "legal": "Prüfungsnahe Lernhilfe; geltende Vorschriften und freigegebene Verfahren prüfen"
+  },
+  {
+    "id": "136-007",
+    "module": "11.2.3.5",
+    "question": "Welche Aussagen zu Zugangskontrollen treffen zu?",
+    "answers": [
+      "Eine Berechtigung muss im vorgesehenen Rahmen geprüft werden.",
+      "Ein sichtbarer Ausweis bedeutet, dass jede weitere Prüfung entfällt.",
+      "Unstimmigkeiten sind nach den geltenden Regeln zu klären.",
+      "Bekannte Beschäftigte dürfen unabhängig von Regeln passieren."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Zugangsberechtigung und Verfahren bleiben maßgeblich.",
+    "legal": "Prüfungsnahe Lernhilfe; geltende Vorschriften und freigegebene Verfahren prüfen"
+  },
+  {
+    "id": "136-008",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche zwei Aussagen zu den europäischen Luftsicherheitsvorschriften sind zutreffend?",
+    "answers": [
+      "Die Verordnung (EG) Nr. 300/2008 enthält gemeinsame Grundregeln.",
+      "Die Durchführungsverordnung (EU) 2015/1998 regelt detailliertere Maßnahmen.",
+      "Die Verordnung (EG) Nr. 300/2008 gilt ausschließlich für den Straßenverkehr.",
+      "Die DVO 2015/1998 ist ein privates Schulungshandbuch."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "Die Grundverordnung und die Durchführungsverordnung erfüllen unterschiedliche Funktionen.",
+    "legal": "Prüfungsnahe Lernhilfe; geltende Vorschriften und freigegebene Verfahren prüfen"
+  },
+  {
+    "id": "136-009",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche Aussagen zu Schulung und Berechtigung sind zutreffend?",
+    "answers": [
+      "Der erforderliche Qualifikationsumfang hängt von den übertragenen Tätigkeiten ab.",
+      "Eine Schulung für ein Modul berechtigt automatisch zu allen Tätigkeiten.",
+      "Einschlägige Anforderungen an Zuverlässigkeit und Qualifikation sind zu beachten.",
+      "Eine bestandene Übungsprüfung in dieser App ersetzt die behördlich vorgeschriebenen Nachweise."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Die App dient dem Üben; erforderliche behördliche und betriebliche Voraussetzungen bleiben bestehen.",
+    "legal": "Prüfungsnahe Lernhilfe; geltende Vorschriften und freigegebene Verfahren prüfen"
+  },
+  {
+    "id": "136-010",
+    "module": "Anlage 1-A / 4-C",
+    "question": "Welche Aussagen zur Einordnung verbotener Gegenstände sind zutreffend?",
+    "answers": [
+      "Der Anwendungsbereich der einschlägigen Liste ist wichtig.",
+      "Anlage 1-A und Anlage 4-C sind unabhängig vom Kontext immer identisch.",
+      "Es ist die geltende Fassung der Vorschriften zu berücksichtigen.",
+      "Die Bezeichnung durch den Besitzer ist allein entscheidend."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Rechtliche Einordnung erfordert passende Liste und aktuellen Regelungsstand.",
+    "legal": "Prüfungsnahe Lernhilfe; geltende Vorschriften und freigegebene Verfahren prüfen"
   }
 ]
