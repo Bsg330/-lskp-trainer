@@ -183,3 +183,11 @@ main{max-width:980px;padding-bottom:104px}
 .rd-drawer>button{background:transparent;border:0;border-bottom:1px solid #d0d6dc;color:#34495b;padding:15px 8px;text-align:left;font-size:16px;font-weight:650;cursor:pointer}
 .rd-drawer hr{width:100%;border:0;border-top:1px solid #aab9c7;margin:15px 0}.rd-drawer small{margin-top:22px;color:#607080}
 @media(max-width:390px){.rd-options{padding-left:12px;padding-right:12px}.rd-options button{min-height:85px}.rd-hero img{width:100px;height:100px}}
+
+/* Version 1.3.4: unterscheidbare Symbole mit ansteigender Statistik */
+.rd-options button>span.rd-symbol{display:flex;align-items:center;justify-content:center;width:46px;min-width:46px;height:46px;border-radius:12px;font-size:31px;background:#e9f3fc;}
+.rd-options .rd-symbol.rd-blue{color:#136fb1;background:#e4f2ff}
+.rd-options .rd-symbol.rd-teal{color:#087e91;background:#e1f7f6}
+.rd-options .rd-symbol.rd-orange{color:#b66a0a;background:#fff0da}
+.rd-options .rd-symbol.rd-green{color:#188451;background:#e3f5e9}
+.rd-options .rd-symbol svg{display:block}
