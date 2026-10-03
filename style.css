@@ -161,3 +161,25 @@ main{max-width:980px;padding-bottom:104px}
 .gpa-scheme div,.card .gpa-scheme div{color:#102f4c!important;background:#e8f3fc!important;border:2px solid #7ea9c8!important;text-shadow:none!important;font-size:15px;line-height:1.35;overflow-wrap:break-word;}
 .gpa-scheme span{color:#a8dcff!important;font-weight:800;}
 @media(max-width:420px){.gpa-scheme{gap:5px}.gpa-scheme div{font-size:13px!important;padding:10px 7px;max-width:125px}}
+
+/* 1.3.3: ruhige Startseite im Stil einer Prüfungs-Lernapp */
+.redesign{min-height:100vh;background:linear-gradient(180deg,#082541 0%,#0b355a 44%,#05192d 100%);color:#fff;padding-bottom:22px}
+.rd-header{height:65px;display:flex;align-items:center;justify-content:space-between;padding:8px 18px;background:#071d34;border-bottom:1px solid #456580;font-size:16px;letter-spacing:2px;font-weight:800}
+.rd-header button{border:0;background:transparent;color:#fff;font-size:29px;padding:7px 11px;cursor:pointer}
+.rd-hero{text-align:center;padding:22px 16px 24px;background:radial-gradient(ellipse at 50% 20%,#245b87 0%,#0a2d4f 65%,transparent 100%)}
+.rd-hero img{width:118px;height:118px;object-fit:contain;border-radius:25px;filter:drop-shadow(0 5px 12px #0008)}
+.rd-hero h1{font-size:clamp(31px,8vw,46px);margin:8px 0 3px;letter-spacing:2px;color:#fff}
+.rd-hero p{font-size:17px;font-weight:700;margin:4px 0;color:#fff}.rd-hero small{letter-spacing:1.2px;color:#d6e6f3;font-size:11px}
+.rd-options{display:flex;flex-direction:column;gap:13px;padding:12px 18px 20px;max-width:680px;margin:auto}
+.rd-options button{width:100%;display:flex;align-items:center;gap:17px;text-align:left;background:#f8fafc;color:#173650;border:1px solid #bed4e7;border-radius:15px;min-height:94px;padding:15px 17px;box-shadow:0 5px 14px #0003;cursor:pointer}
+.rd-options button>span{font-size:34px;color:#1677b8;width:40px;text-align:center;flex-shrink:0}
+.rd-options button b{display:block;font-size:clamp(19px,5vw,26px);line-height:1.2;color:#0d4671}
+.rd-options button small{display:block;color:#4a6072;font-size:13px;margin-top:6px;line-height:1.4}
+.rd-options button:focus-visible,.rd-header button:focus-visible,.rd-drawer button:focus-visible{outline:3px solid #f8ce60;outline-offset:2px}
+.rd-bottom{text-align:center;font-size:12px;color:#c2d8e9;padding:6px 18px 14px}.rd-bottom button{display:block;margin:13px auto;background:#16834a;color:#fff;border:0;border-radius:9px;padding:12px 18px;font-weight:800;cursor:pointer}.rd-bottom p{margin-top:16px}
+.rd-overlay{position:fixed;inset:0;z-index:9999;background:#0009;display:flex;align-items:stretch}
+.rd-drawer{background:#f7f9fc;color:#243748;width:min(83vw,370px);height:100%;overflow:auto;padding:20px 17px 32px;box-shadow:8px 0 24px #0005;display:flex;flex-direction:column}
+.rd-drawer-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;color:#0b4975}.rd-drawer-head button{width:auto!important;border:0!important;font-size:23px!important}
+.rd-drawer>button{background:transparent;border:0;border-bottom:1px solid #d0d6dc;color:#34495b;padding:15px 8px;text-align:left;font-size:16px;font-weight:650;cursor:pointer}
+.rd-drawer hr{width:100%;border:0;border-top:1px solid #aab9c7;margin:15px 0}.rd-drawer small{margin-top:22px;color:#607080}
+@media(max-width:390px){.rd-options{padding-left:12px;padding-right:12px}.rd-options button{min-height:85px}.rd-hero img{width:100px;height:100px}}
