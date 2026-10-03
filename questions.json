@@ -4,12 +4,12 @@
     "module": "11.2.3.1",
     "question": "Was ist bei einem ausgelösten Alarm entscheidend?",
     "answers": [
-      "Ignorieren, wenn die Person bekannt ist",
-      "Alarmursache nach dem vorgesehenen Verfahren klären",
-      "Nur den Ausweis prüfen",
-      "Kontrolle sofort beenden"
+      "Die Alarmursache nach dem jeweils vorgesehenen Kontrollverfahren klären",
+      "Die Alarmursache allein anhand einer erneuten Ausweiskontrolle abschließend bewerten",
+      "Eine Kontrollwiederholung ohne weitere Bewertung grundsätzlich als ausreichend ansehen",
+      "Die Kontrolle erst nach Zustimmung der kontrollierten Person fortsetzen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Ein Alarm muss nach dem vorgesehenen Kontrollverfahren geklärt werden.",
     "legal": "DVO (EU) 2015/1998, 11.2.3.1"
   },
@@ -18,10 +18,10 @@
     "module": "11.2.3.1",
     "question": "Warum müssen Kontrollverfahren konsequent angewendet werden?",
     "answers": [
-      "Nur wegen der Geschwindigkeit",
-      "Für ein einheitliches Sicherheitsniveau",
-      "Nur bei unbekannten Personen",
-      "Damit Technik entfallen kann"
+      "Weil Kontrollmethoden unabhängig von den örtlichen Vorgaben immer identisch sind",
+      "Damit die vorgeschriebenen Sicherheitsstandards zuverlässig und nachvollziehbar umgesetzt werden",
+      "Weil ausschließlich die Dauer der Kontrolle maßgeblich für deren Wirksamkeit ist",
+      "Damit individuelle Entscheidungen die festgelegten Verfahren ersetzen können"
     ],
     "correct": 1,
     "explanation": "Standardisierte Verfahren unterstützen ein verlässliches Sicherheitsniveau.",
@@ -3308,5 +3308,141 @@
     ],
     "explanation": "Rechtliche Einordnung erfordert passende Liste und aktuellen Regelungsstand.",
     "legal": "Prüfungsnahe Lernhilfe; geltende Vorschriften und freigegebene Verfahren prüfen"
+  },
+  {
+    "id": "11231-137-01",
+    "module": "11.2.3.1",
+    "question": "Welche Aussagen beschreiben die Bedeutung einer gültigen Zugangsberechtigung bei einer vorgeschriebenen Sicherheitskontrolle?",
+    "answers": [
+      "Sie berechtigt im festgelegten Umfang zum Zugang, ersetzt aber keine vorgeschriebene Kontrolle.",
+      "Sie hebt für bekannte Beschäftigte sämtliche weiteren Sicherheitsmaßnahmen auf.",
+      "Ihre Gültigkeit und der vorgesehene Zutrittsbereich sind voneinander zu unterscheiden.",
+      "Sie ist stets gleichbedeutend mit einer behördlichen Zertifizierung für Kontrollaufgaben."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Zutrittsberechtigung, Kontrollpflicht und Qualifikation erfüllen unterschiedliche Zwecke.",
+    "legal": "Allgemeine Grundsätze der Luftsicherheit; tätigkeitsbezogene Vorgaben prüfen"
+  },
+  {
+    "id": "11231-137-02",
+    "module": "11.2.3.1",
+    "question": "Welche Aussagen treffen auf den Umgang mit einer unklaren Kontrollfeststellung zu?",
+    "answers": [
+      "Unklarheiten werden nach dem vorgesehenen Verfahren geklärt.",
+      "Ein Zeitdruck durch wartende Personen ersetzt keine erforderliche Abklärung.",
+      "Ein unauffälliger Ausweis genügt zur Klärung jeder Auffälligkeit.",
+      "Eine Vermutung ohne weitere Klärung ist grundsätzlich einer vorgeschriebenen Maßnahme gleichwertig."
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "Die vorgeschriebenen Verfahren gelten auch bei Zeitdruck oder unklarer Ausgangslage.",
+    "legal": "Allgemeine Grundsätze der Luftsicherheit; tätigkeitsbezogene Vorgaben prüfen"
+  },
+  {
+    "id": "11231-137-03",
+    "module": "11.2.3.1",
+    "question": "Was unterscheidet Schulung, Kompetenzfeststellung und Berechtigung zum Einsatz?",
+    "answers": [
+      "Die Teilnahme an einer Schulung ist immer automatisch eine vollständige Einsatzberechtigung.",
+      "Die erforderliche Qualifikation richtet sich nach den tatsächlich auszuführenden Aufgaben.",
+      "Eine absolvierte Schulung macht jede spätere Auffrischung entbehrlich.",
+      "Weitere Voraussetzungen können unabhängig vom Abschluss einer Schulung bestehen."
+    ],
+    "correct": [
+      1,
+      3
+    ],
+    "explanation": "Die Einsatzvoraussetzungen müssen tätigkeitsbezogen vollständig erfüllt sein.",
+    "legal": "Allgemeine Grundsätze der Luftsicherheit; tätigkeitsbezogene Vorgaben prüfen"
+  },
+  {
+    "id": "11231-137-04",
+    "module": "11.2.3.1",
+    "question": "Welche Aussagen zur Qualität einer Personenkontrolle sind zutreffend?",
+    "answers": [
+      "Eine kurze Bearbeitungsdauer beweist für sich allein die Wirksamkeit der Kontrolle.",
+      "Vorgeschriebene Maßnahmen sind auch bei hohem Personenaufkommen einzuhalten.",
+      "Bekanntheit der kontrollierten Person ersetzt stets die vorgeschriebene Kontrolle.",
+      "Nachvollziehbares, regelkonformes Handeln ist wichtiger als bloße Geschwindigkeit."
+    ],
+    "correct": [
+      1,
+      3
+    ],
+    "explanation": "Sorgfalt und die Einhaltung verbindlicher Verfahren haben Vorrang vor bloßer Geschwindigkeit.",
+    "legal": "Allgemeine Grundsätze der Luftsicherheit; tätigkeitsbezogene Vorgaben prüfen"
+  },
+  {
+    "id": "11231-137-05",
+    "module": "11.2.3.1",
+    "question": "Welche Aussagen zum Zweck der Sicherheitskontrolle sind richtig?",
+    "answers": [
+      "Sie dient der Verhinderung des Einbringens verbotener Gegenstände in geschützte Bereiche.",
+      "Sie dient ausschließlich der Feststellung der Identität.",
+      "Sie ist ein Bestandteil eines umfassenderen Luftsicherheitskonzepts.",
+      "Sie ersetzt alle weiteren Sicherheitsmaßnahmen am Flughafen."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Sicherheitskontrollen sind eine Maßnahme innerhalb eines mehrschichtigen Sicherheitskonzepts.",
+    "legal": "Allgemeine Grundsätze der Luftsicherheit; tätigkeitsbezogene Vorgaben prüfen"
+  },
+  {
+    "id": "11231-137-06",
+    "module": "11.2.3.1",
+    "question": "Welche Aussagen zu einer auffälligen Feststellung während der Kontrolle sind sachgerecht?",
+    "answers": [
+      "Das vorgeschriebene Verfahren ist anzuwenden, statt eine spontane Ausnahme zu erfinden.",
+      "Bei einer bekannten Person kann auf die erforderliche Klärung verzichtet werden.",
+      "Unklare Sachverhalte sind nach den dafür geltenden Abläufen zu behandeln.",
+      "Die betroffene Person entscheidet allein über die weitere Kontrollmaßnahme."
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Eine Auffälligkeit wird nach verbindlichen Vorgaben behandelt.",
+    "legal": "Allgemeine Grundsätze der Luftsicherheit; tätigkeitsbezogene Vorgaben prüfen"
+  },
+  {
+    "id": "11231-137-07",
+    "module": "11.2.3.1",
+    "question": "Welche Aussagen beschreiben die Rolle der Zuverlässigkeitsüberprüfung im Verhältnis zur fachlichen Qualifikation?",
+    "answers": [
+      "Die Zuverlässigkeitsüberprüfung und die fachliche Befähigung betreffen unterschiedliche Voraussetzungen.",
+      "Eine erfolgreiche Zuverlässigkeitsüberprüfung ersetzt jede tätigkeitsbezogene Schulung.",
+      "Fachliche Schulung allein ersetzt alle weiteren gesetzlichen Voraussetzungen.",
+      "Vor dem Einsatz müssen die jeweils einschlägigen Voraussetzungen erfüllt sein."
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explanation": "Persönliche und fachliche Anforderungen sind getrennt zu betrachten.",
+    "legal": "Allgemeine Grundsätze der Luftsicherheit; tätigkeitsbezogene Vorgaben prüfen"
+  },
+  {
+    "id": "11231-137-08",
+    "module": "11.2.3.1",
+    "question": "Welche Aussagen zur regelmäßigen Fortbildung des Kontrollpersonals treffen zu?",
+    "answers": [
+      "Einmal erworbene Kenntnisse müssen grundsätzlich nie wieder überprüft werden.",
+      "Wiederkehrendes Training unterstützt den Erhalt erforderlicher Kenntnisse und Fertigkeiten.",
+      "Betriebliche Erfahrung macht verbindliche Fortbildungsanforderungen überflüssig.",
+      "Auch erfahrenes Personal muss geltende Schulungs- und Auffrischungsanforderungen beachten."
+    ],
+    "correct": [
+      1,
+      3
+    ],
+    "explanation": "Regelmäßige Qualifizierung ist auch für erfahrenes Personal relevant.",
+    "legal": "Allgemeine Grundsätze der Luftsicherheit; tätigkeitsbezogene Vorgaben prüfen"
   }
 ]
