@@ -2,7 +2,7 @@
   {
     "id": "11231-001",
     "module": "11.2.3.1",
-    "question": "Was ist bei einem ausgelösten Alarm entscheidend?",
+    "question": "Ein Kontrollgerät löst Alarm aus. Was ist jetzt wichtig?",
     "answers": [
       "Die Alarmursache nach dem jeweils vorgesehenen Kontrollverfahren klären",
       "Die Alarmursache allein anhand einer erneuten Ausweiskontrolle abschließend bewerten",
@@ -16,7 +16,7 @@
   {
     "id": "11231-002",
     "module": "11.2.3.1",
-    "question": "Warum müssen Kontrollverfahren konsequent angewendet werden?",
+    "question": "Warum musst du die vorgeschriebenen Kontrollverfahren einhalten?",
     "answers": [
       "Weil Kontrollmethoden unabhängig von den örtlichen Vorgaben immer identisch sind",
       "Damit die vorgeschriebenen Sicherheitsstandards zuverlässig und nachvollziehbar umgesetzt werden",
@@ -30,7 +30,7 @@
   {
     "id": "11231-003",
     "module": "11.2.3.1",
-    "question": "Was ist bei einer unterbrochenen Kontrolle wichtig?",
+    "question": "Eine Kontrolle wird unterbrochen. Was musst du beachten?",
     "answers": [
       "Alles gilt als erledigt",
       "Vollständigkeit muss nachvollziehbar bleiben",
@@ -44,7 +44,7 @@
   {
     "id": "11231-004",
     "module": "11.2.3.1",
-    "question": "Was gehört zu professionellem Verhalten an der Kontrollstelle?",
+    "question": "Wie verhältst du dich professionell an einer Kontrollstelle?",
     "answers": [
       "Verfahren persönlich ändern",
       "Ruhig kommunizieren und vorgesehene Abläufe einhalten",
@@ -58,7 +58,7 @@
   {
     "id": "11231-005",
     "module": "11.2.3.1",
-    "question": "Welche Aussage zur manuellen Kontrolle trifft am ehesten zu?",
+    "question": "Was gilt bei einer Kontrolle von Hand?",
     "answers": [
       "Sie ersetzt jede Technik automatisch",
       "Sie ist entsprechend dem vorgesehenen Verfahren vollständig durchzuführen",
@@ -72,7 +72,7 @@
   {
     "id": "11231-006",
     "module": "11.2.3.1",
-    "question": "Was ist bei sicherheitsrelevanten Auffälligkeiten grundsätzlich richtig?",
+    "question": "Dir fällt bei der Kontrolle etwas Sicherheitsrelevantes auf. Was machst du?",
     "answers": [
       "Ignorieren",
       "Nach dem vorgesehenen Verfahren reagieren und erforderlichenfalls melden",
@@ -86,7 +86,7 @@
   {
     "id": "11231-007",
     "module": "11.2.3.1",
-    "question": "Warum ist Aufmerksamkeit auch bei Routinekontrollen wichtig?",
+    "question": "Warum musst du auch bei Routinekontrollen aufmerksam bleiben?",
     "answers": [
       "Routine ersetzt Kontrolle",
       "Auch wiederkehrende Abläufe können Auffälligkeiten enthalten",
@@ -618,7 +618,7 @@
   {
     "id": "11232-015",
     "module": "11.2.3.2",
-    "question": "Warum müssen Schutzmaßnahmen nach einer Kontrolle fortbestehen?",
+    "question": "Warum ist es wichtig, dass Schutzmaßnahmen nach einer Kontrolle fortbestehen?",
     "answers": [
       "Damit die Sendung sauber bleibt",
       "Damit der erreichte Sicherheitsstatus nicht durch unbefugten Zugriff beeinträchtigt wird",
@@ -632,7 +632,7 @@
   {
     "id": "11232-016",
     "module": "11.2.3.2",
-    "question": "Was ist bei einer Übergabe besonders wichtig?",
+    "question": "Worauf musst du bei einer Übergabe besonders achten?",
     "answers": [
       "Nur Geschwindigkeit",
       "Nachvollziehbarkeit und Einhaltung der vorgesehenen Sicherheitsanforderungen",
@@ -674,7 +674,7 @@
   {
     "id": "11232-019",
     "module": "11.2.3.2",
-    "question": "Was ist bei Abweichungen vom vorgesehenen Ablauf wichtig?",
+    "question": "Worauf musst du bei Abweichungen vom vorgesehenen Ablauf achten?",
     "answers": [
       "Improvisieren",
       "Abweichung erkennen, melden und nach Vorgaben behandeln",
@@ -744,7 +744,7 @@
   {
     "id": "11232-024",
     "module": "11.2.3.2",
-    "question": "Warum müssen Kontrollpersonen die verwendete Technik kennen?",
+    "question": "Warum ist es wichtig, dass Kontrollpersonen die verwendete Technik kennen?",
     "answers": [
       "Nur zum Einschalten",
       "Um Ergebnisse, Einsatzbereich und Grenzen sachgerecht zu verstehen",
@@ -996,7 +996,7 @@
   {
     "id": "11233-012",
     "module": "11.2.3.3",
-    "question": "Warum müssen Schutzanforderungen für Lieferungen bekannt sein?",
+    "question": "Warum ist es wichtig, dass Schutzanforderungen für Lieferungen bekannt sein?",
     "answers": [
       "Damit der Sicherheitsstatus entsprechend den Vorgaben geschützt bleibt",
       "Damit jede Lieferung schneller wird",
@@ -1066,7 +1066,7 @@
   {
     "id": "11233-017",
     "module": "11.2.3.3",
-    "question": "Was ist bei besonderen Verfahren oder Ausnahmen wichtig?",
+    "question": "Worauf musst du bei besonderen Verfahren oder Ausnahmen achten?",
     "answers": [
       "Nur die geltenden und freigegebenen Vorgaben anwenden",
       "Selbst Ausnahmen festlegen",
@@ -1094,7 +1094,7 @@
   {
     "id": "11233-019",
     "module": "11.2.3.3",
-    "question": "Was ist bei der Annahme von Flughafenlieferungen wichtig?",
+    "question": "Worauf musst du bei der Annahme von Flughafenlieferungen achten?",
     "answers": [
       "Nur Lieferzeit",
       "Vorgesehene Sicherheitsanforderungen und Schutz vor unbefugtem Zugriff",
@@ -1150,7 +1150,7 @@
   {
     "id": "11233-023",
     "module": "11.2.3.3",
-    "question": "Was ist bei einer Abweichung zwischen Lieferung und Begleitangaben wichtig?",
+    "question": "Worauf musst du bei einer Abweichung zwischen Lieferung und Begleitangaben achten?",
     "answers": [
       "Ignorieren",
       "Abweichung klären, bevor der Sicherheitsstatus übernommen wird",
@@ -1206,7 +1206,7 @@
   {
     "id": "11233-027",
     "module": "11.2.3.3",
-    "question": "Warum müssen Bordvorräte geschützt werden?",
+    "question": "Warum ist es wichtig, dass Bordvorräte geschützt werden?",
     "answers": [
       "Nur vor Diebstahl",
       "Damit ihr Sicherheitsstatus nicht durch unbefugten Zugriff beeinträchtigt wird",
@@ -1220,7 +1220,7 @@
   {
     "id": "11233-028",
     "module": "11.2.3.3",
-    "question": "Was ist bei erkennbarer Manipulation wichtig?",
+    "question": "Worauf musst du bei erkennbarer Manipulation achten?",
     "answers": [
       "Nur Foto",
       "Regelkonforme Klärung und gegebenenfalls Meldung",
@@ -1332,7 +1332,7 @@
   {
     "id": "11234-006",
     "module": "11.2.3.4",
-    "question": "Was ist bei einer Unterbrechung wichtig?",
+    "question": "Worauf musst du bei einer Unterbrechung achten?",
     "answers": [
       "Automatisch abgeschlossen",
       "Vollständigen Kontrollumfang nachvollziehbar halten",
@@ -1388,7 +1388,7 @@
   {
     "id": "11234-010",
     "module": "11.2.3.4",
-    "question": "Was ist bei einer nicht vollständig einsehbaren Stelle wichtig?",
+    "question": "Worauf musst du bei einer nicht vollständig einsehbaren Stelle achten?",
     "answers": [
       "Überspringen",
       "Nach dem vorgesehenen Verfahren für ein eindeutiges Kontrollergebnis sorgen",
@@ -1472,7 +1472,7 @@
   {
     "id": "11234-016",
     "module": "11.2.3.4",
-    "question": "Was ist bei Unterbrechung einer Fahrzeugkontrolle wichtig?",
+    "question": "Worauf musst du bei Unterbrechung einer Fahrzeugkontrolle achten?",
     "answers": [
       "Von irgendwo fortsetzen",
       "Nachvollziehbar sicherstellen, welche Bereiche bereits kontrolliert wurden",
@@ -1486,7 +1486,7 @@
   {
     "id": "11234-017",
     "module": "11.2.3.4",
-    "question": "Was ist bei nicht erklärbaren Gegenständen im Kontrollbereich wichtig?",
+    "question": "Worauf musst du bei nicht erklärbaren Gegenständen im Kontrollbereich achten?",
     "answers": [
       "Ignorieren",
       "Nach den vorgesehenen Verfahren klären",
@@ -1598,7 +1598,7 @@
   {
     "id": "11234-025",
     "module": "11.2.3.4",
-    "question": "Was ist bei Übergabe einer laufenden Kontrolle wichtig?",
+    "question": "Worauf musst du bei Übergabe einer laufenden Kontrolle achten?",
     "answers": [
       "Keine Information nötig",
       "Kontrollstand muss nachvollziehbar übergeben werden",
@@ -1822,7 +1822,7 @@
   {
     "id": "11235-011",
     "module": "11.2.3.5",
-    "question": "Was ist bei einer Person ohne erkennbare Berechtigung grundsätzlich wichtig?",
+    "question": "Worauf musst du bei einer Person ohne erkennbare Berechtigung grundsätzlich achten?",
     "answers": [
       "Nach den vorgesehenen Verfahren reagieren",
       "Person immer ignorieren",
@@ -1976,7 +1976,7 @@
   {
     "id": "11235-022",
     "module": "11.2.3.5",
-    "question": "Was ist bei einer unbeaufsichtigten Auffälligkeit wichtig?",
+    "question": "Worauf musst du bei einer unbeaufsichtigten Auffälligkeit achten?",
     "answers": [
       "Ignorieren",
       "Nach dem vorgesehenen Melde- und Sicherheitsverfahren handeln",
@@ -2046,7 +2046,7 @@
   {
     "id": "11235-027",
     "module": "11.2.3.5",
-    "question": "Was ist bei einer Person ohne erkennbar ausreichende Berechtigung wichtig?",
+    "question": "Worauf musst du bei einer Person ohne erkennbar ausreichende Berechtigung achten?",
     "answers": [
       "Durchwinken",
       "Nach den vorgesehenen Verfahren klären",
@@ -2060,7 +2060,7 @@
   {
     "id": "11235-028",
     "module": "11.2.3.5",
-    "question": "Was ist bei Übergabe einer Beobachtung an Kollegen wichtig?",
+    "question": "Worauf musst du bei Übergabe einer Beobachtung an Kollegen achten?",
     "answers": [
       "Nur Vermutung nennen",
       "Sachlich und nachvollziehbar die relevanten Feststellungen weitergeben",
@@ -2340,7 +2340,7 @@
   {
     "id": "LAW-018",
     "module": "Rechtsgrundlagen",
-    "question": "Warum müssen Rechtsgrundlagen regelmäßig aktualisiert werden?",
+    "question": "Warum ist es wichtig, dass Rechtsgrundlagen regelmäßig aktualisiert werden?",
     "answers": [
       "Rechtsvorschriften können geändert werden",
       "Paragraphen ändern sich nie",
@@ -2634,7 +2634,7 @@
   {
     "id": "PROH-009",
     "module": "Anlage 1-A / 4-C",
-    "question": "Was ist bei einer Berechtigung zum Mitführen eines Gegenstands aus Anlage 1-A wichtig?",
+    "question": "Worauf musst du bei einer Berechtigung zum Mitführen eines Gegenstands aus Anlage 1-A achten?",
     "answers": [
       "Persönliche Bekanntheit reicht",
       "Die Berechtigung muss nach den geltenden Vorgaben überprüfbar sein",
@@ -2970,7 +2970,7 @@
   {
     "id": "135-003",
     "module": "11.2.3.2",
-    "question": "Welche Aussage trifft auf die Sicherheit von Fracht und Post am ehesten zu?",
+    "question": "Was ist beim Thema die Sicherheit von Fracht und Post am ehesten richtig?",
     "answers": [
       "Ein bekannter Absender macht jede weitere Sicherheitsmaßnahme entbehrlich.",
       "Der Sicherheitsstatus ist nach den jeweils geltenden Vorgaben und der gesicherten Lieferkette zu beurteilen.",
@@ -3124,7 +3124,7 @@
   {
     "id": "135-014",
     "module": "Anlage 1-A / 4-C",
-    "question": "Was ist bei der Beurteilung eines möglicherweise verbotenen Gegenstands besonders wichtig?",
+    "question": "Worauf musst du bei der Beurteilung eines möglicherweise verbotenen Gegenstands besonders achten?",
     "answers": [
       "Nur der umgangssprachliche Name des Gegenstands.",
       "Die aktuelle einschlägige Regelung und der konkrete Anwendungsbereich.",
@@ -4327,7 +4327,7 @@
   {
     "id": "v140-11233-04",
     "module": "11.2.3.3",
-    "question": "Welche Aussage zum Sicherheitsstatus von Lieferungen ist richtig?",
+    "question": "Woran erkennst du, ob eine Lieferung den erforderlichen Sicherheitsstatus hat?",
     "answers": [
       "Er ergibt sich allein aus einem Firmenlogo",
       "Er muss anhand der jeweils erforderlichen Voraussetzungen nachvollziehbar sein",
@@ -4341,7 +4341,7 @@
   {
     "id": "v140-11233-05",
     "module": "11.2.3.3",
-    "question": "Was ist bei einer Unstimmigkeit zwischen Lieferung und Begleitdokumentation wichtig?",
+    "question": "Die Angaben zur Lieferung passen nicht zu den Begleitpapieren. Was machst du?",
     "answers": [
       "Die Dokumentation ungeprüft anpassen",
       "Abweichung klären und entsprechend den Vorgaben behandeln",
@@ -4355,7 +4355,7 @@
   {
     "id": "v140-11234-01",
     "module": "11.2.3.4",
-    "question": "Ein Fahrzeugführer verweist auf Zeitdruck und möchte eine angeordnete Kontrolle abkürzen. Was gilt?",
+    "question": "Ein Fahrer hat es eilig und will die Fahrzeugkontrolle abkürzen. Wie reagierst du?",
     "answers": [
       "Zeitdruck ersetzt Kontrollen",
       "Die erforderliche Kontrolle wird nach geltenden Vorgaben durchgeführt",
@@ -4369,7 +4369,7 @@
   {
     "id": "v140-11234-02",
     "module": "11.2.3.4",
-    "question": "Welche Aussage trifft auf die Zutrittsberechtigung eines Fahrzeugs zu?",
+    "question": "Darf ein Fahrzeug allein deshalb einfahren, weil der Fahrer einen gültigen Ausweis hat?",
     "answers": [
       "Die Fahrzeugberechtigung ersetzt immer die Prüfung aller Insassen",
       "Fahrzeug- und personenbezogene Berechtigungen sind entsprechend den geltenden Anforderungen zu berücksichtigen",
@@ -4383,7 +4383,7 @@
   {
     "id": "v140-11234-03",
     "module": "11.2.3.4",
-    "question": "Während einer Kontrolle wird eine Unstimmigkeit festgestellt. Was ist fachlich richtig?",
+    "question": "Bei einer Fahrzeugkontrolle fällt dir etwas Ungewöhnliches auf. Was tust du?",
     "answers": [
       "Die Unstimmigkeit dokumentationslos übergehen",
       "Den Vorgang nach den geltenden Verfahren klären und erforderlichenfalls eskalieren",
@@ -4397,7 +4397,7 @@
   {
     "id": "v140-11234-04",
     "module": "11.2.3.4",
-    "question": "Warum muss eine Kontrollentscheidung nachvollziehbar sein?",
+    "question": "Warum muss später nachvollziehbar sein, wie du bei einer Kontrolle entschieden hast?",
     "answers": [
       "Damit sie ausschließlich auf Bauchgefühl beruht",
       "Damit sicherheitsrelevante Entscheidungen überprüfbar und regelkonform bleiben",
@@ -4411,7 +4411,7 @@
   {
     "id": "v140-11234-05",
     "module": "11.2.3.4",
-    "question": "Ein Kollege möchte einen ungeprüften Ersatzweg für eine Fahrzeugkontrolle nutzen. Was ist korrekt?",
+    "question": "Ein Kollege schlägt für die Fahrzeugkontrolle einen nicht freigegebenen anderen Ablauf vor. Was tust du?",
     "answers": [
       "Jede improvisierte Methode ist gleichwertig",
       "Nur zugelassene beziehungsweise vorgegebene Verfahren verwenden",
@@ -4425,7 +4425,7 @@
   {
     "id": "v140-11235-01",
     "module": "11.2.3.5",
-    "question": "Eine Zugangskarte ist äußerlich unbeschädigt, die Berechtigung aber unklar. Was folgt daraus?",
+    "question": "Der Ausweis sieht echt aus, aber du kannst die Zutrittsberechtigung nicht bestätigen. Was tust du?",
     "answers": [
       "Unbeschädigt bedeutet automatisch gültig",
       "Die Berechtigung muss anhand der geltenden Vorgaben geklärt werden",
@@ -4439,7 +4439,7 @@
   {
     "id": "v140-11235-02",
     "module": "11.2.3.5",
-    "question": "Bei einem Streifengang bemerkst du eine sicherheitsrelevante Auffälligkeit. Was ist vorrangig?",
+    "question": "Auf Streife bemerkst du etwas Sicherheitsrelevantes. Was ist jetzt wichtig?",
     "answers": [
       "Die Beobachtung ignorieren",
       "Die Beobachtung über den vorgesehenen Melde- und Reaktionsweg behandeln",
@@ -4453,7 +4453,7 @@
   {
     "id": "v140-11235-03",
     "module": "11.2.3.5",
-    "question": "Warum sind festgelegte Zuständigkeiten bei einer Alarmmeldung wichtig?",
+    "question": "Warum muss bei einem Alarm klar sein, wer wofür zuständig ist?",
     "answers": [
       "Damit niemand reagieren muss",
       "Damit Meldung, Bewertung und Reaktion koordiniert erfolgen",
@@ -4467,7 +4467,7 @@
   {
     "id": "v140-11235-04",
     "module": "11.2.3.5",
-    "question": "Eine Person behauptet, eine Begleitung mache ihren eigenen Zutrittsnachweis überflüssig. Welche Antwort ist korrekt?",
+    "question": "Eine Person sagt: „Ich werde begleitet, also brauche ich keine eigene Berechtigung.“ Was prüfst du?",
     "answers": [
       "Begleitung ersetzt immer jede Berechtigung",
       "Es gelten die konkreten Regeln für Zutritt und Begleitung; eine Behauptung genügt nicht",
@@ -4481,7 +4481,7 @@
   {
     "id": "v140-11235-05",
     "module": "11.2.3.5",
-    "question": "Was unterscheidet eine Streifenbeobachtung von einer gesicherten Feststellung?",
+    "question": "Du hast auf Streife etwas beobachtet. Wann darfst du es als gesicherte Tatsache melden?",
     "answers": [
       "Es gibt nie einen Unterschied",
       "Eine Beobachtung muss vor einer weitergehenden Bewertung sachgerecht eingeordnet werden",
