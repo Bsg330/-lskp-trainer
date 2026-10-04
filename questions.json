@@ -4141,5 +4141,355 @@
     ],
     "explanation": "Zwischen Verbot, Ordnungswidrigkeit, Straftat und bloßer Unzulässigkeit des Mitführens ist zu unterscheiden.",
     "legal": "WaffG; LuftSiG; DVO (EU) 2015/1998"
+  },
+  {
+    "id": "v140-11231-01",
+    "module": "11.2.3.1",
+    "question": "Eine kontrollierte Person fragt, ob ein nicht abgeschlossenes Prüfergebnis schon als Freigabe gilt. Welche Antwort ist richtig?",
+    "answers": [
+      "Ja, sobald die erste Kontrolle begonnen hat",
+      "Nein, eine Freigabe setzt den ordnungsgemäßen Abschluss der erforderlichen Kontrolle voraus",
+      "Ja, wenn kein Gegenstand sichtbar ist",
+      "Ja, wenn die Person bereits einen Ausweis vorzeigt"
+    ],
+    "correct": 1,
+    "explanation": "Ein begonnener Kontrollvorgang ersetzt keinen ordnungsgemäßen Abschluss.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11231-02",
+    "module": "11.2.3.1",
+    "question": "Bei einer Kontrolle widersprechen sich zwei Beobachtungen. Was ist fachlich angemessen?",
+    "answers": [
+      "Eine Beobachtung ohne Begründung ignorieren",
+      "Die Unklarheit nach den geltenden Vorgaben klären und erforderlichenfalls zuständige Stellen hinzuziehen",
+      "Die Person vorsorglich selbst bestrafen",
+      "Den Vorgang ohne Klärung abschließen"
+    ],
+    "correct": 1,
+    "explanation": "Ungeklärte Feststellungen sind sachgerecht zu behandeln, nicht zu übergehen.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11231-03",
+    "module": "11.2.3.1",
+    "question": "Eine Kollegin schlägt vor, aus Zeitdruck auf einen vorgeschriebenen Kontrollschritt zu verzichten. Wie reagierst du?",
+    "answers": [
+      "Zustimmen, wenn eine Warteschlange besteht",
+      "Den Schritt nur bei Stammkunden auslassen",
+      "Auf vollständiger Durchführung der geltenden Kontrolle bestehen",
+      "Die Entscheidung allein dem Reisenden überlassen"
+    ],
+    "correct": 2,
+    "explanation": "Zeitdruck hebt verbindliche Kontrollanforderungen nicht auf.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11231-04",
+    "module": "11.2.3.1",
+    "question": "Wozu dient die Trennung zwischen Identitäts-/Zutrittsprüfung und Sicherheitskontrolle?",
+    "answers": [
+      "Beide Prüfungen sind stets identisch",
+      "Ein gültiger Ausweis ersetzt automatisch jede Kontrolle",
+      "Sie verfolgen unterschiedliche Prüfziele und können jeweils erforderlich sein",
+      "Sicherheitskontrollen sind bei Beschäftigten grundsätzlich unnötig"
+    ],
+    "correct": 2,
+    "explanation": "Berechtigungsprüfung und Sicherheitskontrolle beantworten unterschiedliche Fragen.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11231-05",
+    "module": "11.2.3.1",
+    "question": "Wie gehst du mit einer Frage um, deren Beantwortung interne, nicht öffentliche Kontrollabläufe offenlegen würde?",
+    "answers": [
+      "Die Details öffentlich posten",
+      "Nur allgemein informieren und auf autorisierte Auskunftswege verweisen",
+      "Alle technischen Werte nennen",
+      "Die Anfrage ungeprüft an Außenstehende weiterleiten"
+    ],
+    "correct": 1,
+    "explanation": "Vertrauliche Sicherheitsinformationen gehören ausschließlich in autorisierte Kommunikationswege.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11232-01",
+    "module": "11.2.3.2",
+    "question": "Eine Frachtbegleitunterlage ist unvollständig. Was ist die richtige Grundhaltung?",
+    "answers": [
+      "Den Sicherheitsstatus selbst erfinden",
+      "Unklarheit vor der weiteren Behandlung über den vorgesehenen Prozess klären",
+      "Unterlagen nachträglich ohne Prüfung ausfüllen",
+      "Die Sendung automatisch als sicher behandeln"
+    ],
+    "correct": 1,
+    "explanation": "Sicherheitsstatus und Dokumentation müssen nachvollziehbar sein.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11232-02",
+    "module": "11.2.3.2",
+    "question": "Warum ist bei Luftfracht die dokumentierte Sicherheitskette wichtig?",
+    "answers": [
+      "Sie ersetzt sämtliche Kontrollen unabhängig von Umständen",
+      "Sie ermöglicht die nachvollziehbare Zuordnung und Aufrechterhaltung des Sicherheitsstatus",
+      "Sie ist ausschließlich für Zollgebühren gedacht",
+      "Sie dient nur der Transportgeschwindigkeit"
+    ],
+    "correct": 1,
+    "explanation": "Die Sicherheitskette ist ein eigenständiges Element der Luftfrachtsicherheit.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11232-03",
+    "module": "11.2.3.2",
+    "question": "Welche Aussage zu einer beschädigten Sicherung einer bereits behandelten Sendung trifft am ehesten zu?",
+    "answers": [
+      "Sie ist stets belanglos",
+      "Sie muss entsprechend den geltenden Vorgaben bewertet werden, bevor der Status weiterverwendet wird",
+      "Sie macht die Sendung automatisch zum Gefahrgut",
+      "Sie ist nur bei internationalen Sendungen relevant"
+    ],
+    "correct": 1,
+    "explanation": "Veränderungen an Sicherungen können die Verlässlichkeit eines dokumentierten Status berühren.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11232-04",
+    "module": "11.2.3.2",
+    "question": "Ein Fahrer behauptet, seine Firma sei bekannt. Welche Schlussfolgerung ist zulässig?",
+    "answers": [
+      "Die mündliche Behauptung reicht als Nachweis",
+      "Bekanntheit ersetzt die vorgeschriebene Prüfung von Status und Unterlagen nicht",
+      "Alle Sendungen sind dadurch kontrollfrei",
+      "Der Fahrer kann sich selbst akkreditieren"
+    ],
+    "correct": 1,
+    "explanation": "Behauptungen ersetzen keine erforderlichen Nachweise.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11232-05",
+    "module": "11.2.3.2",
+    "question": "Was ist bei der Weitergabe sicherheitsrelevanter Frachtinformationen zu beachten?",
+    "answers": [
+      "Sie dürfen beliebig veröffentlicht werden",
+      "Sie werden nur an befugte Stellen im erforderlichen Umfang weitergegeben",
+      "Sie gehören grundsätzlich in soziale Medien",
+      "Sie müssen niemals dokumentiert werden"
+    ],
+    "correct": 1,
+    "explanation": "Berechtigung und Zweckbindung gelten auch bei sicherheitsbezogenen Informationen.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11233-01",
+    "module": "11.2.3.3",
+    "question": "Ein Lieferant legt eine ältere Bestätigung vor, deren Gültigkeit unklar ist. Was ist sinnvoll?",
+    "answers": [
+      "Ungeprüft akzeptieren",
+      "Gültigkeit und erforderlichen Status über die vorgesehenen Wege klären",
+      "Das Datum selbst ändern",
+      "Lieferung unabhängig davon freigeben"
+    ],
+    "correct": 1,
+    "explanation": "Die erforderliche Lieferantenberechtigung muss aktuell und nachvollziehbar sein.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11233-02",
+    "module": "11.2.3.3",
+    "question": "Warum werden Flughafenlieferungen und Bordvorräte in der Ausbildung unterschieden?",
+    "answers": [
+      "Es gibt keinerlei Unterschiede",
+      "Sie können unterschiedlichen Regelungsbereichen und Verantwortlichkeiten unterliegen",
+      "Nur der Warenwert unterscheidet sie",
+      "Bordvorräte sind immer Privatbesitz"
+    ],
+    "correct": 1,
+    "explanation": "Die rechtliche Einordnung hängt unter anderem vom Bestimmungszweck ab.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11233-03",
+    "module": "11.2.3.3",
+    "question": "Eine Lieferung enthält einen Gegenstand, dessen Zulässigkeit unklar ist. Wie handelst du?",
+    "answers": [
+      "Die Unklarheit ignorieren",
+      "Den Sachverhalt anhand der maßgeblichen Vorgaben klären lassen",
+      "Den Gegenstand privat mitnehmen",
+      "Automatisch alle Waren vernichten"
+    ],
+    "correct": 1,
+    "explanation": "Unklare Sachverhalte erfordern eine geregelte Bewertung.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11233-04",
+    "module": "11.2.3.3",
+    "question": "Welche Aussage zum Sicherheitsstatus von Lieferungen ist richtig?",
+    "answers": [
+      "Er ergibt sich allein aus einem Firmenlogo",
+      "Er muss anhand der jeweils erforderlichen Voraussetzungen nachvollziehbar sein",
+      "Er hängt nur vom Gewicht ab",
+      "Er kann vom Fahrer frei gewählt werden"
+    ],
+    "correct": 1,
+    "explanation": "Eine Kennzeichnung allein ist kein universeller Nachweis.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11233-05",
+    "module": "11.2.3.3",
+    "question": "Was ist bei einer Unstimmigkeit zwischen Lieferung und Begleitdokumentation wichtig?",
+    "answers": [
+      "Die Dokumentation ungeprüft anpassen",
+      "Abweichung klären und entsprechend den Vorgaben behandeln",
+      "Nur die Farbe des Kartons prüfen",
+      "Immer automatisch freigeben"
+    ],
+    "correct": 1,
+    "explanation": "Abweichungen dürfen nicht stillschweigend übergangen werden.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11234-01",
+    "module": "11.2.3.4",
+    "question": "Ein Fahrzeugführer verweist auf Zeitdruck und möchte eine angeordnete Kontrolle abkürzen. Was gilt?",
+    "answers": [
+      "Zeitdruck ersetzt Kontrollen",
+      "Die erforderliche Kontrolle wird nach geltenden Vorgaben durchgeführt",
+      "Der Fahrer bestimmt die Prüftiefe",
+      "Die Kontrolle wird automatisch erlassen"
+    ],
+    "correct": 1,
+    "explanation": "Zeitdruck rechtfertigt keinen eigenmächtigen Verzicht.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11234-02",
+    "module": "11.2.3.4",
+    "question": "Welche Aussage trifft auf die Zutrittsberechtigung eines Fahrzeugs zu?",
+    "answers": [
+      "Die Fahrzeugberechtigung ersetzt immer die Prüfung aller Insassen",
+      "Fahrzeug- und personenbezogene Berechtigungen sind entsprechend den geltenden Anforderungen zu berücksichtigen",
+      "Ein Kennzeichen genügt grundsätzlich für alle Bereiche",
+      "Ein bekannter Fahrer braucht niemals eine Berechtigung"
+    ],
+    "correct": 1,
+    "explanation": "Fahrzeug und Personen können getrennte Berechtigungsanforderungen haben.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11234-03",
+    "module": "11.2.3.4",
+    "question": "Während einer Kontrolle wird eine Unstimmigkeit festgestellt. Was ist fachlich richtig?",
+    "answers": [
+      "Die Unstimmigkeit dokumentationslos übergehen",
+      "Den Vorgang nach den geltenden Verfahren klären und erforderlichenfalls eskalieren",
+      "Sofort eigenmächtig eine Strafe verhängen",
+      "Den Fahrer über den Befund abstimmen lassen"
+    ],
+    "correct": 1,
+    "explanation": "Feststellungen müssen nach vorgesehenen Verfahren behandelt werden.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11234-04",
+    "module": "11.2.3.4",
+    "question": "Warum muss eine Kontrollentscheidung nachvollziehbar sein?",
+    "answers": [
+      "Damit sie ausschließlich auf Bauchgefühl beruht",
+      "Damit sicherheitsrelevante Entscheidungen überprüfbar und regelkonform bleiben",
+      "Damit jede Kontrolle öffentlich wird",
+      "Damit keine Zuständigkeit mehr besteht"
+    ],
+    "correct": 1,
+    "explanation": "Nachvollziehbarkeit unterstützt Qualität und Verantwortlichkeit.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11234-05",
+    "module": "11.2.3.4",
+    "question": "Ein Kollege möchte einen ungeprüften Ersatzweg für eine Fahrzeugkontrolle nutzen. Was ist korrekt?",
+    "answers": [
+      "Jede improvisierte Methode ist gleichwertig",
+      "Nur zugelassene beziehungsweise vorgegebene Verfahren verwenden",
+      "Ein schnellerer Weg ist automatisch zulässig",
+      "Der Fahrzeughalter legt das Verfahren fest"
+    ],
+    "correct": 1,
+    "explanation": "Sicherheitskontrollen müssen innerhalb der zugelassenen Verfahren erfolgen.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11235-01",
+    "module": "11.2.3.5",
+    "question": "Eine Zugangskarte ist äußerlich unbeschädigt, die Berechtigung aber unklar. Was folgt daraus?",
+    "answers": [
+      "Unbeschädigt bedeutet automatisch gültig",
+      "Die Berechtigung muss anhand der geltenden Vorgaben geklärt werden",
+      "Ein Aussehenvergleich reicht immer",
+      "Eine Karte gilt lebenslang"
+    ],
+    "correct": 1,
+    "explanation": "Optischer Zustand und tatsächliche Zutrittsberechtigung sind verschieden.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11235-02",
+    "module": "11.2.3.5",
+    "question": "Bei einem Streifengang bemerkst du eine sicherheitsrelevante Auffälligkeit. Was ist vorrangig?",
+    "answers": [
+      "Die Beobachtung ignorieren",
+      "Die Beobachtung über den vorgesehenen Melde- und Reaktionsweg behandeln",
+      "Ein Foto öffentlich teilen",
+      "Den Dienst ohne Meldung beenden"
+    ],
+    "correct": 1,
+    "explanation": "Auffälligkeiten müssen angemessen und zuständigkeitsgerecht behandelt werden.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11235-03",
+    "module": "11.2.3.5",
+    "question": "Warum sind festgelegte Zuständigkeiten bei einer Alarmmeldung wichtig?",
+    "answers": [
+      "Damit niemand reagieren muss",
+      "Damit Meldung, Bewertung und Reaktion koordiniert erfolgen",
+      "Damit jeder allein entscheidet",
+      "Damit Dokumentation überflüssig wird"
+    ],
+    "correct": 1,
+    "explanation": "Zuständigkeiten fördern eine koordinierte Sicherheitsreaktion.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11235-04",
+    "module": "11.2.3.5",
+    "question": "Eine Person behauptet, eine Begleitung mache ihren eigenen Zutrittsnachweis überflüssig. Welche Antwort ist korrekt?",
+    "answers": [
+      "Begleitung ersetzt immer jede Berechtigung",
+      "Es gelten die konkreten Regeln für Zutritt und Begleitung; eine Behauptung genügt nicht",
+      "Jede Begleitung ist verboten",
+      "Die Person entscheidet selbst"
+    ],
+    "correct": 1,
+    "explanation": "Begleitregelungen müssen auf die jeweils geltenden Berechtigungen gestützt sein.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v140-11235-05",
+    "module": "11.2.3.5",
+    "question": "Was unterscheidet eine Streifenbeobachtung von einer gesicherten Feststellung?",
+    "answers": [
+      "Es gibt nie einen Unterschied",
+      "Eine Beobachtung muss vor einer weitergehenden Bewertung sachgerecht eingeordnet werden",
+      "Jede Vermutung ist bewiesen",
+      "Feststellungen sind grundsätzlich geheim zu halten"
+    ],
+    "correct": 1,
+    "explanation": "Sachliche Beobachtung und Bewertung sollten nicht vermischt werden.",
+    "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
   }
 ]
