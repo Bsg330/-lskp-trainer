@@ -4491,5 +4491,200 @@
     "correct": 1,
     "explanation": "Sachliche Beobachtung und Bewertung sollten nicht vermischt werden.",
     "legal": "Lernzielorientierte Übungsfrage; geltende Vorschriften und lokale Vorgaben prüfen"
+  },
+  {
+    "id": "v150-001",
+    "module": "Rechtsgrundlagen",
+    "question": "Wozu dient die Verordnung (EG) Nr. 300/2008?",
+    "answers": [
+      "Sie legt gemeinsame Grundregeln für die Sicherheit der Zivilluftfahrt fest.",
+      "Sie regelt ausschließlich Arbeitszeiten am Flughafen.",
+      "Sie ist eine Anleitung für ein bestimmtes Kontrollgerät."
+    ],
+    "correct": 0,
+    "explanation": "Sie legt den gemeinsamen europäischen Rahmen für die Luftsicherheit fest.",
+    "legal": "VO (EG) 300/2008"
+  },
+  {
+    "id": "v150-002",
+    "module": "Rechtsgrundlagen",
+    "question": "Welche Aufgabe hat die Verordnung (EG) Nr. 272/2009?",
+    "answers": [
+      "Sie ersetzt das Luftsicherheitsgesetz.",
+      "Sie ergänzt die gemeinsamen Grundstandards der Luftsicherheit.",
+      "Sie gilt nur für Frachtflüge."
+    ],
+    "correct": 1,
+    "explanation": "Sie ergänzt die Grundstandards aus dem europäischen Rechtsrahmen.",
+    "legal": "VO (EG) 272/2009"
+  },
+  {
+    "id": "v150-003",
+    "module": "Rechtsgrundlagen",
+    "question": "Wofür ist die DVO (EU) 2015/1998 besonders wichtig?",
+    "answers": [
+      "Für die Durchführung detaillierter gemeinsamer Luftsicherheitsmaßnahmen.",
+      "Für die private Urlaubsplanung.",
+      "Nur für die Dienstplangestaltung."
+    ],
+    "correct": 0,
+    "explanation": "Sie enthält detaillierte Durchführungsmaßnahmen; Änderungen sind zu berücksichtigen.",
+    "legal": "DVO (EU) 2015/1998"
+  },
+  {
+    "id": "v150-004",
+    "module": "Rechtsgrundlagen",
+    "question": "Warum werden die drei europäischen Rechtsakte zusammen gelernt?",
+    "answers": [
+      "Weil sie dieselbe Nummer tragen.",
+      "Weil Grundregeln, Ergänzungen und Durchführung zusammenhängen.",
+      "Weil sie nur in Leipzig gelten."
+    ],
+    "correct": 1,
+    "explanation": "Der Rechtsrahmen besteht aus Grundregeln, ergänzenden Standards und Durchführungsmaßnahmen.",
+    "legal": "VO (EG) 300/2008; VO (EG) 272/2009; DVO (EU) 2015/1998"
+  },
+  {
+    "id": "v150-005",
+    "module": "Rechtsgrundlagen",
+    "question": "Was beschreibt das Vier-Säulen-Modell vereinfacht?",
+    "answers": [
+      "Vier verschiedene Röntgengeräte.",
+      "Die Verteilung von Luftsicherheitsaufgaben auf unterschiedliche Verantwortliche.",
+      "Vier Arten von Flughafenausweisen."
+    ],
+    "correct": 1,
+    "explanation": "Das didaktische Modell hilft, Verantwortlichkeiten von Behörde, Flugplatzbetreiber, Luftfahrtunternehmen und sicherer Lieferkette zu unterscheiden.",
+    "legal": "LuftSiG §§ 5, 8, 9, 9a; didaktisches Modell"
+  },
+  {
+    "id": "v150-006",
+    "module": "11.2.3.1",
+    "question": "Was bedeutet ETD?",
+    "answers": [
+      "Explosive Trace Detection – Sprengstoffspurendetektion.",
+      "Electronic Ticket Display – Ticketanzeige.",
+      "External Transport Document – Transportpapier."
+    ],
+    "correct": 0,
+    "explanation": "ETD bezeichnet die technische Detektion von Sprengstoffspuren.",
+    "legal": "DVO (EU) 2015/1998; Begriffsgrundlagen"
+  },
+  {
+    "id": "v150-007",
+    "module": "11.2.3.1",
+    "question": "Wofür steht EDD in der Luftsicherheit?",
+    "answers": [
+      "Explosive Detection Dogs – Sprengstoffspürhunde.",
+      "Electronic Detection Display – Bildschirm.",
+      "Emergency Door Device – Notausgangsgerät."
+    ],
+    "correct": 0,
+    "explanation": "EDD bezeichnet Sprengstoffspürhunde, nicht ein ETD-Gerät.",
+    "legal": "DVO (EU) 2015/1998; Begriffsgrundlagen"
+  },
+  {
+    "id": "v150-008",
+    "module": "11.2.3.1",
+    "question": "Worin unterscheiden sich WTMD und HHMD?",
+    "answers": [
+      "WTMD ist eine Schleuse, HHMD ein handgeführter Metalldetektor.",
+      "Beide sind Flugtickets.",
+      "HHMD ist ein Sprengstoffspürhund."
+    ],
+    "correct": 0,
+    "explanation": "WTMD und HHMD sind unterschiedliche Formen der Metalldetektion.",
+    "legal": "DVO (EU) 2015/1998; Begriffsgrundlagen"
+  },
+  {
+    "id": "v150-009",
+    "module": "11.2.3.1",
+    "question": "Was bedeutet USBV?",
+    "answers": [
+      "Unkonventionelle Spreng- und Brandvorrichtung.",
+      "Unbekannte Sicherheitsbereichsverordnung.",
+      "Unterstützte Sichtbereichskontrolle."
+    ],
+    "correct": 0,
+    "explanation": "USBV bezeichnet eine improvisierte Spreng- oder Brandvorrichtung. Verdachtsfälle sind nach den vorgesehenen Sicherheits- und Meldewegen zu behandeln.",
+    "legal": "Begriffsgrundlagen; Sicherheitsbewusstsein"
+  },
+  {
+    "id": "v150-010",
+    "module": "11.2.3.1",
+    "question": "Wie sollte man bei einem verdächtigen Gegenstand grundsätzlich handeln?",
+    "answers": [
+      "Ihn zur Identifikation öffnen.",
+      "Nicht eigenmächtig manipulieren und die vorgesehenen Meldewege nutzen.",
+      "Ihn ohne Meldung beiseitelegen."
+    ],
+    "correct": 1,
+    "explanation": "Keine eigenmächtige Manipulation; zuständige Stellen informieren.",
+    "legal": "Sicherheitsbewusstsein; betriebliche Vorgaben"
+  },
+  {
+    "id": "v150-011",
+    "module": "11.2.3.5",
+    "question": "Ein Crewmitglied zeigt einen gültigen Crew-Ausweis. Ist damit jeder Sicherheitsbereich automatisch zugänglich?",
+    "answers": [
+      "Ja, ohne weitere Voraussetzungen.",
+      "Nein, Berechtigung und weitere Zutrittsvoraussetzungen sind zu beachten.",
+      "Ja, sofern eine Uniform getragen wird."
+    ],
+    "correct": 1,
+    "explanation": "Ein Crew-Ausweis allein begründet keine pauschale Berechtigung für jeden Bereich.",
+    "legal": "DVO (EU) 2015/1998, Kapitel 1"
+  },
+  {
+    "id": "v150-012",
+    "module": "11.2.3.5",
+    "question": "Was bedeutet Deadhead bei einem Besatzungsmitglied?",
+    "answers": [
+      "Es wird dienstlich befördert, ohne auf diesem Flug eine aktive Besatzungsfunktion auszuüben.",
+      "Es ist grundsätzlich von jeder Sicherheitskontrolle befreit.",
+      "Es hat keinen Bezug zum Flugbetrieb."
+    ],
+    "correct": 0,
+    "explanation": "Deadhead beschreibt eine betriebliche Reisefunktion, keine automatische Befreiung von Sicherheitsmaßnahmen.",
+    "legal": "Begriffsgrundlagen; DVO (EU) 2015/1998"
+  },
+  {
+    "id": "v150-013",
+    "module": "11.2.3.3",
+    "question": "Ist ein EASA Form 1 automatisch ein Nachweis für die luftseitige Sicherheitskontrolle von Ersatzteilen?",
+    "answers": [
+      "Ja, es ersetzt jeden Sicherheitsnachweis.",
+      "Nein, es ist ein luftfahrttechnisches Freigabedokument und kein allgemeines Luftsicherheitszertifikat.",
+      "Ja, es ist ein Flughafenausweis."
+    ],
+    "correct": 1,
+    "explanation": "Technische Freigabe und Luftsicherheitsstatus sind unterschiedliche Sachverhalte.",
+    "legal": "EASA Form 1; Luftsicherheitsgrundlagen"
+  },
+  {
+    "id": "v150-014",
+    "module": "11.2.3.4",
+    "question": "Was ist das übergeordnete Ziel vorgeschriebener Fahrzeugkontrollen?",
+    "answers": [
+      "Ausschließlich die Fahrzeugfarbe erfassen.",
+      "Die einschlägigen Sicherheitsanforderungen vor der Zufahrt erfüllen und das Einbringen verbotener Gegenstände verhindern.",
+      "Nur die Parkdauer überprüfen."
+    ],
+    "correct": 1,
+    "explanation": "Fahrzeugkontrollen dienen dem Schutz der Sicherheitsbereiche gemäß den geltenden Anforderungen.",
+    "legal": "DVO (EU) 2015/1998, Kapitel 1"
+  },
+  {
+    "id": "v150-015",
+    "module": "11.2.3.5",
+    "question": "Was ist bei Zugangskontrollen der Unterschied zwischen Auftrag und Ziel?",
+    "answers": [
+      "Der Auftrag umfasst erforderliche Maßnahmen, das Ziel ist der Schutz vor unberechtigtem Zutritt und Gefahren.",
+      "Es gibt keinen Unterschied.",
+      "Das Ziel ist ausschließlich eine kurze Wartezeit."
+    ],
+    "correct": 0,
+    "explanation": "Der Auftrag beschreibt die Aufgabe, das Ziel den angestrebten Sicherheitszustand.",
+    "legal": "LuftSiG § 8; DVO (EU) 2015/1998, Kapitel 1"
   }
 ]
