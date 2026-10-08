@@ -341,3 +341,24 @@ button,a,.lesson-tab{touch-action:manipulation}
 .v153-grid b br{display:block;content:""}
 .v153-grid button{overflow:hidden}
 @media(max-width:430px){.v153-grid b{font-size:clamp(12px,2.9vw,14px);letter-spacing:-.35px}}
+
+/* 1.6.0 – compact home dashboard; inner learning/exam views unchanged. */
+@media(max-width:649px){
+ .v153-hero{min-height:0;padding:10px 12px 13px}
+ .v153-logo{width:72px;height:72px;border-radius:18px}
+ .v153-hero h1{font-size:clamp(30px,7.6vw,39px);margin:5px 0 7px}
+ .v153-hero h1 span{font-size:.52em;margin-top:2px}
+ .v153-hero p{margin:0 0 4px}
+ .v153-grid{gap:8px;padding:10px 10px 8px}
+ .v153-grid button{min-height:98px;padding:9px 8px;gap:6px}
+ .v153-grid small{margin-top:4px;line-height:1.28}
+ .v153-extra{gap:8px}
+ .v153-extra button{min-height:48px;padding:8px 6px}
+ .v153-footer{padding:12px 12px 9px}
+ .v153-footer p{margin:9px 0 4px}
+ .v153-footer button{margin:6px 0 8px}
+}
+@media(max-width:365px){
+ .v153-grid button{min-height:102px;padding:9px 6px}
+ .v153-grid{gap:7px;padding-left:7px;padding-right:7px}
+}
