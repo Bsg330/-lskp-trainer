@@ -4686,5 +4686,215 @@
     "correct": 0,
     "explanation": "Der Auftrag beschreibt die Aufgabe, das Ziel den angestrebten Sicherheitszustand.",
     "legal": "LuftSiG § 8; DVO (EU) 2015/1998, Kapitel 1"
+  },
+  {
+    "id": "v152-001",
+    "module": "11.2.3.3",
+    "question": "Ein als Flugzeugersatzteil bezeichnetes Packstück wird angeliefert. Welche erste fachliche Einordnung ist sinnvoll?",
+    "answers": [
+      "Bestimmungszweck, Empfänger und zutreffende Lieferkategorie klären, bevor die Anforderungen zugeordnet werden",
+      "Alle Flugzeugersatzteile ohne weitere Einordnung als Bordvorräte behandeln",
+      "Alle technischen Ersatzteile automatisch von Luftsicherheitsmaßnahmen ausnehmen",
+      "Die Warenbezeichnung allein als Nachweis der bereits erfolgten Sicherheitskontrolle ansehen"
+    ],
+    "correct": 0,
+    "explanation": "Die Bezeichnung „Ersatzteil“ allein entscheidet nicht über die luft­sicherheitsrechtliche Behandlung.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-002",
+    "module": "11.2.3.3",
+    "question": "Ein Lieferant erklärt, ein technisches Bauteil sei dringend für die Wartung nötig. Welche Bewertung ist richtig?",
+    "answers": [
+      "Die Dringlichkeit ersetzt die rechtlich vorgeschriebene Behandlung nicht",
+      "Ein Wartungszweck macht die Ware automatisch zu einem bereits kontrollierten Gegenstand",
+      "Bei zeitkritischer Lieferung genügt die telefonische Zusage des Absenders",
+      "Die Entscheidung hängt ausschließlich vom Warenwert ab"
+    ],
+    "correct": 0,
+    "explanation": "Zeitdruck und Verwendungszweck sind keine pauschale Befreiung von Sicherheitsanforderungen.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-003",
+    "module": "11.2.3.3",
+    "question": "Ein Prüfling behauptet, Handkontrolle, ETD, EDD und Röntgentechnik seien bei jeder Flughafenlieferung frei austauschbar. Was trifft zu?",
+    "answers": [
+      "Die Eignung und Zulässigkeit richtet sich nach der jeweiligen Regelung und dem konkreten Sachverhalt",
+      "Die Auswahl ist unabhängig vom Anwendungsbereich stets frei",
+      "Es genügt, eine Methode auszuwählen, die am wenigsten Zeit beansprucht",
+      "Eine einmal benutzte Methode muss bei allen folgenden Lieferungen beibehalten werden"
+    ],
+    "correct": 0,
+    "explanation": "Kontrollmethoden sind nicht unabhängig von ihrem geregelten Anwendungsbereich austauschbar.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-004",
+    "module": "11.2.3.3",
+    "question": "Eine Sendung trägt eine technische Freigabebescheinigung. Was lässt sich daraus für die Luftsicherheitskontrolle ableiten?",
+    "answers": [
+      "Ein technischer Nachweis ersetzt nicht ohne Weiteres den erforderlichen Luftsicherheitsnachweis",
+      "Die Sendung ist dadurch grundsätzlich von allen Luftsicherheitsanforderungen befreit",
+      "Die Bescheinigung belegt stets die durchgeführte Sprengstoffspurendetektion",
+      "Eine weitere Einordnung der Lieferung ist unzulässig"
+    ],
+    "correct": 0,
+    "explanation": "Technische Freigabe und luft­sicherheitsrechtliche Anforderungen haben unterschiedliche Zwecke.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-005",
+    "module": "11.2.3.3",
+    "question": "Welche Aussage zu Flughafenlieferungen und Bordvorräten ist fachlich am sorgfältigsten?",
+    "answers": [
+      "Die Lieferkategorie und die dafür geltenden Anforderungen sind getrennt zu prüfen",
+      "Beide Begriffe bezeichnen immer dieselbe Lieferkategorie",
+      "Die Lieferkategorie ergibt sich allein aus der Größe der Verpackung",
+      "Die Zuordnung kann stets aus dem Fahrzeugkennzeichen abgeleitet werden"
+    ],
+    "correct": 0,
+    "explanation": "Die rechtliche Einordnung hängt nicht nur von äußeren Merkmalen ab.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-006",
+    "module": "11.2.3.3",
+    "question": "Bei der Schulung wird ETD genannt. Welche Aussage beschreibt das Verfahren zutreffend?",
+    "answers": [
+      "ETD dient dem Nachweis bestimmter Sprengstoffspuren und ist von anderen Kontrollmethoden zu unterscheiden",
+      "ETD bezeichnet die Röntgenbilddarstellung von Gepäckstücken",
+      "ETD ist die Fachbezeichnung für den Einsatz von Sprengstoffspürhunden",
+      "ETD ersetzt unabhängig vom Kontext jede weitere rechtliche Anforderung"
+    ],
+    "correct": 0,
+    "explanation": "ETD bedeutet Explosive Trace Detection (Sprengstoffspurendetektion).",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-007",
+    "module": "11.2.3.3",
+    "question": "Was ist bei einem EDD-Einsatz als Kontrollmethode grundsätzlich zu beachten?",
+    "answers": [
+      "Die Zulässigkeit ergibt sich aus dem einschlägigen Regelwerk; ein EDD-Einsatz ist nicht pauschal für jede Aufgabe gleichwertig",
+      "Ein EDD-Einsatz gilt immer als vollständiger Ersatz jeder anderen Sicherheitsmaßnahme",
+      "EDD ist lediglich eine andere Bezeichnung für eine Röntgenanlage",
+      "Die Methode kann allein anhand der persönlichen Vorliebe gewählt werden"
+    ],
+    "correct": 0,
+    "explanation": "EDD bezeichnet den Einsatz entsprechend qualifizierter Sprengstoffspürhunde.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-008",
+    "module": "11.2.3.3",
+    "question": "Eine große technische Lieferung lässt sich nicht ohne Weiteres mit einer bestimmten Anlage untersuchen. Was ist die richtige allgemeine Schlussfolgerung?",
+    "answers": [
+      "Die weitere Behandlung muss anhand der zulässigen Verfahren und zuständigen Vorgaben geklärt werden",
+      "Die Lieferung darf deshalb grundsätzlich unkontrolliert weitergegeben werden",
+      "Die Größenabweichung gilt automatisch als Sicherheitsnachweis",
+      "Die Kontrollanforderung entfällt, wenn der Lieferant bekannt ist"
+    ],
+    "correct": 0,
+    "explanation": "Gerätegrenzen führen nicht automatisch zu einer Befreiung von vorgeschriebenen Maßnahmen.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-009",
+    "module": "11.2.3.1",
+    "question": "Ein Prüfling bewertet eine Röntgenbildfarbe als eindeutigen Stoffnachweis. Welche Aussage ist zutreffend?",
+    "answers": [
+      "Materialdarstellungen sind Interpretationshilfen und erlauben allein keine sichere Stoffidentifikation",
+      "Jede angezeigte Farbe bezeichnet einen eindeutig bestimmten Stoff",
+      "Die Farbe ersetzt die Auswertung des Gesamtbildes",
+      "Ein farbiges Bild macht die vorgesehenen Kontrollregeln entbehrlich"
+    ],
+    "correct": 0,
+    "explanation": "Die Bildauswertung muss die Grenzen der eingesetzten Darstellung berücksichtigen.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-010",
+    "module": "11.2.3.1",
+    "question": "Welche Aussage unterscheidet GPA und ETD am besten?",
+    "answers": [
+      "GPA liefert eine Röntgendarstellung, ETD untersucht auf bestimmte Sprengstoffspuren",
+      "Beide Verfahren liefern grundsätzlich dieselben Messdaten",
+      "ETD erstellt immer ein dreidimensionales Röntgenbild",
+      "GPA und ETD sind lediglich unterschiedliche Namen desselben Geräts"
+    ],
+    "correct": 0,
+    "explanation": "Beide Methoden beruhen auf unterschiedlichen technischen Prinzipien.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-011",
+    "module": "11.2.3.1",
+    "question": "Warum ist bei der Verwendung einer Bildauswertefunktion einer GPA Vorsicht geboten?",
+    "answers": [
+      "Funktion und Darstellung können geräteabhängig sein und ersetzen nicht die fachgerechte Bewertung",
+      "Alle Hersteller verwenden zwingend identische Bedienoberflächen",
+      "Eine Bildfunktion liefert unabhängig vom Gegenstand stets eine abschließende Freigabe",
+      "Zusatzfunktionen machen die geltenden Kontrollvorgaben gegenstandslos"
+    ],
+    "correct": 0,
+    "explanation": "Die konkrete Bedienung richtet sich nach Gerät und zugelassenen Vorgaben.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-012",
+    "module": "11.2.3.1",
+    "question": "Welche Aussage ist bei einer erforderlichen ergänzenden Kontrolle am ehesten korrekt?",
+    "answers": [
+      "Sie richtet sich nach dem vorgesehenen Verfahren und der jeweiligen rechtlichen Grundlage",
+      "Sie kann stets durch eine weitere Ausweiskontrolle ersetzt werden",
+      "Sie ist nur zulässig, wenn die kontrollierte Person selbst die Methode auswählt",
+      "Sie darf unabhängig von den geltenden Vorgaben improvisiert werden"
+    ],
+    "correct": 0,
+    "explanation": "Die App vermittelt keine internen Schritt-für-Schritt-Verfahren.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-013",
+    "module": "11.2.3.4",
+    "question": "Ein Fahrzeug ist zur Einfahrt berechtigt. Was folgt daraus für gegebenenfalls vorgeschriebene Kontrollen?",
+    "answers": [
+      "Einfahrtberechtigung und erforderliche Sicherheitskontrolle sind gesondert zu beurteilen",
+      "Eine Berechtigung ersetzt jede Sicherheitskontrolle",
+      "Nur das Alter des Fahrzeugs entscheidet über die Kontrollpflicht",
+      "Ein bekanntes Kennzeichen ist stets ein Ersatz für alle übrigen Anforderungen"
+    ],
+    "correct": 0,
+    "explanation": "Berechtigung und Kontrolle sind unterschiedliche Anforderungen.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-014",
+    "module": "11.2.3.5",
+    "question": "Eine Person besitzt einen gültigen Flughafenausweis. Welche Schlussfolgerung ist rechtlich am sorgfältigsten?",
+    "answers": [
+      "Die Berechtigung ist nur eine Voraussetzung; weitere vorgeschriebene Kontrollen können bestehen",
+      "Der Ausweis ersetzt grundsätzlich alle weiteren Maßnahmen",
+      "Der Ausweis berechtigt ohne Einschränkung zu jedem Flughafenbereich",
+      "Die Gültigkeit des Ausweises kann stets allein anhand der Kleidung beurteilt werden"
+    ],
+    "correct": 0,
+    "explanation": "Zutrittsberechtigung und Sicherheitskontrolle dürfen nicht gleichgesetzt werden.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "v152-015",
+    "module": "Rechtsgrundlagen",
+    "question": "Ein Lerntext nennt eine ältere Fassung einer EU-Durchführungsverordnung. Wie sollte ein Kontrollmitarbeiter vorgehen?",
+    "answers": [
+      "Die aktuell geltende konsolidierte Fassung und den konkreten Anwendungsbereich prüfen",
+      "Die ältere Fassung gilt automatisch unverändert weiter",
+      "Die Rechtslage allein anhand eines Merksatzes entscheiden",
+      "Die Fassung spielt bei rechtlichen Anforderungen grundsätzlich keine Rolle"
+    ],
+    "correct": 0,
+    "explanation": "Bei Rechtsgrundlagen kommt es auf die aktuell geltende Fassung an.",
+    "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
   }
 ]
