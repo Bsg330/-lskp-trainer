@@ -200,3 +200,38 @@ main{max-width:980px;padding-bottom:104px}
 .accessbox .request-hint{font-size:12px;color:#526575;margin:5px 0 14px;line-height:1.4}
 .accessbox{max-height:calc(100dvh - 30px);overflow-y:auto}
 @media(min-width:700px){.accessbox{width:min(480px,90vw)}}
+
+/* 1.5.3 – neues Airport-Dashboard, bestehendes Hamburger-Menü bleibt erhalten */
+body{background:#04162b}
+main{max-width:980px;padding:0 0 28px}
+.v153{min-height:100dvh;background:linear-gradient(155deg,#082f58,#041326 78%);color:#fff;padding-bottom:16px}
+.v153 .rd-header{height:60px;position:relative;z-index:2;background:rgba(2,16,34,.92);border-bottom:1px solid #32618a}
+.v153-hero{position:relative;isolation:isolate;overflow:hidden;text-align:center;padding:16px 12px 21px;background:radial-gradient(ellipse at 50% 24%,#1c598e 0%,#07315b 54%,#041b36 100%)}
+.v153-hero:before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,transparent 55%,rgba(2,12,27,.9)),repeating-linear-gradient(90deg,transparent 0 50px,rgba(255,255,255,.025) 51px 52px)}
+.v153-skyline{position:absolute;inset:0;z-index:-1;opacity:.35;pointer-events:none}
+.v153-tower{position:absolute;bottom:12px;left:9%;height:90px;width:21px;background:#010e20;border-radius:9px 9px 0 0}
+.v153-tower:before{content:"";position:absolute;top:-16px;left:-9px;width:39px;height:22px;background:#020e21;clip-path:polygon(10% 0,90% 0,100% 100%,0 100%)}
+.v153-terminal{position:absolute;bottom:0;left:0;width:100%;height:38px;background:repeating-linear-gradient(90deg,#031225 0 31px,#21476a 32px 34px,#031225 35px 63px);clip-path:polygon(0 35%,70% 35%,70% 0,100% 0,100% 100%,0 100%)}
+.v153-plane{position:absolute;right:12%;bottom:30px;font-size:55px;transform:rotate(-12deg);color:#7db3d8}
+.v153-logo{width:92px;height:92px;object-fit:cover;border-radius:22px;box-shadow:0 10px 30px #0009;border:2px solid #d4e3ee}
+.v153-hero h1{font-size:clamp(29px,8vw,44px);letter-spacing:3px;line-height:1.02;margin:9px 0 13px;text-shadow:0 3px 8px #0009}
+.v153-hero h1 span{display:block;font-size:.52em;letter-spacing:7px;margin-top:4px}
+.v153-hero p{font-weight:750;letter-spacing:1.2px;font-size:clamp(11px,2.9vw,15px);margin:0 0 7px}
+.v153-hero small{font-size:10px;letter-spacing:1.2px;color:#c4d9ec}
+.v153-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px;padding:17px 15px 10px}
+.v153-grid button{display:flex;align-items:center;text-align:left;gap:9px;min-width:0;min-height:99px;border:1px solid #2a79ae;border-radius:17px;background:linear-gradient(145deg,rgba(18,85,141,.91),rgba(3,38,76,.96));box-shadow:inset 0 1px #ffffff22,0 7px 18px #0005;color:white;padding:13px 10px;cursor:pointer}
+.v153-grid button>span:nth-child(2){min-width:0;flex:1}
+.v153-symbol{flex:0 0 29px;font-size:31px;line-height:1;color:#e9f4ff;text-align:center;font-weight:600}
+.v153-symbol.v153-error{color:#ff6575}
+.v153-grid b{display:block;font-size:clamp(11px,2.6vw,15px);line-height:1.2;overflow-wrap:anywhere}
+.v153-grid small{display:block;font-size:clamp(10px,2.4vw,12px);line-height:1.35;color:#d4e4f4;margin-top:6px}
+.v153-grid i{font-size:22px;font-style:normal;color:#d6e9f8}
+.v153-extra{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;padding:0 15px}
+.v153-extra button{border:1px solid #5489b0;border-radius:11px;background:#082b4e;color:#fff;padding:12px 8px;font-weight:700;font-size:12px}
+.v153-footer{text-align:center;padding:20px 16px 12px;color:#d7e7f6}
+.v153-footer strong{font-size:12px;letter-spacing:2px}.v153-footer p{font-size:11px;line-height:1.45;margin:17px 0 7px}
+.v153-footer button{background:#14834c;color:white;border:0;border-radius:10px;padding:12px 18px;font-weight:800;margin:9px 0 12px}
+.v153-footer small{display:block;font-size:10px;color:#a9c3d7}
+.v153 button:focus-visible{outline:3px solid #ffdb72;outline-offset:2px}
+@media(min-width:650px){.v153-grid{max-width:650px;margin:auto;gap:16px}.v153-grid button{min-height:115px;padding:18px}.v153-grid b{font-size:18px}.v153-grid small{font-size:14px}.v153-extra{max-width:650px;margin:auto}.v153-hero{padding:24px 12px 30px}.v153-logo{width:115px;height:115px}}
+@media(max-width:350px){.v153-grid{gap:7px;padding:12px 8px}.v153-grid button{padding:9px 7px;gap:5px}.v153-symbol{flex-basis:22px;font-size:25px}.v153-grid i{font-size:16px}}
