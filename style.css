@@ -270,3 +270,8 @@ main{max-width:980px;padding:0 0 28px}
 .v153-hero{background:linear-gradient(180deg,rgba(3,18,38,.34) 0%,rgba(3,18,38,.42) 42%,rgba(3,18,38,.79) 75%,#061c34 100%),url('leipzig-sonnenuntergang.jpg') center 58% / cover no-repeat;}
 .v153-hero:before{background:linear-gradient(180deg,rgba(1,12,27,.06),rgba(1,12,27,.20) 48%,#061c34 100%)}
 @media(max-width:560px){.v153-hero{background-position:66% center;}}
+
+/* 1.5.7 – eindeutige, einheitliche SVG-Menüsymbole und Fotocredit */
+.v153-symbol svg{display:block;width:26px;height:26px;margin:auto;stroke:currentColor}
+.v153-footer .photo-credit{margin-top:5px;font-size:10px;color:#a9c3d7}
+@media(max-width:365px){.v153-symbol svg{width:21px;height:21px}}
