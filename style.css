@@ -265,3 +265,8 @@ main{max-width:980px;padding:0 0 28px}
 .v153-hero h1,.v153-hero p,.v153-hero small{position:relative;text-shadow:0 2px 9px #001020,0 1px 3px #001020}
 .v153-grid{background:linear-gradient(180deg,#061c34,#05192f)}
 @media(max-width:560px){.v153-hero{min-height:225px;padding:15px 12px 21px;background-position:center 54%}}
+
+/* 1.5.6 – Originalfoto Leipzig/Halle, nur Startseiten-Hintergrund */
+.v153-hero{background:linear-gradient(180deg,rgba(3,18,38,.34) 0%,rgba(3,18,38,.42) 42%,rgba(3,18,38,.79) 75%,#061c34 100%),url('leipzig-sonnenuntergang.jpg') center 58% / cover no-repeat;}
+.v153-hero:before{background:linear-gradient(180deg,rgba(1,12,27,.06),rgba(1,12,27,.20) 48%,#061c34 100%)}
+@media(max-width:560px){.v153-hero{background-position:66% center;}}
