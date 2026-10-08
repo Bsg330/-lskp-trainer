@@ -256,3 +256,12 @@ main{max-width:980px;padding:0 0 28px}
 @media(max-width:430px){.v153-grid{gap:9px;padding-left:11px;padding-right:11px}.v153-grid button{grid-template-columns:25px minmax(0,1fr) 10px;gap:6px;padding:11px 8px;min-height:93px}.v153-symbol{width:25px;font-size:25px}.v153-grid i{font-size:18px}.v153-grid b{font-size:clamp(10px,2.58vw,12px)}.v153-grid small{font-size:clamp(9.5px,2.45vw,11px)}.v153-extra{padding-left:11px;padding-right:11px}}
 @media(max-width:365px){.v153-grid{gap:7px}.v153-grid button{grid-template-columns:21px minmax(0,1fr) 8px;gap:5px;padding:9px 6px}.v153-symbol{width:21px;font-size:21px}.v153-grid b{font-size:10px;letter-spacing:-.35px}.v153-grid small{font-size:9.5px}}
 @media(min-width:650px){.v153-grid button{grid-template-columns:36px minmax(0,1fr) 18px;padding:18px}.v153-grid b{font-size:17px}.v153-grid small{font-size:14px}.v153-symbol{width:36px;font-size:31px}}
+
+/* 1.5.5 – eigenstaendige Flughafen-Illustration, nur visuelles Update */
+.v153-hero{background:linear-gradient(180deg,rgba(3,20,40,.18) 0%,rgba(3,20,40,.47) 52%,#061c34 100%),url('airport-evening.svg') center 53% / cover no-repeat;min-height:245px}
+.v153-hero:before{background:linear-gradient(180deg,rgba(2,16,33,.12),rgba(2,16,33,.60) 75%,#061c34)}
+.v153-skyline{display:none}
+.v153-logo{position:relative;box-shadow:0 6px 24px #000b}
+.v153-hero h1,.v153-hero p,.v153-hero small{position:relative;text-shadow:0 2px 9px #001020,0 1px 3px #001020}
+.v153-grid{background:linear-gradient(180deg,#061c34,#05192f)}
+@media(max-width:560px){.v153-hero{min-height:225px;padding:15px 12px 21px;background-position:center 54%}}
