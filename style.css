@@ -362,3 +362,11 @@ button,a,.lesson-tab{touch-action:manipulation}
  .v153-grid button{min-height:102px;padding:9px 6px}
  .v153-grid{gap:7px;padding-left:7px;padding-right:7px}
 }
+
+/* Freischaltseite: kontrastreiche Darstellung auf Telefon und Tablet */
+.accessgate .accessbox{color:#243d53!important}
+.accessgate .accessbox>p:not(.gatesub):not(.request-hint){color:#304b62!important}
+.accessgate .accessbox .codeinput{background:#fff!important;color:#183b58!important;-webkit-text-fill-color:#183b58!important}
+.accessgate .accessbox .access-activate{display:block!important;width:100%;min-height:54px;box-sizing:border-box;margin:12px 0 15px;padding:14px 12px;background:#0d568a!important;border:2px solid #0d568a!important;border-radius:12px;color:#fff!important;-webkit-text-fill-color:#fff!important;font-size:16px;font-weight:800;letter-spacing:.3px;opacity:1!important;visibility:visible!important;cursor:pointer}
+.accessgate .accessbox .access-activate.has-code{background:#13854e!important;border-color:#13854e!important;color:#fff!important;-webkit-text-fill-color:#fff!important}
+.accessgate .accessbox .access-activate:focus-visible{outline:3px solid #f0bc3c;outline-offset:3px}
