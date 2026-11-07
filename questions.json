@@ -4896,5 +4896,215 @@
     "correct": 0,
     "explanation": "Bei Rechtsgrundlagen kommt es auf die aktuell geltende Fassung an.",
     "legal": "Rechtsgrundlagen je nach Anwendungsfall prüfen: VO (EG) 300/2008; DVO (EU) 2015/1998 in geltender Fassung; LuftSiG"
+  },
+  {
+    "id": "waffg-001",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Was beschreibt „Führen“ im Sinne des Waffengesetzes grundsätzlich?",
+    "answers": [
+      "Die tatsächliche Gewalt über eine Waffe außerhalb der eigenen Wohnung, Geschäftsräume oder des befriedeten Besitztums ausüben",
+      "Jede Aufbewahrung im eigenen abgeschlossenen Schrank",
+      "Nur den Verkauf einer Waffe",
+      "Ausschließlich das Schießen auf einem Schießstand"
+    ],
+    "correct": 0,
+    "explanation": "Führen ist von Erwerb, Besitz und Transport abzugrenzen.",
+    "legal": "WaffG Anlage 1 Abschnitt 2"
+  },
+  {
+    "id": "waffg-002",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Welche Aussage zur Waffenbesitzkarte ist richtig?",
+    "answers": [
+      "Sie erlaubt immer das Führen in der Öffentlichkeit",
+      "Sie berechtigt im Rahmen ihres Inhalts zum Erwerb und Besitz, nicht automatisch zum Führen",
+      "Sie ersetzt den Kleinen Waffenschein",
+      "Sie ist für jedes Taschenmesser nötig"
+    ],
+    "correct": 1,
+    "explanation": "Besitzberechtigung ist keine allgemeine Führerlaubnis.",
+    "legal": "WaffG §§ 10, 12"
+  },
+  {
+    "id": "waffg-003",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Wozu berechtigt der Kleine Waffenschein grundsätzlich?",
+    "answers": [
+      "Zum Führen jeder scharfen Schusswaffe",
+      "Zum Führen von Schreckschuss-, Reizstoff- und Signalwaffen mit PTB-Zeichen im Kreis, vorbehaltlich weiterer Verbote",
+      "Zum Führen aller verbotenen Waffen",
+      "Zum Schießen überall im Freien"
+    ],
+    "correct": 1,
+    "explanation": "Weitere Verbote und Anforderungen bleiben bestehen.",
+    "legal": "WaffG § 10 Abs. 4, § 42"
+  },
+  {
+    "id": "waffg-004",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Welches Kennzeichen ist typisch für bestimmte erlaubnisfrei erwerbbare Druckluftwaffen?",
+    "answers": [
+      "PTB im Kreis",
+      "F im Fünfeck",
+      "CE allein",
+      "BKA-Raute"
+    ],
+    "correct": 1,
+    "explanation": "Das F im Fünfeck kennzeichnet bestimmte freie Druckluft-, Federdruck- und CO₂-Waffen; das Führen ist davon zu unterscheiden.",
+    "legal": "WaffG Anlage 2"
+  },
+  {
+    "id": "waffg-005",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Welches Zeichen findet sich bei zugelassenen Schreckschuss-, Reizstoff- und Signalwaffen?",
+    "answers": [
+      "PTB im Kreis",
+      "F im Fünfeck",
+      "TÜV-Siegel",
+      "PTB E im Trapez"
+    ],
+    "correct": 0,
+    "explanation": "Das PTB-Zeichen im Kreis ist für diese Waffenart relevant.",
+    "legal": "WaffG Anlage 2"
+  },
+  {
+    "id": "waffg-006",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Welche Aussage zu § 40 WaffG trifft zu?",
+    "answers": [
+      "Er regelt ausschließlich das Parken vor Flughäfen",
+      "Er betrifft den Umgang mit verbotenen Waffen und mögliche Ausnahmen",
+      "Er ersetzt die Luftsicherheitskontrolle",
+      "Er erlaubt alle Messer"
+    ],
+    "correct": 1,
+    "explanation": "§ 40 regelt verbotene Waffen und gesetzlich vorgesehene Ausnahmen.",
+    "legal": "WaffG § 40"
+  },
+  {
+    "id": "waffg-007",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Was gilt grundsätzlich für Hieb- und Stoßwaffen nach § 42a WaffG?",
+    "answers": [
+      "Das Führen ist grundsätzlich untersagt, soweit keine gesetzliche Ausnahme greift",
+      "Sie dürfen ausnahmslos überall geführt werden",
+      "Sie sind immer nur Dekoration",
+      "Sie sind vom WaffG ausgenommen"
+    ],
+    "correct": 0,
+    "explanation": "§ 42a enthält ein Führverbot mit Ausnahmeregelungen.",
+    "legal": "WaffG § 42a"
+  },
+  {
+    "id": "waffg-008",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Was ist bei einem feststehenden Messer mit mehr als 12 cm Klingenlänge nach § 42a wichtig?",
+    "answers": [
+      "Es darf grundsätzlich ohne Einschränkungen geführt werden",
+      "Für das Führen gilt grundsätzlich ein Verbot, Ausnahmen sind zu prüfen",
+      "Nur die Farbe des Griffes ist entscheidend",
+      "Es ist stets eine Schusswaffe"
+    ],
+    "correct": 1,
+    "explanation": "Das Führverbot und die gesetzlich vorgesehenen Ausnahmen sind getrennt zu prüfen.",
+    "legal": "WaffG § 42a"
+  },
+  {
+    "id": "waffg-009",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Was gilt grundsätzlich für ein einhändig feststellbares Messer nach § 42a?",
+    "answers": [
+      "Es fällt grundsätzlich unter das Führverbot, soweit keine Ausnahme greift",
+      "Es ist automatisch eine Schusswaffe",
+      "Es darf ausnahmslos überall geführt werden",
+      "Es benötigt eine Waffenbesitzkarte zum bloßen Erwerb"
+    ],
+    "correct": 0,
+    "explanation": "Einhandöffnung und Feststellbarkeit sind für die Einordnung relevant.",
+    "legal": "WaffG § 42a"
+  },
+  {
+    "id": "waffg-010",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Welche Aussage ist bei einem Schlagring richtig?",
+    "answers": [
+      "Er ist grundsätzlich eine verbotene Waffe",
+      "Er ist immer ein harmloses Sportgerät",
+      "Er ist eine PTB-Schreckschusswaffe",
+      "Er fällt nur unter das Straßenverkehrsrecht"
+    ],
+    "correct": 0,
+    "explanation": "Schlagringe gehören zu den verbotenen Waffen.",
+    "legal": "WaffG Anlage 2 Abschnitt 1"
+  },
+  {
+    "id": "waffg-011",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Welche Aussage zu Waffenverbotszonen ist zutreffend?",
+    "answers": [
+      "Dort können zusätzliche örtliche Verbote gelten",
+      "Dort gelten nie Waffenregeln",
+      "Dort darf jede Waffe mitgenommen werden",
+      "Sie betreffen ausschließlich Flughäfen"
+    ],
+    "correct": 0,
+    "explanation": "Zusätzliche örtliche Regelungen und Ausnahmen sind zu beachten.",
+    "legal": "WaffG § 42, § 42a"
+  },
+  {
+    "id": "waffg-012",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Wie ist ein pyrotechnischer Gegenstand rechtlich einzuordnen?",
+    "answers": [
+      "Immer ausschließlich als Schusswaffe",
+      "Je nach Art und Zweck insbesondere nach Sprengstoffrecht; zusätzliche Regeln können greifen",
+      "Immer als Hiebwaffe",
+      "Grundsätzlich ohne jede Vorschrift"
+    ],
+    "correct": 1,
+    "explanation": "Pyrotechnik ist nicht pauschal als Waffe nach dem WaffG einzuordnen.",
+    "legal": "SprengG; ggf. WaffG"
+  },
+  {
+    "id": "waffg-013",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Eine Person zeigt eine Waffenbesitzkarte. Ist damit das Führen einer Schusswaffe im öffentlichen Raum automatisch erlaubt?",
+    "answers": [
+      "Ja, immer",
+      "Nein, dafür ist grundsätzlich eine gesonderte Führerlaubnis erforderlich, sofern keine Ausnahme greift",
+      "Nur an Sonntagen",
+      "Nur in Bahnhöfen"
+    ],
+    "correct": 1,
+    "explanation": "Die Waffenbesitzkarte allein ist kein Waffenschein.",
+    "legal": "WaffG §§ 10, 12"
+  },
+  {
+    "id": "waffg-014",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Darf ein Gegenstand, der nach dem WaffG legal besessen werden darf, automatisch in einen luftseitigen Sicherheitsbereich mitgenommen werden?",
+    "answers": [
+      "Ja, Besitzrecht reicht aus",
+      "Nein, die luftverkehrsrechtlichen Verbote und Zugangsregeln sind zusätzlich zu prüfen",
+      "Ja, wenn er klein ist",
+      "Ja, mit einem beliebigen Ausweis"
+    ],
+    "correct": 1,
+    "explanation": "Waffenrechtliche Erlaubnis und Luftsicherheitsrecht sind getrennt zu prüfen.",
+    "legal": "DVO (EU) 2015/1998, Anlagen 1-A / 4-C"
+  },
+  {
+    "id": "waffg-015",
+    "module": "Waffengesetz & Kennzeichen",
+    "question": "Was ist beim Auffinden eines möglicherweise verbotenen Gegenstands im Kontrolldienst wichtig?",
+    "answers": [
+      "Eigenmächtig eine rechtliche Ausnahme erfinden",
+      "Gemäß gültiger Dienstanweisung sichern, melden und zuständige Stellen einbeziehen",
+      "Immer ohne Prüfung freigeben",
+      "Das Ereignis nicht dokumentieren"
+    ],
+    "correct": 1,
+    "explanation": "Maßgeblich sind die gültigen Verfahren und Zuständigkeiten.",
+    "legal": "Örtliche Dienstanweisung; LuftSiG"
   }
 ]
