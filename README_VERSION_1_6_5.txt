@@ -1,5 +1,10 @@
-LSKP Trainer 1.6.5 – Zwischenstand Handout-Abgleich
-Basis: 1.6.4 mit Praxis-Simulator. Bestehende Lernapp, Fragen, Zugangscodes, Speicherstände und Simulator unverändert.
-Neu: separater, per Button erreichbarer Handout-Abgleich mit Textauszügen aus 5 DOCX-Dateien. Keine Übernahme in die Prüfung; keine Rechtsprüfung erfolgt. 2 DOC-Altdateien und 108 Bilder noch nicht inhaltlich eingepflegt.
-WICHTIG: Schulungsunterlagen nur intern verwenden, sofern Weitergabe zulässig. Keine behördlich freigegebene Schulung.
-Installation: ZIP entpacken, alle Dateien gemeinsam auf HTTPS-Webspace hochladen; bestehenden Stand vorher sichern.
+LSKP-Trainer 1.6.5 – Aktualisierungsfix
+
+Alle Dateien aus dieser ZIP in das GitHub-Repository in das gleiche Verzeichnis wie index.html hochladen und bestehende Dateien ersetzen. GitHub Pages-Veröffentlichung abwarten. Danach App aktualisieren.
+
+Behoben: Versionstexte, Versionserkennung, Service-Worker-Cache, Aktualisierungsbutton mit Fehlermeldung.
+Unverändert: 353 vorhandene Fragen, Lernmodule, Praxis-Simulator, vier Testcodes plus Admincode und lokal gespeicherte Ergebnisse.
+
+WICHTIG: Fachliche Erweiterungen aus Schulungsunterlagen sind in diesem Fix noch NICHT enthalten, da deren Inhalte noch nicht vollständig abgeglichen wurden. Keine zusätzlichen Seiten und keine Herkunftsangaben.
+
+Hinweis: GitHub Pages mit rein clientseitigen Codes ist kein belastbarer Schutz für vertrauliche Inhalte.
