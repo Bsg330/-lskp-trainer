@@ -376,3 +376,6 @@ button,a,.lesson-tab{touch-action:manipulation}
 .module-entry span:first-child{display:flex;flex-direction:column;gap:5px}
 .module-entry small{display:block;white-space:normal}
 .module-entry span:last-child{font-size:28px;flex-shrink:0}
+
+/* 1.6.6 Technik-Anhang */
+.tech-figure{display:block;width:100%;height:auto;border-radius:10px;border:1px solid #cad6df;margin:12px 0 22px}.tech-glossary dt{font-weight:800;color:#123f67;margin-top:13px}.tech-glossary dd{margin:4px 0 9px 0;line-height:1.5}.tech-glossary{margin:10px 0 24px}

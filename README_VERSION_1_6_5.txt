@@ -4,5 +4,3 @@ Neu: Registerkarte 'Lernziele' mit fachlichen Lernzielen zu 11.2.3.1, 11.2.3.3 u
 Kein Verweis auf Herkunftsunterlagen in der App.
 Abgleichsstatus: TEILWEISE. Die Bilddateien des umfangreichen Archivs sind nicht vollständig textlich geprüft. Bestehende 353 Fragen sind nicht einzeln fachlich verifiziert. Keine Aussage über vollständige inhaltliche Identität.
 Vor Veröffentlichung: Rechtliche, fachliche und Bildrechteprüfung.
-
-Update-Button: prueft online die auf dem Server veroeffentlichte Version. ZIP muss vorher auf dem Hosting bereitgestellt werden. Keine automatische ZIP-Installation.
