@@ -28,8 +28,8 @@ function expired(){R(`<section class="accessgate"><div class="accessbox"><img cl
 fetch("questions.json").then(r=>r.json()).then(q=>{Q=q;ensureAccess()});
 function R(h){$("#app").innerHTML=h;scrollTo(0,0)} function B(){return'<button class="back" onclick="home()">← Start</button>'}
 function showWelcome(){
-  if(sessionStorage.getItem("lskpWelcome169")==="1"){home();return}
-  sessionStorage.setItem("lskpWelcome169","1");
+  if(sessionStorage.getItem("lskpWelcome1610")==="1"){home();return}
+  sessionStorage.setItem("lskpWelcome1610","1");
   R(`<section class="welcome168" role="status" aria-label="Willkommen beim LSKP-Trainer"><img src="academy-logo.png" alt="Airport Security Academy – LSKP"><h1>LSKP TRAINER</h1><p class="welcome-motto">LERNEN. ÜBEN. SICHER ANWENDEN.</p><div class="welcome-message">Viel Erfolg beim Lernen und bei Ihrer Prüfung!</div><p>Ihr <strong>Sven Willumeit</strong></p><small>22 Jahre Erfahrung in der Luftsicherheit</small><div class="welcome-progress" aria-hidden="true"><span></span></div></section>`);
   setTimeout(()=>{if(document.querySelector(".welcome168"))home()},5000);
 }
