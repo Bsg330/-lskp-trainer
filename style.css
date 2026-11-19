@@ -384,3 +384,15 @@ button,a,.lesson-tab{touch-action:manipulation}
 .tech-glossary dt{color:#ffffff!important}
 .tech-glossary dd{color:#eef5ff!important}
 .tech-glossary{color:#eef5ff}
+
+/* Version 1.6.8: Begrüßung und Premium-Finish */
+.welcome168{min-height:100dvh;box-sizing:border-box;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;padding:38px 25px;text-align:center;color:#f4f9ff;background:radial-gradient(ellipse at 50% 26%,#164d79 0%,#082b4d 42%,#031426 100%)}
+.welcome168 img{width:min(72vw,310px);height:auto;max-height:38vh;object-fit:contain;filter:drop-shadow(0 12px 28px #0008)}
+.welcome168 h1{font-size:clamp(25px,7vw,38px);letter-spacing:.15em;margin:5px 0 0;color:#fff}
+.welcome168 .welcome-motto{font-size:clamp(11px,3vw,15px);letter-spacing:.17em;color:#c4e4ff;font-weight:700}
+.welcome168 .welcome-message{font-size:clamp(20px,5vw,27px);line-height:1.4;font-weight:650;max-width:500px;margin:16px 0 4px}
+.welcome168 p{margin:0}.welcome168 small{color:#bdd0e1;font-size:13px}
+.welcome-progress{width:min(70vw,300px);height:3px;border-radius:3px;background:#ffffff33;overflow:hidden;margin-top:20px}
+.welcome-progress span{display:block;height:100%;width:0;background:#9ad5ff;animation:welcomeLoad168 5s linear forwards}
+@keyframes welcomeLoad168{to{width:100%}}
+@media(prefers-reduced-motion:reduce){.welcome-progress span{animation:none;width:100%}}
