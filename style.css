@@ -419,3 +419,6 @@ button,a,.lesson-tab{touch-action:manipulation}
 .welcome168 small{font-size:clamp(12px,3vw,15px)}
 .welcome-progress{width:min(80vw,390px);height:7px;margin-top:clamp(10px,3vh,30px);box-shadow:0 0 20px #238bff66}
 @media(max-height:700px){.welcome168{gap:8px;padding-top:12px;padding-bottom:12px}.welcome168 img{max-height:29dvh}.welcome168 .welcome-message{margin:5px 0}.welcome-progress{margin-top:8px}}
+
+/* 1.6.11: vollständiges Academy-Logo mit sicherem Abstand */
+.welcome168 img{width:min(70vw,285px);max-height:32dvh;object-fit:contain;flex-shrink:1;}

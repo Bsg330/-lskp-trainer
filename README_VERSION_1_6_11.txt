@@ -1,0 +1,1 @@
+LSKP Trainer 1.6.11: vollständiges Logo aus der Originalvorlage mit transparentem Hintergrund, kleinere Anzeige, Versions-/Cache-Kennung aktualisiert. Alle anderen Funktionen unverändert. Vor Installation bestehende Lernstände sichern.
